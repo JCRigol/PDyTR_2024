@@ -63,8 +63,6 @@ int main(int argc, char *argv[])
     char buffer[buff_size];
     memset(buffer, 'A', buff_size);
 
-    printf("%d loop, mssg:\n%s\n", potencia, buffer);
-
     // ---- INICIO COMUNICACION ----
 
     // ENVÍA UN MENSAJE AL SOCKET

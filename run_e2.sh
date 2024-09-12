@@ -33,7 +33,6 @@ server_param="1234"
 # Fixed client parameters, e.g., client connecting to 127.0.0.1 on port 1234
 client_param1="127.0.0.1"
 client_param2="1234"
-client_param3="1"
 
 # Run the server in the background and redirect its output to a file
 ./server "$server_param" > $server_output 2>&1 &
@@ -42,8 +41,17 @@ server_pid=$!
 # Give the server some time to start
 sleep 1
 
-# Run the client and redirect its output to a file
-./client "$client_param1" "$client_param2" "$client_param3" > $client_output 2>&1
+for i in {1..6}
+do
+  echo -e "\n==== Client $i ====" >> $client_output
+  client_param3=$i  # Increment client parameter (argv[3])
+
+  # Run the client and append the result to the output file
+  ./client "$client_param1" "$client_param2" "$client_param3" >> $client_output 2>&1
+
+  # Document which client sent which message
+  echo "Client $i sent: 10^$client_param3 bytes" >> $client_output
+done
 
 echo "Server output saved to $server_output"
 echo "Client output saved to $client_output"
