@@ -62,30 +62,35 @@ int main(int argc, char *argv[])
 
     // SE BLOQUEA A ESPERAR UNA CONEXIÓN
     clilen = sizeof(cli_addr);
-    newsockfd = accept(sockfd, 
-                (struct sockaddr *) &cli_addr, 
-                &clilen);
-                
-    // DEVUELVE UN NUEVO DESCRIPTOR POR EL CUAL SE VAN A REALIZAR LAS COMUNICACIONES
-    if (newsockfd < 0) 
-        error("ERROR on accept");
-    
-    // ---- MENSAJE ----
-    int buff_size = pow(10,6);
-    char buffer[buff_size];
-    bzero(buffer, buff_size);
 
-    // LEE EL MENSAJE DEL CLIENTE
-    n = read(newsockfd, buffer, buff_size);
-    if (n < 0) error("ERROR reading from socket");
-    printf("Here is the message: %s\n", buffer);
-    
-    // RESPONDE AL CLIENTE
-    n = write(newsockfd, "I got your message", 18);
-    if (n < 0) error("ERROR writing to socket");
+    // ---- CONNECTION LOOP ----
+    for (int i = 1; i < 7; i++) {
+        newsockfd = accept(sockfd, 
+                    (struct sockaddr *) &cli_addr, 
+                    &clilen);
+                    
+        // DEVUELVE UN NUEVO DESCRIPTOR POR EL CUAL SE VAN A REALIZAR LAS COMUNICACIONES
+        if (newsockfd < 0) 
+            error("ERROR on accept");
+        
+        // ---- MENSAJE ----
+        int buff_size = pow(10,i);
+        char buffer[buff_size];
+        bzero(buffer, buff_size);
 
-    // CIERRA LOS SOCKETS
-    close(newsockfd);
+        // LEE EL MENSAJE DEL CLIENTE
+        n = read(newsockfd, buffer, buff_size);
+        if (n < 0) error("ERROR reading from socket");
+        printf("Here is the message: %s\n", buffer);
+        
+        // RESPONDE AL CLIENTE
+        n = write(newsockfd, "I got your message", 18);
+        if (n < 0) error("ERROR writing to socket");
+
+        // CIERRA LOS SOCKETS
+        close(newsockfd);
+    }
+    
     close(sockfd);
 
     return 0; 
