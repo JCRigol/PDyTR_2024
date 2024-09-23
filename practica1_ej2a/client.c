@@ -62,6 +62,7 @@ int main(int argc, char *argv[])
     int buff_size = pow(10,potencia);
     char buffer[buff_size];
     memset(buffer, 'A', buff_size);
+    buffer[buff_size - 1] = '\0';  // Null-terminate the buffer for printf
 
     // ---- INICIO COMUNICACION ----
 
@@ -77,10 +78,10 @@ int main(int argc, char *argv[])
     if (n < 0) 
             error("ERROR reading from socket");
 
-    printf("%s\n", buffer);
-
     // ---- CIERRE COMUNICACION ----
 
+    printf("%s\n", buffer);
+    
     // CIERRA EL SOCKET
     close(sockfd);
 

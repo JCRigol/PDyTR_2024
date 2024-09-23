@@ -1,6 +1,6 @@
 
 ==== Client 1 ====
-I got your×šŸ_
+I got your!&Y
 Client 1 sent: 10^1 bytes
 
 ==== Client 2 ====

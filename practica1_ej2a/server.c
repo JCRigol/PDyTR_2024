@@ -78,11 +78,16 @@ int main(int argc, char *argv[])
         char buffer[buff_size];
         bzero(buffer, buff_size);
 
-        // LEE EL MENSAJE DEL CLIENTE
+        sleep(10);
+
+        // LEE EL MENSAJE DEL CLIENTES
         n = read(newsockfd, buffer, buff_size);
         if (n < 0) error("ERROR reading from socket");
-        printf("Here is the message: %s\n", buffer);
+        printf("Read %d bytes of buffer from fd\n",n);
+        //printf("Read %d bytes, here is the message: %s\n",n,buffer);
         
+
+
         // RESPONDE AL CLIENTE
         n = write(newsockfd, "I got your message", 18);
         if (n < 0) error("ERROR writing to socket");
