@@ -81,8 +81,9 @@ int main(int argc, char *argv[])
         cp_buff_size = comm_size;
     }
     char first_comm[fc_buff_size + 4]; //4 bytes of checksum
-    memset(first_comm, 'A', fc_buff_size);
     memcpy(first_comm + 4, buffer, cp_buff_size);
+
+    // NEED TO REFLECT OPERATION ON BUFFER, TRUNCATE? DELETE? SOMETHING. SNAKE EATER.
 
     first_comm[0] = (nr_of_comms & 0xFF);             // Low byte of nr_of_comms
     first_comm[1] = (nr_of_comms >> 8) & 0xFF;       // High byte of nr_of_comms
@@ -100,46 +101,49 @@ int main(int argc, char *argv[])
 
     // ---- FIRST COMMUNICATION ----
 
-    if nrofcomms == 1 {
-        write read
-    } else {
-        forloop {
-            make message - nrofcomms and commsize
-            write read
-        }
-    }
-
-    // ENVÍA UN MENSAJE AL SOCKET
-    n = write(sockfd, first_comm, strlen(first_comm));
-    if (n < 0) 
-            error("ERROR writing to socket");
-
-    // ESPERA RECIBIR UNA RESPUESTA
-    n = read(sockfd, first_comm, fc_buff_size + 4);
-    if (n < 0) 
-            error("ERROR reading from socket");
-
-    // ---- CIERRE COMUNICACION ----
-    printf("%s\n", first_comm);
-
-
-    // ---- INICIO COMM LOOP ----
-    for (int i = 0; i < nr_of_comms - 1; i++) {
-
+    if (nr_of_comms == 1) {
         // ENVÍA UN MENSAJE AL SOCKET
-        n = write(sockfd, buffer, strlen(buffer));
+        n = write(sockfd, first_comm, strlen(first_comm));
         if (n < 0) 
                 error("ERROR writing to socket");
 
-        bzero(buffer, buff_size);
-
         // ESPERA RECIBIR UNA RESPUESTA
-        n = read(sockfd, buffer, buff_size);
+        n = read(sockfd, first_comm, fc_buff_size + 4);
         if (n < 0) 
                 error("ERROR reading from socket");
 
         // ---- CIERRE COMUNICACION ----
-        printf("%s\n", buffer);
+        printf("%s\n", first_comm);
+
+    } else {
+        char checked_buffer[comm_size + 4];
+        
+        for (int i = 0; i < nr_of_comms - 1; i++) {
+            if (i == (nr_of_comms - 1)) {
+                memcpy(checked_buffer, buffer, buff_size); //buff size should just be the remaining last x bytes < 32737 in buffer. Fill remainder space with \0.
+                memcpy(checked_buffer + buff_size, '\0', comm_size - buff_size);
+            } else {
+                memcpy(checked_buffer, buffer, comm_size); //shorten buffsize by comm size, delete from front of buffer by comm size, readjust.
+            }
+            
+            checksum = crc32(0L, (const unsigned char *)checked_buffer, comm_size);
+            checked_buffer[comm_size - 5] = checksum; // probably insert it by byte like sizes? but they are bugged so who knows
+            
+            // ENVÍA UN MENSAJE AL SOCKET
+            n = write(sockfd, checked_buffer, strlen(checked_buffer));
+            if (n < 0) 
+                error("ERROR writing to socket");
+
+            bzero(checked_buffer, comm_size + 4);
+
+            // ESPERA RECIBIR UNA RESPUESTA
+            n = read(sockfd, checked_buffer, comm_size + 4);
+            if (n < 0) 
+                error("ERROR reading from socket");
+
+            // ---- CIERRE COMUNICACION ----
+            printf("%s\n", checked_buffer);
+        }
     }
 
     // CIERRA EL SOCKET

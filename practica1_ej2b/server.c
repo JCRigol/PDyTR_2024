@@ -78,7 +78,22 @@ int main(int argc, char *argv[])
         char buffer[buff_size];
         bzero(buffer, buff_size);
 
-        // LEE EL MENSAJE DEL CLIENTES
+        read comms
+        extract nr_of_comms, comm_size
+        verify checksum
+        write ack
+
+        if (nr_of_comms > 1)
+            while (1)
+            {
+                read comms
+                verify checksum
+                write ack
+            }
+        else
+            close comms
+            
+        // LEE EL MENSAJE DEL CLIENTE
         n = read(newsockfd, buffer, buff_size);
         if (n < 0) error("ERROR reading from socket");
         printf("Read %d bytes of buffer from fd\n",n);
