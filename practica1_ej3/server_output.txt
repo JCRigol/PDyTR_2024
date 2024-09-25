@@ -1,0 +1,4356 @@
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 10
+Bytes received so far: 10 in 1 inside read loops
+Bytes received so far: 10 in 1 inside read loops, 1 outside ones
+Checksum received: 1180017097
+Checksum calculated: 1180017097
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 100
+Bytes received so far: 100 in 1 inside read loops
+Bytes received so far: 100 in 1 inside read loops, 1 outside ones
+Checksum received: 2488061323
+Checksum calculated: 2488061323
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 1000
+Bytes received so far: 1000 in 1 inside read loops
+Bytes received so far: 1000 in 1 inside read loops, 1 outside ones
+Checksum received: 1350262535
+Checksum calculated: 1350262535
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 10000
+Bytes received so far: 10000 in 1 inside read loops
+Bytes received so far: 10000 in 1 inside read loops, 1 outside ones
+Checksum received: 1033419243
+Checksum calculated: 1033419243
+Bytes to recieve: 100000
+Bytes received so far: 32768 in 1 inside read loops
+Bytes received so far: 65536 in 2 inside read loops
+Bytes received so far: 98304 in 3 inside read loops
+Bytes received so far: 100000 in 4 inside read loops
+Bytes received so far: 100000 in 4 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 100000 in 1 inside read loops
+Bytes received so far: 100000 in 1 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 100000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 100000 in 2 inside read loops
+Bytes received so far: 100000 in 2 inside read loops, 1 outside ones
+Checksum received: 72478417
+Checksum calculated: 72478417
+Bytes to recieve: 1000000
+Bytes received so far: 65536 in 1 inside read loops
+Bytes received so far: 491520 in 2 inside read loops
+Bytes received so far: 557003 in 3 inside read loops
+Bytes received so far: 622486 in 4 inside read loops
+Bytes received so far: 687969 in 5 inside read loops
+Bytes received so far: 753452 in 6 inside read loops
+Bytes received so far: 818935 in 7 inside read loops
+Bytes received so far: 884418 in 8 inside read loops
+Bytes received so far: 949901 in 9 inside read loops
+Bytes received so far: 1000000 in 10 inside read loops
+Bytes received so far: 1000000 in 10 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 589347 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 1000000 in 1 inside read loops
+Bytes received so far: 1000000 in 1 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 196449 in 1 inside read loops
+Bytes received so far: 261932 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 523864 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 654830 in 8 inside read loops
+Bytes received so far: 720313 in 9 inside read loops
+Bytes received so far: 785796 in 10 inside read loops
+Bytes received so far: 851279 in 11 inside read loops
+Bytes received so far: 916762 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 523864 in 5 inside read loops
+Bytes received so far: 589347 in 6 inside read loops
+Bytes received so far: 654830 in 7 inside read loops
+Bytes received so far: 720313 in 8 inside read loops
+Bytes received so far: 785796 in 9 inside read loops
+Bytes received so far: 851279 in 10 inside read loops
+Bytes received so far: 916762 in 11 inside read loops
+Bytes received so far: 982245 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 261932 in 3 inside read loops
+Bytes received so far: 327415 in 4 inside read loops
+Bytes received so far: 392898 in 5 inside read loops
+Bytes received so far: 458381 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 654830 in 8 inside read loops
+Bytes received so far: 720313 in 9 inside read loops
+Bytes received so far: 851279 in 10 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 130966 in 1 inside read loops
+Bytes received so far: 261932 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 523864 in 6 inside read loops
+Bytes received so far: 654830 in 7 inside read loops
+Bytes received so far: 720313 in 8 inside read loops
+Bytes received so far: 785796 in 9 inside read loops
+Bytes received so far: 916762 in 10 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 261932 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 523864 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 654830 in 8 inside read loops
+Bytes received so far: 720313 in 9 inside read loops
+Bytes received so far: 785796 in 10 inside read loops
+Bytes received so far: 851279 in 11 inside read loops
+Bytes received so far: 916762 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 982245 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 916762 in 11 inside read loops
+Bytes received so far: 982245 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 327415 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 523864 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 654830 in 8 inside read loops
+Bytes received so far: 720313 in 9 inside read loops
+Bytes received so far: 785796 in 10 inside read loops
+Bytes received so far: 851279 in 11 inside read loops
+Bytes received so far: 916762 in 12 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops
+Bytes received so far: 1000000 in 13 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 130966 in 1 inside read loops
+Bytes received so far: 261932 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 523864 in 5 inside read loops
+Bytes received so far: 589347 in 6 inside read loops
+Bytes received so far: 654830 in 7 inside read loops
+Bytes received so far: 785796 in 8 inside read loops
+Bytes received so far: 851279 in 9 inside read loops
+Bytes received so far: 916762 in 10 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 196449 in 1 inside read loops
+Bytes received so far: 327415 in 2 inside read loops
+Bytes received so far: 458381 in 3 inside read loops
+Bytes received so far: 523864 in 4 inside read loops
+Bytes received so far: 589347 in 5 inside read loops
+Bytes received so far: 654830 in 6 inside read loops
+Bytes received so far: 720313 in 7 inside read loops
+Bytes received so far: 851279 in 8 inside read loops
+Bytes received so far: 1000000 in 9 inside read loops
+Bytes received so far: 1000000 in 9 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 196449 in 1 inside read loops
+Bytes received so far: 392898 in 2 inside read loops
+Bytes received so far: 589347 in 3 inside read loops
+Bytes received so far: 654830 in 4 inside read loops
+Bytes received so far: 785796 in 5 inside read loops
+Bytes received so far: 1000000 in 6 inside read loops
+Bytes received so far: 1000000 in 6 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 130966 in 1 inside read loops
+Bytes received so far: 261932 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 589347 in 6 inside read loops
+Bytes received so far: 654830 in 7 inside read loops
+Bytes received so far: 720313 in 8 inside read loops
+Bytes received so far: 785796 in 9 inside read loops
+Bytes received so far: 851279 in 10 inside read loops
+Bytes received so far: 982245 in 11 inside read loops
+Bytes received so far: 1000000 in 12 inside read loops
+Bytes received so far: 1000000 in 12 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 196449 in 1 inside read loops
+Bytes received so far: 327415 in 2 inside read loops
+Bytes received so far: 458381 in 3 inside read loops
+Bytes received so far: 589347 in 4 inside read loops
+Bytes received so far: 654830 in 5 inside read loops
+Bytes received so far: 720313 in 6 inside read loops
+Bytes received so far: 851279 in 7 inside read loops
+Bytes received so far: 1000000 in 8 inside read loops
+Bytes received so far: 1000000 in 8 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 523864 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 654830 in 8 inside read loops
+Bytes received so far: 720313 in 9 inside read loops
+Bytes received so far: 785796 in 10 inside read loops
+Bytes received so far: 851279 in 11 inside read loops
+Bytes received so far: 916762 in 12 inside read loops
+Bytes received so far: 982245 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 654830 in 8 inside read loops
+Bytes received so far: 720313 in 9 inside read loops
+Bytes received so far: 785796 in 10 inside read loops
+Bytes received so far: 851279 in 11 inside read loops
+Bytes received so far: 916762 in 12 inside read loops
+Bytes received so far: 982245 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 392898 in 2 inside read loops
+Bytes received so far: 458381 in 3 inside read loops
+Bytes received so far: 523864 in 4 inside read loops
+Bytes received so far: 589347 in 5 inside read loops
+Bytes received so far: 654830 in 6 inside read loops
+Bytes received so far: 720313 in 7 inside read loops
+Bytes received so far: 785796 in 8 inside read loops
+Bytes received so far: 851279 in 9 inside read loops
+Bytes received so far: 916762 in 10 inside read loops
+Bytes received so far: 982245 in 11 inside read loops
+Bytes received so far: 1000000 in 12 inside read loops
+Bytes received so far: 1000000 in 12 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 261932 in 3 inside read loops
+Bytes received so far: 327415 in 4 inside read loops
+Bytes received so far: 392898 in 5 inside read loops
+Bytes received so far: 458381 in 6 inside read loops
+Bytes received so far: 523864 in 7 inside read loops
+Bytes received so far: 589347 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 392898 in 5 inside read loops
+Bytes received so far: 458381 in 6 inside read loops
+Bytes received so far: 523864 in 7 inside read loops
+Bytes received so far: 589347 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 982245 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 261932 in 1 inside read loops
+Bytes received so far: 523864 in 2 inside read loops
+Bytes received so far: 785796 in 3 inside read loops
+Bytes received so far: 1000000 in 4 inside read loops
+Bytes received so far: 1000000 in 4 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 196449 in 1 inside read loops
+Bytes received so far: 392898 in 2 inside read loops
+Bytes received so far: 523864 in 3 inside read loops
+Bytes received so far: 589347 in 4 inside read loops
+Bytes received so far: 654830 in 5 inside read loops
+Bytes received so far: 851279 in 6 inside read loops
+Bytes received so far: 1000000 in 7 inside read loops
+Bytes received so far: 1000000 in 7 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 196449 in 1 inside read loops
+Bytes received so far: 392898 in 2 inside read loops
+Bytes received so far: 523864 in 3 inside read loops
+Bytes received so far: 589347 in 4 inside read loops
+Bytes received so far: 654830 in 5 inside read loops
+Bytes received so far: 720313 in 6 inside read loops
+Bytes received so far: 851279 in 7 inside read loops
+Bytes received so far: 1000000 in 8 inside read loops
+Bytes received so far: 1000000 in 8 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 327415 in 3 inside read loops
+Bytes received so far: 392898 in 4 inside read loops
+Bytes received so far: 458381 in 5 inside read loops
+Bytes received so far: 523864 in 6 inside read loops
+Bytes received so far: 589347 in 7 inside read loops
+Bytes received so far: 720313 in 8 inside read loops
+Bytes received so far: 785796 in 9 inside read loops
+Bytes received so far: 851279 in 10 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 982245 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 1000000 in 12 inside read loops
+Bytes received so far: 1000000 in 12 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 261932 in 1 inside read loops
+Bytes received so far: 392898 in 2 inside read loops
+Bytes received so far: 458381 in 3 inside read loops
+Bytes received so far: 523864 in 4 inside read loops
+Bytes received so far: 589347 in 5 inside read loops
+Bytes received so far: 654830 in 6 inside read loops
+Bytes received so far: 720313 in 7 inside read loops
+Bytes received so far: 785796 in 8 inside read loops
+Bytes received so far: 851279 in 9 inside read loops
+Bytes received so far: 916762 in 10 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops
+Bytes received so far: 1000000 in 11 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 458381 in 6 inside read loops
+Bytes received so far: 523864 in 7 inside read loops
+Bytes received so far: 589347 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops
+Bytes received so far: 1000000 in 14 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 982245 in 15 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops
+Bytes received so far: 1000000 in 16 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 327415 in 4 inside read loops
+Bytes received so far: 392898 in 5 inside read loops
+Bytes received so far: 458381 in 6 inside read loops
+Bytes received so far: 523864 in 7 inside read loops
+Bytes received so far: 589347 in 8 inside read loops
+Bytes received so far: 654830 in 9 inside read loops
+Bytes received so far: 720313 in 10 inside read loops
+Bytes received so far: 785796 in 11 inside read loops
+Bytes received so far: 851279 in 12 inside read loops
+Bytes received so far: 916762 in 13 inside read loops
+Bytes received so far: 982245 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
+Bytes to recieve: 1000000
+Bytes received so far: 65483 in 1 inside read loops
+Bytes received so far: 130966 in 2 inside read loops
+Bytes received so far: 196449 in 3 inside read loops
+Bytes received so far: 261932 in 4 inside read loops
+Bytes received so far: 327415 in 5 inside read loops
+Bytes received so far: 392898 in 6 inside read loops
+Bytes received so far: 458381 in 7 inside read loops
+Bytes received so far: 523864 in 8 inside read loops
+Bytes received so far: 589347 in 9 inside read loops
+Bytes received so far: 654830 in 10 inside read loops
+Bytes received so far: 720313 in 11 inside read loops
+Bytes received so far: 785796 in 12 inside read loops
+Bytes received so far: 851279 in 13 inside read loops
+Bytes received so far: 916762 in 14 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops
+Bytes received so far: 1000000 in 15 inside read loops, 1 outside ones
+Checksum received: 77663731
+Checksum calculated: 77663731
