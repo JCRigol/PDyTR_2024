@@ -7,6 +7,8 @@
 #include <unistd.h>  // Para read, write y otras funciones de E/S
 #include <stdlib.h>  // Para exit y otras funciones estándar
 #include <math.h>
+#include <zlib.h> // For CRC32
+#include <stdbool.h>
 
 void error(char *msg)
 {
@@ -57,31 +59,62 @@ int main(int argc, char *argv[])
     if (connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0) 
         error("ERROR connecting");
 
-    // ---- MENSAJE A ENVIAR ----
+    // ---- DATA TO SEND ----
     int potencia = atoi(argv[3]);
     int buff_size = pow(10,potencia);
     char buffer[buff_size];
     memset(buffer, 'A', buff_size);
     buffer[buff_size - 1] = '\0';  // Null-terminate the buffer for printf
 
-    // ---- INICIO COMUNICACION ----
+    // ---- UTILITIES ----
+    int nr_bytes_sent = 0;
+    char ack_buffer[19];
+    bzero(ack_buffer, 19);
+    unsigned long checksum = crc32(0L, (const unsigned char *)buffer, buff_size);
+    bool corrupted_comm;
+    
+    // ---- FIRST COMMUNICATION (SEND TOTAL BUFFER SIZE, AWAIT ACK) ----
+    n = write(sockfd, &buff_size, sizeof(buff_size));
+    if (n < 0)
+        error("ERROR writing to socket");
 
-    // ENVÍA UN MENSAJE AL SOCKET
-    n = write(sockfd, buffer, strlen(buffer));
-    if (n < 0) 
+    n = read(sockfd, ack_buffer, 19);
+    if (n < 0)
+        error("ERROR reading from socket");
+
+    printf("%s\n", ack_buffer);
+
+    do {
+        // ---- BUFFER COMM LOOP ----
+        do {
+            n = write (sockfd, buffer + nr_bytes_sent, buff_size - nr_bytes_sent);
+            if (n < 0)
+                error("ERROR writing to socket");
+
+            nr_bytes_sent += n;
+
+            n = read(sockfd, ack_buffer, 19);
+            if (n < 0)
+                error("ERROR writing to socket");
+
+            printf("%s\n", ack_buffer);
+            bzero(ack_buffer, 18);
+        } while (nr_bytes_sent < buff_size);
+
+        // ---- VERIFICATION PHASE ----
+        n = write(sockfd, &checksum, sizeof(checksum));
+        if (n < 0)
             error("ERROR writing to socket");
 
-    bzero(buffer, buff_size);
-
-    // ESPERA RECIBIR UNA RESPUESTA
-    n = read(sockfd, buffer, buff_size);
-    if (n < 0) 
+        n = read(sockfd, &corrupted_comm, sizeof(bool));
+        if (n < 0)
             error("ERROR reading from socket");
 
-    // ---- CIERRE COMUNICACION ----
+        if (corrupted_comm)
+            nr_bytes_sent = 0;
 
-    printf("%s\n", buffer);
-    
+    } while (corrupted_comm);
+
     // CIERRA EL SOCKET
     close(sockfd);
 

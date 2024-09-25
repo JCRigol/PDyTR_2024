@@ -12,14 +12,14 @@ touch $server_output
 touch $client_output
 
 # Compile the server
-gcc server.c -o server -lm
+gcc server.c -o server -lm -lz
 if [ $? -ne 0 ]; then
   echo "Server compilation failed!"
   exit 1
 fi
 
 # Compile the client
-gcc client.c -o client -lm
+gcc client.c -o client -lm -lz
 if [ $? -ne 0 ]; then
   echo "Client compilation failed!"
   exit 1

@@ -8,6 +8,8 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <math.h>
+#include <zlib.h> // For CRC32
+#include <stdbool.h>
 
 
 void error(char *msg)
@@ -64,6 +66,8 @@ int main(int argc, char *argv[])
     clilen = sizeof(cli_addr);
 
     // ---- CONNECTION LOOP ----
+    const char *ack_msg = "I got your message";
+
     for (int i = 1; i < 7; i++) {
         newsockfd = accept(sockfd, 
                     (struct sockaddr *) &cli_addr, 
@@ -72,27 +76,74 @@ int main(int argc, char *argv[])
         // DEVUELVE UN NUEVO DESCRIPTOR POR EL CUAL SE VAN A REALIZAR LAS COMUNICACIONES
         if (newsockfd < 0) 
             error("ERROR on accept");
-        
-        // ---- MENSAJE ----
-        int buff_size = pow(10,i);
-        char buffer[buff_size];
-        bzero(buffer, buff_size);
 
-        sleep(10);
+        // ---- INITIAL CONFIG MESSAGE ----
+        int bytes_torecv;
+        unsigned long checksum, checksum_recvd;
+        bool checksum_failed;
 
-        // LEE EL MENSAJE DEL CLIENTES
-        n = read(newsockfd, buffer, buff_size);
-        if (n < 0) error("ERROR reading from socket");
-        printf("Read %d bytes of buffer from fd\n",n);
-        //printf("Read %d bytes, here is the message: %s\n",n,buffer);
-        
+        n = read(newsockfd, &bytes_torecv, sizeof(int));
+        if (n < 0)
+            error("ERROR reading from socket");
 
+        printf("Bytes to recieve: %d\n",bytes_torecv);
+        char buffer[bytes_torecv];
+        bzero(buffer, bytes_torecv);
 
-        // RESPONDE AL CLIENTE
-        n = write(newsockfd, "I got your message", 18);
-        if (n < 0) error("ERROR writing to socket");
+        n = write(newsockfd, ack_msg, strlen(ack_msg) + 1);
+        if (n < 0)
+            error("ERROR writing to socket");
 
-        // CIERRA LOS SOCKETS
+        do {
+            // ---- COMM LOOP ----
+            int bytes_received = 0, outside_read_loops = 0;
+
+            do {
+                int inside_read_loops = 0;
+
+                // ---- COMMS READ LOOP ----
+                do {
+                    n = read(newsockfd, buffer + bytes_received, bytes_torecv - bytes_received);
+                    if (n < 0)
+                        error("ERROR reading from socket");
+                    else if (n == 0)
+                        break;
+
+                    bytes_received += n;
+                    
+                    printf("Bytes received so far: %d in %d inside read loops, %d outside ones\n", bytes_received, inside_read_loops, outside_read_loops);
+                    inside_read_loops++;
+
+                } while (n > 0 && bytes_received < bytes_torecv);
+
+                n = write(newsockfd, ack_msg, strlen(ack_msg) + 1);
+                if (n < 0)
+                    error("ERROR writing to socket");
+                
+                printf("Bytes received so far: %d in %d inside read loops, %d outside ones\n", bytes_received, inside_read_loops, outside_read_loops);
+                outside_read_loops++;
+
+            } while (bytes_received < bytes_torecv);
+            
+            // ---- VERIFICATION ----
+            n = read(newsockfd, &checksum_recvd, sizeof(unsigned long));
+            if (n < 0)
+                error("ERROR reading from socket");
+
+            checksum = crc32(0L, (const unsigned char *)buffer, bytes_received);
+            printf("Checksum received: %ld\nChecksum calculated: %ld\n", checksum_recvd, checksum);
+
+            checksum_failed = (checksum != checksum_recvd);
+
+            if (checksum_failed)
+                bzero(buffer, bytes_torecv);
+
+            n = write(newsockfd, &checksum_failed, sizeof(checksum_failed));
+            if (n < 0)
+                error("ERROR writing to socket");
+
+        } while(checksum_failed);
+    
         close(newsockfd);
     }
     
