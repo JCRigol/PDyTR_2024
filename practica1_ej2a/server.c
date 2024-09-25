@@ -110,18 +110,18 @@ int main(int argc, char *argv[])
                         break;
 
                     bytes_received += n;
-                    
-                    printf("Bytes received so far: %d in %d inside read loops, %d outside ones\n", bytes_received, inside_read_loops, outside_read_loops);
+
                     inside_read_loops++;
+                    printf("Bytes received so far: %d in %d inside read loops\n", bytes_received, inside_read_loops);
 
                 } while (n > 0 && bytes_received < bytes_torecv);
 
                 n = write(newsockfd, ack_msg, strlen(ack_msg) + 1);
                 if (n < 0)
                     error("ERROR writing to socket");
-                
-                printf("Bytes received so far: %d in %d inside read loops, %d outside ones\n", bytes_received, inside_read_loops, outside_read_loops);
+
                 outside_read_loops++;
+                printf("Bytes received so far: %d in %d inside read loops, %d outside ones\n", bytes_received, inside_read_loops, outside_read_loops);          
 
             } while (bytes_received < bytes_torecv);
             
