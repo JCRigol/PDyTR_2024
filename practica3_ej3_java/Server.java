@@ -9,6 +9,7 @@
 import java.io.*;
 import java.net.*;
 import java.nio.ByteBuffer;
+import java.util.zip.CRC32;
 
 public class Server
 {
@@ -42,6 +43,11 @@ public class Server
         /* Fixed string to the client */
         String strresp = "I got your message";
 
+        /* Checksum utils
+        CRC32 crc = new CRC32();
+        long checksum, checksum_recvd;
+        boolean done; */
+
         for (int i = 0; i < 6; i++) {
             /* The socket to be created on the connection with the client */
             Socket connected_socket = null;
@@ -61,35 +67,54 @@ public class Server
             toclient   = new DataOutputStream(connected_socket.getOutputStream());
 
             for (int j = 0; j < 100; j++) {
-                /* Recv buff size from client */
-                buff_size_barray = new byte[4];
-                fromclient.read(buff_size_barray);
+                //done = false;
 
-                /* Convert to int */
-                int buff_size = ByteBuffer.wrap(buff_size_barray).getInt();
-                System.out.println("Here is the buffer size: " +  buff_size);
+               // while (!done) {
+                    /* Recv buff size from client */
+                    buff_size_barray = new byte[4];
+                    fromclient.read(buff_size_barray);
 
-                /* Send ack */
-                buffer = strresp.getBytes();
-                toclient.write(buffer, 0, buffer.length);
+                    /* Convert to int */
+                    int buff_size = ByteBuffer.wrap(buff_size_barray).getInt();
+                    System.out.println("Here is the buffer size: " +  buff_size);
 
-                /* Buffer */
-                buffer = new byte[buff_size];
+                    /* Send ack */
+                    buffer = strresp.getBytes();
+                    toclient.write(buffer, 0, buffer.length);
 
-                int totalBytesRead = 0;
-                while (totalBytesRead < buff_size) {
-                    int bytesRead = fromclient.read(buffer, totalBytesRead, buff_size - totalBytesRead);
-                    if (bytesRead == -1) {
-                        break;
+                    /* Buffer */
+                    buffer = new byte[buff_size];
+
+                    int totalBytesRead = 0;
+                    while (totalBytesRead < buff_size) {
+                        int bytesRead = fromclient.read(buffer, totalBytesRead, buff_size - totalBytesRead);
+                        if (bytesRead == -1) {
+                            break;
+                        }
+                        totalBytesRead += bytesRead;
                     }
-                    totalBytesRead += bytesRead;
-                }
 
-                System.out.println(buffer);
+                    //System.out.println("Received: " + new String(buffer));
 
-                /* Send ack */
-                buffer = strresp.getBytes();
-                toclient.write(buffer, 0, buffer.length);
+                    /* Send ack */
+                    buffer = strresp.getBytes();
+                    toclient.write(buffer, 0, buffer.length);
+
+                    /* Checksum
+                    byte[] checksum_barray = new byte[8];
+                    fromclient.read(checksum_barray);
+                    checksum_recvd = ByteBuffer.wrap(checksum_barray).getLong();
+
+                    crc.update(buffer, 0, buffer.length);
+                    checksum = crc.getValue();
+
+                    done = (checksum == checksum_recvd);
+                    toclient.writeBoolean(done);
+
+                    System.out.printf("Checksum received: %d\n", checksum_recvd);
+                    System.out.printf("Checksum calculated: %d\n", checksum);
+                    System.out.println("Done: " + done); */
+                //}
             }
             
             /* Close everything related to the client connection */

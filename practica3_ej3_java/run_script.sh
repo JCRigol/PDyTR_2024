@@ -1,11 +1,27 @@
 #!/bin/bash
 
+# Define output files
+SERVER_OUTPUT="server_output.txt"
+CLIENT_OUTPUT="client_output.txt"
+
 # Set the server port
 PORT=12345
 
-# Create output files
-SERVER_OUTPUT="server_output.txt"
-CLIENT_OUTPUT="client_output.txt"
+# Remove old output files if they exist
+rm -f $SERVER_OUTPUT $CLIENT_OUTPUT
+
+# Explicitly create (or clear) the output files
+touch $SERVER_OUTPUT
+touch $CLIENT_OUTPUT
+
+# Define the CSV file name
+CSV_FILE="times.csv"
+
+# Delete the CSV file if it exists
+if [ -f "$CSV_FILE" ]; then
+    echo "Deleting existing CSV file: $CSV_FILE"
+    rm "$CSV_FILE"
+fi
 
 # Function to stop any process listening on the specified port
 stop_process() {
@@ -43,10 +59,7 @@ for i in {1..6}; do
     BUFFER_SIZE=$((10 ** i))
     echo "Starting clients for buffer size: $BUFFER_SIZE bytes"
 
-    java Client localhost "$PORT" "$BUFFER_SIZE" >> "$CLIENT_OUTPUT" 2>&1 &
-
-    # Wait for all clients to finish
-    wait
+    java Client localhost "$PORT" "$BUFFER_SIZE" >> "$CLIENT_OUTPUT" 2>&1
 done
 
 # Kill the server after clients are done
