@@ -1,0 +1,1212 @@
+Buffsize 10:
+
+Iteration 1:
+Total time: 0,001785063 seconds (7140250 nanoseconds)
+Iteration 2:
+Total time: 0,000097616 seconds (390465 nanoseconds)
+Iteration 3:
+Total time: 0,000065033 seconds (260133 nanoseconds)
+Iteration 4:
+Total time: 0,000086055 seconds (344220 nanoseconds)
+Iteration 5:
+Total time: 0,000105999 seconds (423997 nanoseconds)
+Iteration 6:
+Total time: 0,000099107 seconds (396426 nanoseconds)
+Iteration 7:
+Total time: 0,000100985 seconds (403940 nanoseconds)
+Iteration 8:
+Total time: 0,000092545 seconds (370178 nanoseconds)
+Iteration 9:
+Total time: 0,000110866 seconds (443464 nanoseconds)
+Iteration 10:
+Total time: 0,000096439 seconds (385756 nanoseconds)
+Iteration 11:
+Total time: 0,000097103 seconds (388411 nanoseconds)
+Iteration 12:
+Total time: 0,000094961 seconds (379845 nanoseconds)
+Iteration 13:
+Total time: 0,000089396 seconds (357584 nanoseconds)
+Iteration 14:
+Total time: 0,000078233 seconds (312932 nanoseconds)
+Iteration 15:
+Total time: 0,000068708 seconds (274830 nanoseconds)
+Iteration 16:
+Total time: 0,000092472 seconds (369886 nanoseconds)
+Iteration 17:
+Total time: 0,000094468 seconds (377872 nanoseconds)
+Iteration 18:
+Total time: 0,000091811 seconds (367242 nanoseconds)
+Iteration 19:
+Total time: 0,000056833 seconds (227332 nanoseconds)
+Iteration 20:
+Total time: 0,000057024 seconds (228094 nanoseconds)
+Iteration 21:
+Total time: 0,000061529 seconds (246117 nanoseconds)
+Iteration 22:
+Total time: 0,000062799 seconds (251196 nanoseconds)
+Iteration 23:
+Total time: 0,000069675 seconds (278698 nanoseconds)
+Iteration 24:
+Total time: 0,000070777 seconds (283106 nanoseconds)
+Iteration 25:
+Total time: 0,000044418 seconds (177670 nanoseconds)
+Iteration 26:
+Total time: 0,000049294 seconds (197176 nanoseconds)
+Iteration 27:
+Total time: 0,000061274 seconds (245095 nanoseconds)
+Iteration 28:
+Total time: 0,000050256 seconds (201023 nanoseconds)
+Iteration 29:
+Total time: 0,000039549 seconds (158194 nanoseconds)
+Iteration 30:
+Total time: 0,000039183 seconds (156731 nanoseconds)
+Iteration 31:
+Total time: 0,000036936 seconds (147744 nanoseconds)
+Iteration 32:
+Total time: 0,000040758 seconds (163033 nanoseconds)
+Iteration 33:
+Total time: 0,000042101 seconds (168402 nanoseconds)
+Iteration 34:
+Total time: 0,000035934 seconds (143737 nanoseconds)
+Iteration 35:
+Total time: 0,000037304 seconds (149217 nanoseconds)
+Iteration 36:
+Total time: 0,000038209 seconds (152834 nanoseconds)
+Iteration 37:
+Total time: 0,000038522 seconds (154086 nanoseconds)
+Iteration 38:
+Total time: 0,000040017 seconds (160067 nanoseconds)
+Iteration 39:
+Total time: 0,000039033 seconds (156130 nanoseconds)
+Iteration 40:
+Total time: 0,000044004 seconds (176017 nanoseconds)
+Iteration 41:
+Total time: 0,000056357 seconds (225429 nanoseconds)
+Iteration 42:
+Total time: 0,000069512 seconds (278046 nanoseconds)
+Iteration 43:
+Total time: 0,000074055 seconds (296221 nanoseconds)
+Iteration 44:
+Total time: 0,000073912 seconds (295649 nanoseconds)
+Iteration 45:
+Total time: 0,000064530 seconds (258119 nanoseconds)
+Iteration 46:
+Total time: 0,000059503 seconds (238012 nanoseconds)
+Iteration 47:
+Total time: 0,000057780 seconds (231119 nanoseconds)
+Iteration 48:
+Total time: 0,000075445 seconds (301780 nanoseconds)
+Iteration 49:
+Total time: 0,000069674 seconds (278697 nanoseconds)
+Iteration 50:
+Total time: 0,000066979 seconds (267917 nanoseconds)
+Iteration 51:
+Total time: 0,000054561 seconds (218245 nanoseconds)
+Iteration 52:
+Total time: 0,000059789 seconds (239154 nanoseconds)
+Iteration 53:
+Total time: 0,000057953 seconds (231811 nanoseconds)
+Iteration 54:
+Total time: 0,000052185 seconds (208738 nanoseconds)
+Iteration 55:
+Total time: 0,000055122 seconds (220489 nanoseconds)
+Iteration 56:
+Total time: 0,000057489 seconds (229957 nanoseconds)
+Iteration 57:
+Total time: 0,000059250 seconds (237001 nanoseconds)
+Iteration 58:
+Total time: 0,000058196 seconds (232782 nanoseconds)
+Iteration 59:
+Total time: 0,000059328 seconds (237311 nanoseconds)
+Iteration 60:
+Total time: 0,000055283 seconds (221130 nanoseconds)
+Iteration 61:
+Total time: 0,000060417 seconds (241669 nanoseconds)
+Iteration 62:
+Total time: 0,000066095 seconds (264381 nanoseconds)
+Iteration 63:
+Total time: 0,000060320 seconds (241278 nanoseconds)
+Iteration 64:
+Total time: 0,000095893 seconds (383572 nanoseconds)
+Iteration 65:
+Total time: 0,000074902 seconds (299607 nanoseconds)
+Iteration 66:
+Total time: 0,000064387 seconds (257549 nanoseconds)
+Iteration 67:
+Total time: 0,000044430 seconds (177720 nanoseconds)
+Iteration 68:
+Total time: 0,000037853 seconds (151411 nanoseconds)
+Iteration 69:
+Total time: 0,000034617 seconds (138467 nanoseconds)
+Iteration 70:
+Total time: 0,000035506 seconds (142024 nanoseconds)
+Iteration 71:
+Total time: 0,000035363 seconds (141452 nanoseconds)
+Iteration 72:
+Total time: 0,000033678 seconds (134710 nanoseconds)
+Iteration 73:
+Total time: 0,000034542 seconds (138166 nanoseconds)
+Iteration 74:
+Total time: 0,000048079 seconds (192317 nanoseconds)
+Iteration 75:
+Total time: 0,000048871 seconds (195483 nanoseconds)
+Iteration 76:
+Total time: 0,000037202 seconds (148806 nanoseconds)
+Iteration 77:
+Total time: 0,000034942 seconds (139769 nanoseconds)
+Iteration 78:
+Total time: 0,000043215 seconds (172861 nanoseconds)
+Iteration 79:
+Total time: 0,000048165 seconds (192658 nanoseconds)
+Iteration 80:
+Total time: 0,000044085 seconds (176338 nanoseconds)
+Iteration 81:
+Total time: 0,000044505 seconds (178021 nanoseconds)
+Iteration 82:
+Total time: 0,000048037 seconds (192147 nanoseconds)
+Iteration 83:
+Total time: 0,000047786 seconds (191145 nanoseconds)
+Iteration 84:
+Total time: 0,000038935 seconds (155739 nanoseconds)
+Iteration 85:
+Total time: 0,000040778 seconds (163113 nanoseconds)
+Iteration 86:
+Total time: 0,000047962 seconds (191846 nanoseconds)
+Iteration 87:
+Total time: 0,000051884 seconds (207535 nanoseconds)
+Iteration 88:
+Total time: 0,000053051 seconds (212204 nanoseconds)
+Iteration 89:
+Total time: 0,000041006 seconds (164025 nanoseconds)
+Iteration 90:
+Total time: 0,000036981 seconds (147925 nanoseconds)
+Iteration 91:
+Total time: 0,000036743 seconds (146973 nanoseconds)
+Iteration 92:
+Total time: 0,000044986 seconds (179944 nanoseconds)
+Iteration 93:
+Total time: 0,000039095 seconds (156381 nanoseconds)
+Iteration 94:
+Total time: 0,000034226 seconds (136904 nanoseconds)
+Iteration 95:
+Total time: 0,000030980 seconds (123920 nanoseconds)
+Iteration 96:
+Total time: 0,000058065 seconds (232261 nanoseconds)
+Iteration 97:
+Total time: 0,000063974 seconds (255895 nanoseconds)
+Iteration 98:
+Total time: 0,000063225 seconds (252899 nanoseconds)
+Iteration 99:
+Total time: 0,000037695 seconds (150780 nanoseconds)
+Iteration 100:
+Total time: 0,000035897 seconds (143586 nanoseconds)
+Buffsize 100:
+
+Iteration 1:
+Total time: 0,000254485 seconds (1017940 nanoseconds)
+Iteration 2:
+Total time: 0,000083969 seconds (335874 nanoseconds)
+Iteration 3:
+Total time: 0,000056926 seconds (227703 nanoseconds)
+Iteration 4:
+Total time: 0,000050233 seconds (200933 nanoseconds)
+Iteration 5:
+Total time: 0,000052538 seconds (210151 nanoseconds)
+Iteration 6:
+Total time: 0,000049046 seconds (196184 nanoseconds)
+Iteration 7:
+Total time: 0,000051641 seconds (206563 nanoseconds)
+Iteration 8:
+Total time: 0,000127655 seconds (510618 nanoseconds)
+Iteration 9:
+Total time: 0,000070476 seconds (281904 nanoseconds)
+Iteration 10:
+Total time: 0,000087272 seconds (349088 nanoseconds)
+Iteration 11:
+Total time: 0,000084221 seconds (336885 nanoseconds)
+Iteration 12:
+Total time: 0,000063771 seconds (255084 nanoseconds)
+Iteration 13:
+Total time: 0,000075325 seconds (301300 nanoseconds)
+Iteration 14:
+Total time: 0,000077444 seconds (309775 nanoseconds)
+Iteration 15:
+Total time: 0,000053161 seconds (212645 nanoseconds)
+Iteration 16:
+Total time: 0,000051150 seconds (204600 nanoseconds)
+Iteration 17:
+Total time: 0,000059824 seconds (239295 nanoseconds)
+Iteration 18:
+Total time: 0,000051832 seconds (207326 nanoseconds)
+Iteration 19:
+Total time: 0,000049029 seconds (196115 nanoseconds)
+Iteration 20:
+Total time: 0,000045973 seconds (183891 nanoseconds)
+Iteration 21:
+Total time: 0,000043734 seconds (174935 nanoseconds)
+Iteration 22:
+Total time: 0,000047456 seconds (189822 nanoseconds)
+Iteration 23:
+Total time: 0,000052863 seconds (211453 nanoseconds)
+Iteration 24:
+Total time: 0,000049560 seconds (198238 nanoseconds)
+Iteration 25:
+Total time: 0,000040608 seconds (162432 nanoseconds)
+Iteration 26:
+Total time: 0,000053565 seconds (214258 nanoseconds)
+Iteration 27:
+Total time: 0,000061722 seconds (246888 nanoseconds)
+Iteration 28:
+Total time: 0,000116752 seconds (467007 nanoseconds)
+Iteration 29:
+Total time: 0,000075540 seconds (302161 nanoseconds)
+Iteration 30:
+Total time: 0,000063969 seconds (255875 nanoseconds)
+Iteration 31:
+Total time: 0,000066316 seconds (265263 nanoseconds)
+Iteration 32:
+Total time: 0,000068808 seconds (275231 nanoseconds)
+Iteration 33:
+Total time: 0,000056387 seconds (225549 nanoseconds)
+Iteration 34:
+Total time: 0,000054111 seconds (216442 nanoseconds)
+Iteration 35:
+Total time: 0,000152491 seconds (609962 nanoseconds)
+Iteration 36:
+Total time: 0,000055576 seconds (222303 nanoseconds)
+Iteration 37:
+Total time: 0,000046456 seconds (185825 nanoseconds)
+Iteration 38:
+Total time: 0,000049039 seconds (196155 nanoseconds)
+Iteration 39:
+Total time: 0,000043924 seconds (175696 nanoseconds)
+Iteration 40:
+Total time: 0,000043591 seconds (174364 nanoseconds)
+Iteration 41:
+Total time: 0,000042687 seconds (170747 nanoseconds)
+Iteration 42:
+Total time: 0,000042825 seconds (171298 nanoseconds)
+Iteration 43:
+Total time: 0,000045818 seconds (183270 nanoseconds)
+Iteration 44:
+Total time: 0,000045059 seconds (180235 nanoseconds)
+Iteration 45:
+Total time: 0,000044738 seconds (178952 nanoseconds)
+Iteration 46:
+Total time: 0,000040052 seconds (160207 nanoseconds)
+Iteration 47:
+Total time: 0,000042056 seconds (168222 nanoseconds)
+Iteration 48:
+Total time: 0,000053347 seconds (213386 nanoseconds)
+Iteration 49:
+Total time: 0,000045956 seconds (183822 nanoseconds)
+Iteration 50:
+Total time: 0,000041652 seconds (166609 nanoseconds)
+Iteration 51:
+Total time: 0,000041011 seconds (164045 nanoseconds)
+Iteration 52:
+Total time: 0,000043699 seconds (174794 nanoseconds)
+Iteration 53:
+Total time: 0,000041958 seconds (167831 nanoseconds)
+Iteration 54:
+Total time: 0,000052094 seconds (208377 nanoseconds)
+Iteration 55:
+Total time: 0,000050862 seconds (203447 nanoseconds)
+Iteration 56:
+Total time: 0,000052530 seconds (210120 nanoseconds)
+Iteration 57:
+Total time: 0,000055365 seconds (221461 nanoseconds)
+Iteration 58:
+Total time: 0,000047288 seconds (189151 nanoseconds)
+Iteration 59:
+Total time: 0,000047564 seconds (190254 nanoseconds)
+Iteration 60:
+Total time: 0,000047599 seconds (190394 nanoseconds)
+Iteration 61:
+Total time: 0,000045835 seconds (183340 nanoseconds)
+Iteration 62:
+Total time: 0,000046068 seconds (184273 nanoseconds)
+Iteration 63:
+Total time: 0,000046411 seconds (185645 nanoseconds)
+Iteration 64:
+Total time: 0,000054021 seconds (216082 nanoseconds)
+Iteration 65:
+Total time: 0,000041830 seconds (167321 nanoseconds)
+Iteration 66:
+Total time: 0,000049201 seconds (196805 nanoseconds)
+Iteration 67:
+Total time: 0,000041172 seconds (164686 nanoseconds)
+Iteration 68:
+Total time: 0,000042599 seconds (170397 nanoseconds)
+Iteration 69:
+Total time: 0,000038016 seconds (152062 nanoseconds)
+Iteration 70:
+Total time: 0,000040292 seconds (161169 nanoseconds)
+Iteration 71:
+Total time: 0,000047716 seconds (190864 nanoseconds)
+Iteration 72:
+Total time: 0,000049610 seconds (198438 nanoseconds)
+Iteration 73:
+Total time: 0,000051791 seconds (207165 nanoseconds)
+Iteration 74:
+Total time: 0,000047346 seconds (189382 nanoseconds)
+Iteration 75:
+Total time: 0,000040578 seconds (162312 nanoseconds)
+Iteration 76:
+Total time: 0,000058937 seconds (235748 nanoseconds)
+Iteration 77:
+Total time: 0,000055628 seconds (222513 nanoseconds)
+Iteration 78:
+Total time: 0,000034151 seconds (136604 nanoseconds)
+Iteration 79:
+Total time: 0,000033207 seconds (132827 nanoseconds)
+Iteration 80:
+Total time: 0,000030509 seconds (122037 nanoseconds)
+Iteration 81:
+Total time: 0,000050153 seconds (200613 nanoseconds)
+Iteration 82:
+Total time: 0,000040155 seconds (160618 nanoseconds)
+Iteration 83:
+Total time: 0,000040741 seconds (162963 nanoseconds)
+Iteration 84:
+Total time: 0,000043947 seconds (175787 nanoseconds)
+Iteration 85:
+Total time: 0,000036410 seconds (145641 nanoseconds)
+Iteration 86:
+Total time: 0,000050284 seconds (201134 nanoseconds)
+Iteration 87:
+Total time: 0,000057863 seconds (231450 nanoseconds)
+Iteration 88:
+Total time: 0,000042870 seconds (171479 nanoseconds)
+Iteration 89:
+Total time: 0,000047321 seconds (189282 nanoseconds)
+Iteration 90:
+Total time: 0,000086701 seconds (346804 nanoseconds)
+Iteration 91:
+Total time: 0,000111367 seconds (445467 nanoseconds)
+Iteration 92:
+Total time: 0,000080900 seconds (323601 nanoseconds)
+Iteration 93:
+Total time: 0,000078508 seconds (314033 nanoseconds)
+Iteration 94:
+Total time: 0,000076545 seconds (306179 nanoseconds)
+Iteration 95:
+Total time: 0,000059952 seconds (239806 nanoseconds)
+Iteration 96:
+Total time: 0,000067906 seconds (271625 nanoseconds)
+Iteration 97:
+Total time: 0,000067353 seconds (269410 nanoseconds)
+Iteration 98:
+Total time: 0,000070636 seconds (282545 nanoseconds)
+Iteration 99:
+Total time: 0,000062621 seconds (250485 nanoseconds)
+Iteration 100:
+Total time: 0,000061497 seconds (245987 nanoseconds)
+Buffsize 1000:
+
+Iteration 1:
+Total time: 0,000236339 seconds (945356 nanoseconds)
+Iteration 2:
+Total time: 0,000086611 seconds (346443 nanoseconds)
+Iteration 3:
+Total time: 0,000051335 seconds (205341 nanoseconds)
+Iteration 4:
+Total time: 0,000090233 seconds (360930 nanoseconds)
+Iteration 5:
+Total time: 0,000074809 seconds (299235 nanoseconds)
+Iteration 6:
+Total time: 0,000054356 seconds (217424 nanoseconds)
+Iteration 7:
+Total time: 0,000052801 seconds (211202 nanoseconds)
+Iteration 8:
+Total time: 0,000044122 seconds (176488 nanoseconds)
+Iteration 9:
+Total time: 0,000036986 seconds (147945 nanoseconds)
+Iteration 10:
+Total time: 0,000043293 seconds (173172 nanoseconds)
+Iteration 11:
+Total time: 0,000045091 seconds (180365 nanoseconds)
+Iteration 12:
+Total time: 0,000040287 seconds (161149 nanoseconds)
+Iteration 13:
+Total time: 0,000050647 seconds (202587 nanoseconds)
+Iteration 14:
+Total time: 0,000042271 seconds (169084 nanoseconds)
+Iteration 15:
+Total time: 0,000041923 seconds (167691 nanoseconds)
+Iteration 16:
+Total time: 0,000041550 seconds (166199 nanoseconds)
+Iteration 17:
+Total time: 0,000046965 seconds (187858 nanoseconds)
+Iteration 18:
+Total time: 0,000047912 seconds (191646 nanoseconds)
+Iteration 19:
+Total time: 0,000044858 seconds (179433 nanoseconds)
+Iteration 20:
+Total time: 0,000042749 seconds (170997 nanoseconds)
+Iteration 21:
+Total time: 0,000043734 seconds (174935 nanoseconds)
+Iteration 22:
+Total time: 0,000039554 seconds (158214 nanoseconds)
+Iteration 23:
+Total time: 0,000057274 seconds (229096 nanoseconds)
+Iteration 24:
+Total time: 0,000057655 seconds (230618 nanoseconds)
+Iteration 25:
+Total time: 0,000068750 seconds (275000 nanoseconds)
+Iteration 26:
+Total time: 0,000046241 seconds (184963 nanoseconds)
+Iteration 27:
+Total time: 0,000044683 seconds (178731 nanoseconds)
+Iteration 28:
+Total time: 0,000043504 seconds (174014 nanoseconds)
+Iteration 29:
+Total time: 0,000069467 seconds (277866 nanoseconds)
+Iteration 30:
+Total time: 0,000069404 seconds (277616 nanoseconds)
+Iteration 31:
+Total time: 0,000071368 seconds (285470 nanoseconds)
+Iteration 32:
+Total time: 0,000061184 seconds (244735 nanoseconds)
+Iteration 33:
+Total time: 0,000088572 seconds (354288 nanoseconds)
+Iteration 34:
+Total time: 0,000083628 seconds (334511 nanoseconds)
+Iteration 35:
+Total time: 0,000049600 seconds (198399 nanoseconds)
+Iteration 36:
+Total time: 0,000045179 seconds (180716 nanoseconds)
+Iteration 37:
+Total time: 0,000045487 seconds (181948 nanoseconds)
+Iteration 38:
+Total time: 0,000061349 seconds (245396 nanoseconds)
+Iteration 39:
+Total time: 0,000055065 seconds (220259 nanoseconds)
+Iteration 40:
+Total time: 0,000055260 seconds (221041 nanoseconds)
+Iteration 41:
+Total time: 0,000065835 seconds (263339 nanoseconds)
+Iteration 42:
+Total time: 0,000084863 seconds (339450 nanoseconds)
+Iteration 43:
+Total time: 0,000063593 seconds (254372 nanoseconds)
+Iteration 44:
+Total time: 0,000063984 seconds (255935 nanoseconds)
+Iteration 45:
+Total time: 0,000055608 seconds (222433 nanoseconds)
+Iteration 46:
+Total time: 0,000048706 seconds (194822 nanoseconds)
+Iteration 47:
+Total time: 0,000040140 seconds (160558 nanoseconds)
+Iteration 48:
+Total time: 0,000062739 seconds (250956 nanoseconds)
+Iteration 49:
+Total time: 0,000047666 seconds (190664 nanoseconds)
+Iteration 50:
+Total time: 0,000057930 seconds (231720 nanoseconds)
+Iteration 51:
+Total time: 0,000046013 seconds (184052 nanoseconds)
+Iteration 52:
+Total time: 0,000038709 seconds (154837 nanoseconds)
+Iteration 53:
+Total time: 0,000046599 seconds (186396 nanoseconds)
+Iteration 54:
+Total time: 0,000047989 seconds (191956 nanoseconds)
+Iteration 55:
+Total time: 0,000056440 seconds (225760 nanoseconds)
+Iteration 56:
+Total time: 0,000100479 seconds (401916 nanoseconds)
+Iteration 57:
+Total time: 0,000057933 seconds (231730 nanoseconds)
+Iteration 58:
+Total time: 0,000073572 seconds (294286 nanoseconds)
+Iteration 59:
+Total time: 0,000054176 seconds (216703 nanoseconds)
+Iteration 60:
+Total time: 0,000132100 seconds (528401 nanoseconds)
+Iteration 61:
+Total time: 0,000048936 seconds (195744 nanoseconds)
+Iteration 62:
+Total time: 0,000040125 seconds (160498 nanoseconds)
+Iteration 63:
+Total time: 0,000064350 seconds (257398 nanoseconds)
+Iteration 64:
+Total time: 0,000056961 seconds (227843 nanoseconds)
+Iteration 65:
+Total time: 0,000061612 seconds (246448 nanoseconds)
+Iteration 66:
+Total time: 0,000044280 seconds (177119 nanoseconds)
+Iteration 67:
+Total time: 0,000042364 seconds (169454 nanoseconds)
+Iteration 68:
+Total time: 0,000043814 seconds (175256 nanoseconds)
+Iteration 69:
+Total time: 0,000038281 seconds (153124 nanoseconds)
+Iteration 70:
+Total time: 0,000036593 seconds (146372 nanoseconds)
+Iteration 71:
+Total time: 0,000033342 seconds (133368 nanoseconds)
+Iteration 72:
+Total time: 0,000033217 seconds (132867 nanoseconds)
+Iteration 73:
+Total time: 0,000034286 seconds (137145 nanoseconds)
+Iteration 74:
+Total time: 0,000039964 seconds (159857 nanoseconds)
+Iteration 75:
+Total time: 0,000037988 seconds (151952 nanoseconds)
+Iteration 76:
+Total time: 0,000033653 seconds (134610 nanoseconds)
+Iteration 77:
+Total time: 0,000038043 seconds (152172 nanoseconds)
+Iteration 78:
+Total time: 0,000042509 seconds (170036 nanoseconds)
+Iteration 79:
+Total time: 0,000044956 seconds (179824 nanoseconds)
+Iteration 80:
+Total time: 0,000043040 seconds (172160 nanoseconds)
+Iteration 81:
+Total time: 0,000037227 seconds (148906 nanoseconds)
+Iteration 82:
+Total time: 0,000038106 seconds (152423 nanoseconds)
+Iteration 83:
+Total time: 0,000031967 seconds (127867 nanoseconds)
+Iteration 84:
+Total time: 0,000040092 seconds (160367 nanoseconds)
+Iteration 85:
+Total time: 0,000039090 seconds (156361 nanoseconds)
+Iteration 86:
+Total time: 0,000044212 seconds (176848 nanoseconds)
+Iteration 87:
+Total time: 0,000061497 seconds (245987 nanoseconds)
+Iteration 88:
+Total time: 0,000059288 seconds (237150 nanoseconds)
+Iteration 89:
+Total time: 0,000050431 seconds (201725 nanoseconds)
+Iteration 90:
+Total time: 0,000044002 seconds (176007 nanoseconds)
+Iteration 91:
+Total time: 0,000055824 seconds (223294 nanoseconds)
+Iteration 92:
+Total time: 0,000058809 seconds (235237 nanoseconds)
+Iteration 93:
+Total time: 0,000042083 seconds (168333 nanoseconds)
+Iteration 94:
+Total time: 0,000040363 seconds (161450 nanoseconds)
+Iteration 95:
+Total time: 0,000040956 seconds (163824 nanoseconds)
+Iteration 96:
+Total time: 0,000057429 seconds (229717 nanoseconds)
+Iteration 97:
+Total time: 0,000037933 seconds (151732 nanoseconds)
+Iteration 98:
+Total time: 0,000035957 seconds (143827 nanoseconds)
+Iteration 99:
+Total time: 0,000033572 seconds (134289 nanoseconds)
+Iteration 100:
+Total time: 0,000056019 seconds (224076 nanoseconds)
+Buffsize 10000:
+
+Iteration 1:
+Total time: 0,000213083 seconds (852333 nanoseconds)
+Iteration 2:
+Total time: 0,000084505 seconds (338018 nanoseconds)
+Iteration 3:
+Total time: 0,000055318 seconds (221271 nanoseconds)
+Iteration 4:
+Total time: 0,000052971 seconds (211884 nanoseconds)
+Iteration 5:
+Total time: 0,000052202 seconds (208808 nanoseconds)
+Iteration 6:
+Total time: 0,000050982 seconds (203929 nanoseconds)
+Iteration 7:
+Total time: 0,000051483 seconds (205932 nanoseconds)
+Iteration 8:
+Total time: 0,000047105 seconds (188420 nanoseconds)
+Iteration 9:
+Total time: 0,000045434 seconds (181737 nanoseconds)
+Iteration 10:
+Total time: 0,000044786 seconds (179142 nanoseconds)
+Iteration 11:
+Total time: 0,000045878 seconds (183511 nanoseconds)
+Iteration 12:
+Total time: 0,000038299 seconds (153195 nanoseconds)
+Iteration 13:
+Total time: 0,000043739 seconds (174955 nanoseconds)
+Iteration 14:
+Total time: 0,000039353 seconds (157413 nanoseconds)
+Iteration 15:
+Total time: 0,000042021 seconds (168082 nanoseconds)
+Iteration 16:
+Total time: 0,000039909 seconds (159636 nanoseconds)
+Iteration 17:
+Total time: 0,000043068 seconds (172270 nanoseconds)
+Iteration 18:
+Total time: 0,000050361 seconds (201444 nanoseconds)
+Iteration 19:
+Total time: 0,000037910 seconds (151641 nanoseconds)
+Iteration 20:
+Total time: 0,000056488 seconds (225950 nanoseconds)
+Iteration 21:
+Total time: 0,000059927 seconds (239706 nanoseconds)
+Iteration 22:
+Total time: 0,000052397 seconds (209589 nanoseconds)
+Iteration 23:
+Total time: 0,000054123 seconds (216492 nanoseconds)
+Iteration 24:
+Total time: 0,000047138 seconds (188551 nanoseconds)
+Iteration 25:
+Total time: 0,000048310 seconds (193239 nanoseconds)
+Iteration 26:
+Total time: 0,000049224 seconds (196896 nanoseconds)
+Iteration 27:
+Total time: 0,000037425 seconds (149698 nanoseconds)
+Iteration 28:
+Total time: 0,000038058 seconds (152233 nanoseconds)
+Iteration 29:
+Total time: 0,000049377 seconds (197507 nanoseconds)
+Iteration 30:
+Total time: 0,000046639 seconds (186556 nanoseconds)
+Iteration 31:
+Total time: 0,000047809 seconds (191235 nanoseconds)
+Iteration 32:
+Total time: 0,000049202 seconds (196806 nanoseconds)
+Iteration 33:
+Total time: 0,000049257 seconds (197026 nanoseconds)
+Iteration 34:
+Total time: 0,000049011 seconds (196044 nanoseconds)
+Iteration 35:
+Total time: 0,000050461 seconds (201845 nanoseconds)
+Iteration 36:
+Total time: 0,000051055 seconds (204220 nanoseconds)
+Iteration 37:
+Total time: 0,000065517 seconds (262067 nanoseconds)
+Iteration 38:
+Total time: 0,000069156 seconds (276624 nanoseconds)
+Iteration 39:
+Total time: 0,000057184 seconds (228735 nanoseconds)
+Iteration 40:
+Total time: 0,000041735 seconds (166940 nanoseconds)
+Iteration 41:
+Total time: 0,000042063 seconds (168252 nanoseconds)
+Iteration 42:
+Total time: 0,000040483 seconds (161930 nanoseconds)
+Iteration 43:
+Total time: 0,000047005 seconds (188020 nanoseconds)
+Iteration 44:
+Total time: 0,000043080 seconds (172320 nanoseconds)
+Iteration 45:
+Total time: 0,000041407 seconds (165628 nanoseconds)
+Iteration 46:
+Total time: 0,000042487 seconds (169946 nanoseconds)
+Iteration 47:
+Total time: 0,000040666 seconds (162662 nanoseconds)
+Iteration 48:
+Total time: 0,000045547 seconds (182188 nanoseconds)
+Iteration 49:
+Total time: 0,000046359 seconds (185435 nanoseconds)
+Iteration 50:
+Total time: 0,000043661 seconds (174644 nanoseconds)
+Iteration 51:
+Total time: 0,000039669 seconds (158675 nanoseconds)
+Iteration 52:
+Total time: 0,000047927 seconds (191706 nanoseconds)
+Iteration 53:
+Total time: 0,000044295 seconds (177179 nanoseconds)
+Iteration 54:
+Total time: 0,000042043 seconds (168172 nanoseconds)
+Iteration 55:
+Total time: 0,000039118 seconds (156471 nanoseconds)
+Iteration 56:
+Total time: 0,000041988 seconds (167952 nanoseconds)
+Iteration 57:
+Total time: 0,000039331 seconds (157322 nanoseconds)
+Iteration 58:
+Total time: 0,000044225 seconds (176898 nanoseconds)
+Iteration 59:
+Total time: 0,000042444 seconds (169775 nanoseconds)
+Iteration 60:
+Total time: 0,000040600 seconds (162401 nanoseconds)
+Iteration 61:
+Total time: 0,000042494 seconds (169975 nanoseconds)
+Iteration 62:
+Total time: 0,000043080 seconds (172320 nanoseconds)
+Iteration 63:
+Total time: 0,000044307 seconds (177229 nanoseconds)
+Iteration 64:
+Total time: 0,000060791 seconds (243162 nanoseconds)
+Iteration 65:
+Total time: 0,000046148 seconds (184592 nanoseconds)
+Iteration 66:
+Total time: 0,000041991 seconds (167962 nanoseconds)
+Iteration 67:
+Total time: 0,000040333 seconds (161330 nanoseconds)
+Iteration 68:
+Total time: 0,000112527 seconds (450106 nanoseconds)
+Iteration 69:
+Total time: 0,000072049 seconds (288195 nanoseconds)
+Iteration 70:
+Total time: 0,000056693 seconds (226771 nanoseconds)
+Iteration 71:
+Total time: 0,000052741 seconds (210962 nanoseconds)
+Iteration 72:
+Total time: 0,000056175 seconds (224698 nanoseconds)
+Iteration 73:
+Total time: 0,000057895 seconds (231580 nanoseconds)
+Iteration 74:
+Total time: 0,000052315 seconds (209259 nanoseconds)
+Iteration 75:
+Total time: 0,000054141 seconds (216562 nanoseconds)
+Iteration 76:
+Total time: 0,000038807 seconds (155228 nanoseconds)
+Iteration 77:
+Total time: 0,000041352 seconds (165407 nanoseconds)
+Iteration 78:
+Total time: 0,000047060 seconds (188240 nanoseconds)
+Iteration 79:
+Total time: 0,000045447 seconds (181788 nanoseconds)
+Iteration 80:
+Total time: 0,000035256 seconds (141022 nanoseconds)
+Iteration 81:
+Total time: 0,000032921 seconds (131685 nanoseconds)
+Iteration 82:
+Total time: 0,000031589 seconds (126355 nanoseconds)
+Iteration 83:
+Total time: 0,000030777 seconds (123108 nanoseconds)
+Iteration 84:
+Total time: 0,000045647 seconds (182589 nanoseconds)
+Iteration 85:
+Total time: 0,000049154 seconds (196615 nanoseconds)
+Iteration 86:
+Total time: 0,000070328 seconds (281313 nanoseconds)
+Iteration 87:
+Total time: 0,000065679 seconds (262717 nanoseconds)
+Iteration 88:
+Total time: 0,000058962 seconds (235848 nanoseconds)
+Iteration 89:
+Total time: 0,000060778 seconds (243112 nanoseconds)
+Iteration 90:
+Total time: 0,000051370 seconds (205481 nanoseconds)
+Iteration 91:
+Total time: 0,000049194 seconds (196775 nanoseconds)
+Iteration 92:
+Total time: 0,000046749 seconds (186997 nanoseconds)
+Iteration 93:
+Total time: 0,000047190 seconds (188760 nanoseconds)
+Iteration 94:
+Total time: 0,000040042 seconds (160168 nanoseconds)
+Iteration 95:
+Total time: 0,000048367 seconds (193469 nanoseconds)
+Iteration 96:
+Total time: 0,000069724 seconds (278897 nanoseconds)
+Iteration 97:
+Total time: 0,000049945 seconds (199781 nanoseconds)
+Iteration 98:
+Total time: 0,000043488 seconds (173953 nanoseconds)
+Iteration 99:
+Total time: 0,000046552 seconds (186206 nanoseconds)
+Iteration 100:
+Total time: 0,000039463 seconds (157853 nanoseconds)
+Buffsize 100000:
+
+Iteration 1:
+Total time: 0,000388682 seconds (1554728 nanoseconds)
+Iteration 2:
+Total time: 0,010294921 seconds (41179683 nanoseconds)
+Iteration 3:
+Total time: 0,000096211 seconds (384845 nanoseconds)
+Iteration 4:
+Total time: 0,000065156 seconds (260624 nanoseconds)
+Iteration 5:
+Total time: 0,000080374 seconds (321497 nanoseconds)
+Iteration 6:
+Total time: 0,000066897 seconds (267586 nanoseconds)
+Iteration 7:
+Total time: 0,000078476 seconds (313903 nanoseconds)
+Iteration 8:
+Total time: 0,000068006 seconds (272025 nanoseconds)
+Iteration 9:
+Total time: 0,000070256 seconds (281022 nanoseconds)
+Iteration 10:
+Total time: 0,000065690 seconds (262758 nanoseconds)
+Iteration 11:
+Total time: 0,000078458 seconds (313832 nanoseconds)
+Iteration 12:
+Total time: 0,000064320 seconds (257278 nanoseconds)
+Iteration 13:
+Total time: 0,000062494 seconds (249974 nanoseconds)
+Iteration 14:
+Total time: 0,000054071 seconds (216282 nanoseconds)
+Iteration 15:
+Total time: 0,000053627 seconds (214508 nanoseconds)
+Iteration 16:
+Total time: 0,000056963 seconds (227853 nanoseconds)
+Iteration 17:
+Total time: 0,000054454 seconds (217814 nanoseconds)
+Iteration 18:
+Total time: 0,000085346 seconds (341384 nanoseconds)
+Iteration 19:
+Total time: 0,000070408 seconds (281633 nanoseconds)
+Iteration 20:
+Total time: 0,000063330 seconds (253320 nanoseconds)
+Iteration 21:
+Total time: 0,000063052 seconds (252208 nanoseconds)
+Iteration 22:
+Total time: 0,000066075 seconds (264301 nanoseconds)
+Iteration 23:
+Total time: 0,000067100 seconds (268399 nanoseconds)
+Iteration 24:
+Total time: 0,000067814 seconds (271254 nanoseconds)
+Iteration 25:
+Total time: 0,000067085 seconds (268339 nanoseconds)
+Iteration 26:
+Total time: 0,000061367 seconds (245466 nanoseconds)
+Iteration 27:
+Total time: 0,000066539 seconds (266155 nanoseconds)
+Iteration 28:
+Total time: 0,000065404 seconds (261616 nanoseconds)
+Iteration 29:
+Total time: 0,000063195 seconds (252780 nanoseconds)
+Iteration 30:
+Total time: 0,000063077 seconds (252309 nanoseconds)
+Iteration 31:
+Total time: 0,000064525 seconds (258100 nanoseconds)
+Iteration 32:
+Total time: 0,000070857 seconds (283426 nanoseconds)
+Iteration 33:
+Total time: 0,000066045 seconds (264180 nanoseconds)
+Iteration 34:
+Total time: 0,000065998 seconds (263990 nanoseconds)
+Iteration 35:
+Total time: 0,000065589 seconds (262357 nanoseconds)
+Iteration 36:
+Total time: 0,000067022 seconds (268088 nanoseconds)
+Iteration 37:
+Total time: 0,000063959 seconds (255835 nanoseconds)
+Iteration 38:
+Total time: 0,000063578 seconds (254313 nanoseconds)
+Iteration 39:
+Total time: 0,000065086 seconds (260343 nanoseconds)
+Iteration 40:
+Total time: 0,000064179 seconds (256717 nanoseconds)
+Iteration 41:
+Total time: 0,000066043 seconds (264171 nanoseconds)
+Iteration 42:
+Total time: 0,000065244 seconds (260974 nanoseconds)
+Iteration 43:
+Total time: 0,000066629 seconds (266515 nanoseconds)
+Iteration 44:
+Total time: 0,000082824 seconds (331295 nanoseconds)
+Iteration 45:
+Total time: 0,000078228 seconds (312911 nanoseconds)
+Iteration 46:
+Total time: 0,000081206 seconds (324824 nanoseconds)
+Iteration 47:
+Total time: 0,000077216 seconds (308863 nanoseconds)
+Iteration 48:
+Total time: 0,000100386 seconds (401545 nanoseconds)
+Iteration 49:
+Total time: 0,000081118 seconds (324473 nanoseconds)
+Iteration 50:
+Total time: 0,000073231 seconds (292924 nanoseconds)
+Iteration 51:
+Total time: 0,000057256 seconds (229025 nanoseconds)
+Iteration 52:
+Total time: 0,000066982 seconds (267927 nanoseconds)
+Iteration 53:
+Total time: 0,000063581 seconds (254323 nanoseconds)
+Iteration 54:
+Total time: 0,000054584 seconds (218335 nanoseconds)
+Iteration 55:
+Total time: 0,000067636 seconds (270542 nanoseconds)
+Iteration 56:
+Total time: 0,000068395 seconds (273578 nanoseconds)
+Iteration 57:
+Total time: 0,000058354 seconds (233414 nanoseconds)
+Iteration 58:
+Total time: 0,000053497 seconds (213987 nanoseconds)
+Iteration 59:
+Total time: 0,000055180 seconds (220720 nanoseconds)
+Iteration 60:
+Total time: 0,000044513 seconds (178051 nanoseconds)
+Iteration 61:
+Total time: 0,000046376 seconds (185504 nanoseconds)
+Iteration 62:
+Total time: 0,000047150 seconds (188600 nanoseconds)
+Iteration 63:
+Total time: 0,000054429 seconds (217714 nanoseconds)
+Iteration 64:
+Total time: 0,000061622 seconds (246487 nanoseconds)
+Iteration 65:
+Total time: 0,000059781 seconds (239124 nanoseconds)
+Iteration 66:
+Total time: 0,000057327 seconds (229306 nanoseconds)
+Iteration 67:
+Total time: 0,000046714 seconds (186857 nanoseconds)
+Iteration 68:
+Total time: 0,000041938 seconds (167752 nanoseconds)
+Iteration 69:
+Total time: 0,000042963 seconds (171850 nanoseconds)
+Iteration 70:
+Total time: 0,000041174 seconds (164696 nanoseconds)
+Iteration 71:
+Total time: 0,000043604 seconds (174414 nanoseconds)
+Iteration 72:
+Total time: 0,000043000 seconds (171999 nanoseconds)
+Iteration 73:
+Total time: 0,000047258 seconds (189031 nanoseconds)
+Iteration 74:
+Total time: 0,000055956 seconds (223825 nanoseconds)
+Iteration 75:
+Total time: 0,000059856 seconds (239424 nanoseconds)
+Iteration 76:
+Total time: 0,000046822 seconds (187288 nanoseconds)
+Iteration 77:
+Total time: 0,000044074 seconds (176297 nanoseconds)
+Iteration 78:
+Total time: 0,000054308 seconds (217233 nanoseconds)
+Iteration 79:
+Total time: 0,000055879 seconds (223515 nanoseconds)
+Iteration 80:
+Total time: 0,000049242 seconds (196966 nanoseconds)
+Iteration 81:
+Total time: 0,000053692 seconds (214769 nanoseconds)
+Iteration 82:
+Total time: 0,000048215 seconds (192858 nanoseconds)
+Iteration 83:
+Total time: 0,000041355 seconds (165418 nanoseconds)
+Iteration 84:
+Total time: 0,000047836 seconds (191345 nanoseconds)
+Iteration 85:
+Total time: 0,000055408 seconds (221631 nanoseconds)
+Iteration 86:
+Total time: 0,000059688 seconds (238753 nanoseconds)
+Iteration 87:
+Total time: 0,000058316 seconds (233263 nanoseconds)
+Iteration 88:
+Total time: 0,000060269 seconds (241077 nanoseconds)
+Iteration 89:
+Total time: 0,000049211 seconds (196845 nanoseconds)
+Iteration 90:
+Total time: 0,000042907 seconds (171628 nanoseconds)
+Iteration 91:
+Total time: 0,000046461 seconds (185845 nanoseconds)
+Iteration 92:
+Total time: 0,000042486 seconds (169945 nanoseconds)
+Iteration 93:
+Total time: 0,000041370 seconds (165478 nanoseconds)
+Iteration 94:
+Total time: 0,000049555 seconds (198218 nanoseconds)
+Iteration 95:
+Total time: 0,000046359 seconds (185434 nanoseconds)
+Iteration 96:
+Total time: 0,000057091 seconds (228364 nanoseconds)
+Iteration 97:
+Total time: 0,000047188 seconds (188751 nanoseconds)
+Iteration 98:
+Total time: 0,000071358 seconds (285430 nanoseconds)
+Iteration 99:
+Total time: 0,000074045 seconds (296180 nanoseconds)
+Iteration 100:
+Total time: 0,000071135 seconds (284539 nanoseconds)
+Buffsize 1000000:
+
+Iteration 1:
+Total time: 0,000666368 seconds (2665470 nanoseconds)
+Iteration 2:
+Total time: 0,000374245 seconds (1496980 nanoseconds)
+Iteration 3:
+Total time: 0,000337096 seconds (1348384 nanoseconds)
+Iteration 4:
+Total time: 0,000322251 seconds (1289004 nanoseconds)
+Iteration 5:
+Total time: 0,000387991 seconds (1551962 nanoseconds)
+Iteration 6:
+Total time: 0,000259848 seconds (1039391 nanoseconds)
+Iteration 7:
+Total time: 0,000257075 seconds (1028300 nanoseconds)
+Iteration 8:
+Total time: 0,000254300 seconds (1017199 nanoseconds)
+Iteration 9:
+Total time: 0,000249150 seconds (996600 nanoseconds)
+Iteration 10:
+Total time: 0,000612806 seconds (2451222 nanoseconds)
+Iteration 11:
+Total time: 0,000211673 seconds (846692 nanoseconds)
+Iteration 12:
+Total time: 0,000273648 seconds (1094592 nanoseconds)
+Iteration 13:
+Total time: 0,000212026 seconds (848105 nanoseconds)
+Iteration 14:
+Total time: 0,000183674 seconds (734695 nanoseconds)
+Iteration 15:
+Total time: 0,000216262 seconds (865047 nanoseconds)
+Iteration 16:
+Total time: 0,000174462 seconds (697846 nanoseconds)
+Iteration 17:
+Total time: 0,000178281 seconds (713124 nanoseconds)
+Iteration 18:
+Total time: 0,000239112 seconds (956446 nanoseconds)
+Iteration 19:
+Total time: 0,000319706 seconds (1278825 nanoseconds)
+Iteration 20:
+Total time: 0,000204610 seconds (818439 nanoseconds)
+Iteration 21:
+Total time: 0,000182582 seconds (730327 nanoseconds)
+Iteration 22:
+Total time: 0,000327328 seconds (1309312 nanoseconds)
+Iteration 23:
+Total time: 0,000180663 seconds (722652 nanoseconds)
+Iteration 24:
+Total time: 0,000297352 seconds (1189408 nanoseconds)
+Iteration 25:
+Total time: 0,000187280 seconds (749121 nanoseconds)
+Iteration 26:
+Total time: 0,000204147 seconds (816587 nanoseconds)
+Iteration 27:
+Total time: 0,000227715 seconds (910861 nanoseconds)
+Iteration 28:
+Total time: 0,000198732 seconds (794926 nanoseconds)
+Iteration 29:
+Total time: 0,000193572 seconds (774288 nanoseconds)
+Iteration 30:
+Total time: 0,000166843 seconds (667370 nanoseconds)
+Iteration 31:
+Total time: 0,000221218 seconds (884873 nanoseconds)
+Iteration 32:
+Total time: 0,000240359 seconds (961435 nanoseconds)
+Iteration 33:
+Total time: 0,000267297 seconds (1069186 nanoseconds)
+Iteration 34:
+Total time: 0,000240264 seconds (961055 nanoseconds)
+Iteration 35:
+Total time: 0,000246836 seconds (987344 nanoseconds)
+Iteration 36:
+Total time: 0,000243615 seconds (974459 nanoseconds)
+Iteration 37:
+Total time: 0,000235462 seconds (941849 nanoseconds)
+Iteration 38:
+Total time: 0,000253816 seconds (1015265 nanoseconds)
+Iteration 39:
+Total time: 0,000296035 seconds (1184139 nanoseconds)
+Iteration 40:
+Total time: 0,000302262 seconds (1209046 nanoseconds)
+Iteration 41:
+Total time: 0,000246165 seconds (984658 nanoseconds)
+Iteration 42:
+Total time: 0,000251730 seconds (1006920 nanoseconds)
+Iteration 43:
+Total time: 0,000293553 seconds (1174210 nanoseconds)
+Iteration 44:
+Total time: 0,000253794 seconds (1015175 nanoseconds)
+Iteration 45:
+Total time: 0,000280125 seconds (1120501 nanoseconds)
+Iteration 46:
+Total time: 0,000225151 seconds (900603 nanoseconds)
+Iteration 47:
+Total time: 0,000229792 seconds (919167 nanoseconds)
+Iteration 48:
+Total time: 0,000228680 seconds (914719 nanoseconds)
+Iteration 49:
+Total time: 0,000246275 seconds (985099 nanoseconds)
+Iteration 50:
+Total time: 0,000228219 seconds (912875 nanoseconds)
+Iteration 51:
+Total time: 0,000230636 seconds (922543 nanoseconds)
+Iteration 52:
+Total time: 0,000243713 seconds (974851 nanoseconds)
+Iteration 53:
+Total time: 0,000217850 seconds (871398 nanoseconds)
+Iteration 54:
+Total time: 0,000320115 seconds (1280458 nanoseconds)
+Iteration 55:
+Total time: 0,000268947 seconds (1075788 nanoseconds)
+Iteration 56:
+Total time: 0,000248649 seconds (994597 nanoseconds)
+Iteration 57:
+Total time: 0,000277205 seconds (1108819 nanoseconds)
+Iteration 58:
+Total time: 0,000272353 seconds (1089413 nanoseconds)
+Iteration 59:
+Total time: 0,000234468 seconds (937872 nanoseconds)
+Iteration 60:
+Total time: 0,000238117 seconds (952469 nanoseconds)
+Iteration 61:
+Total time: 0,000231610 seconds (926441 nanoseconds)
+Iteration 62:
+Total time: 0,000266916 seconds (1067663 nanoseconds)
+Iteration 63:
+Total time: 0,000272040 seconds (1088161 nanoseconds)
+Iteration 64:
+Total time: 0,000281137 seconds (1124548 nanoseconds)
+Iteration 65:
+Total time: 0,000224675 seconds (898699 nanoseconds)
+Iteration 66:
+Total time: 0,000229629 seconds (918516 nanoseconds)
+Iteration 67:
+Total time: 0,000205141 seconds (820564 nanoseconds)
+Iteration 68:
+Total time: 0,000211323 seconds (845290 nanoseconds)
+Iteration 69:
+Total time: 0,000216262 seconds (865047 nanoseconds)
+Iteration 70:
+Total time: 0,000247447 seconds (989789 nanoseconds)
+Iteration 71:
+Total time: 0,000212991 seconds (851963 nanoseconds)
+Iteration 72:
+Total time: 0,000236349 seconds (945396 nanoseconds)
+Iteration 73:
+Total time: 0,000213885 seconds (855539 nanoseconds)
+Iteration 74:
+Total time: 0,000211588 seconds (846352 nanoseconds)
+Iteration 75:
+Total time: 0,000210849 seconds (843396 nanoseconds)
+Iteration 76:
+Total time: 0,000214814 seconds (859256 nanoseconds)
+Iteration 77:
+Total time: 0,000211150 seconds (844598 nanoseconds)
+Iteration 78:
+Total time: 0,000252233 seconds (1008933 nanoseconds)
+Iteration 79:
+Total time: 0,000223568 seconds (894271 nanoseconds)
+Iteration 80:
+Total time: 0,000213201 seconds (852803 nanoseconds)
+Iteration 81:
+Total time: 0,000258588 seconds (1034351 nanoseconds)
+Iteration 82:
+Total time: 0,000278059 seconds (1112235 nanoseconds)
+Iteration 83:
+Total time: 0,000197787 seconds (791149 nanoseconds)
+Iteration 84:
+Total time: 0,000196014 seconds (784056 nanoseconds)
+Iteration 85:
+Total time: 0,000204715 seconds (818861 nanoseconds)
+Iteration 86:
+Total time: 0,000262237 seconds (1048948 nanoseconds)
+Iteration 87:
+Total time: 0,000312047 seconds (1248188 nanoseconds)
+Iteration 88:
+Total time: 0,000245025 seconds (980100 nanoseconds)
+Iteration 89:
+Total time: 0,000216329 seconds (865317 nanoseconds)
+Iteration 90:
+Total time: 0,000208863 seconds (835451 nanoseconds)
+Iteration 91:
+Total time: 0,000204360 seconds (817438 nanoseconds)
+Iteration 92:
+Total time: 0,000220963 seconds (883851 nanoseconds)
+Iteration 93:
+Total time: 0,000214601 seconds (858405 nanoseconds)
+Iteration 94:
+Total time: 0,000215608 seconds (862432 nanoseconds)
+Iteration 95:
+Total time: 0,000256269 seconds (1025074 nanoseconds)
+Iteration 96:
+Total time: 0,000224146 seconds (896585 nanoseconds)
+Iteration 97:
+Total time: 0,000253160 seconds (1012640 nanoseconds)
+Iteration 98:
+Total time: 0,000200365 seconds (801458 nanoseconds)
+Iteration 99:
+Total time: 0,000198098 seconds (792392 nanoseconds)
+Iteration 100:
+Total time: 0,000199633 seconds (798533 nanoseconds)
