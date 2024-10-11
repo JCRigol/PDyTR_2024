@@ -9,6 +9,31 @@ rm -f $client_output
 # Explicitly create (or clear) the output file
 touch $client_output
 
+# Function to get system specifications
+get_system_specs() {
+    echo "System Specifications:" 
+    echo "CPU: $(awk -F: '/model name/ {print $2}' /proc/cpuinfo | head -n 1 | xargs)"
+    
+    # Get memory details (size, speed, provider) for all memory sticks
+    stick_number=1
+    sudo dmidecode --type memory | awk -F: -v stick_num="$stick_number" '
+    /Size/ {size=$2}
+    /Speed/ {speed=$2}
+    /Manufacturer/ {if (size != "") {
+        printf "Memory Stick %d: Size: %s, Speed: %s, Manufacturer: %s\n", stick_num, size, speed, $2; 
+        size=""; speed=""; stick_num++
+    }}'
+    
+    # Get OS information
+    os_info=$(grep '^ID=' /etc/os-release | cut -d'=' -f2 | tr -d '\"') 
+    os_version=$(grep '^VERSION=' /etc/os-release | cut -d'=' -f2 | tr -d '\"')
+    echo "OS: $os_info $os_version"
+    echo "===================================="
+}
+
+# Save system specs to the output file
+get_system_specs >> $client_output
+
 # Compile the client
 gcc client.c -o client -lm -lz
 if [ $? -ne 0 ]; then
