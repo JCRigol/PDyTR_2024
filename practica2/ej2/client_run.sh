@@ -1,13 +1,16 @@
 #!/bin/bash
 
-# Define the output file for the client
+# Define the output & time file for the client
 client_output="client_output.txt"
+time_output="comm_times.csv"
 
-# Remove old output file if it exists
+# Remove old output & time file if it exists
 rm -f $client_output
+rm -rf $time_output
 
-# Explicitly create (or clear) the output file
+# Explicitly create (or clear) the output & time file
 touch $client_output
+touch $time_output
 
 # Function to get system specifications
 get_system_specs() {
