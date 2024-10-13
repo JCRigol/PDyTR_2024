@@ -6,9 +6,9 @@ server_output="server_output.txt"
 time_output="comm_times.csv"
 
 # Remove old output files if any exist
-rm -rf $client_output
-rm -rf $server_output
-rm -rf $time_output
+rm -f $client_output
+rm -f $server_output
+rm -f $time_output
 
 # Create the output files
 touch $client_output
@@ -34,7 +34,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Start the boxes
-vagrant up --debug
+vagrant up
 
 # Reassign naming
 CLIENT="vm1"
@@ -51,28 +51,38 @@ vagrant ssh $CLIENT -c "cp /vagrant/client /home/vagrant/client/"
 vagrant ssh $SERVER -c "mkdir -p ~/server"
 vagrant ssh $SERVER -c "cp /vagrant/server /home/vagrant/server/"
 
+# Debug
+vagrant ssh $SERVER -c "ls -la ~/server/"
+
 # Execution start
 # Run the server
 echo "Server execution starting..."
 vagrant ssh $SERVER -c "
-	chmod +x ~/server/$server_binary &&
-	nohup ~/server/$server_binary > ~/server/$server_output 2>&1 &
+	server_param1=\"1234\"
+	
+	cd server/ &&
+	chmod +x $server_binary &&
+	nohup ./$server_binary \"\$server_param1\" > $server_output 2>&1 & sleep 1
 "
+
+# Debug
+vagrant ssh $CLIENT -c "ls -la ~/client/"
 
 # Run the client
 echo "Client execution starting..."
 vagrant ssh $CLIENT -c "
-	chmod +x ~/client/$client_binary
+	cd client/ &&
+	chmod +x $client_binary
 	client_param1=\"$SERVER_IP\"
 	client_param2=\"1234\"
-	client_output=\"~/client/$client_output\"
+	client_output=\"$client_output\"
 	
 	for i in {1..6}
 	do
 		echo -e \"\n==== Client \$i ==== \" >> \$client_output
 		client_param3=\$i
 		
-		~/client/$client_binary \"\$client_param1\" \"\$client_param2\" \"\$client_param3\" >> \$client_output 2>&1
+		./$client_binary \"\$client_param1\" \"\$client_param2\" \"\$client_param3\" >> \$client_output 2>&1
 		echo \"Client \$i sent: 10^\$client_param3 bytes\" >> \$client_output
 	done
 "
