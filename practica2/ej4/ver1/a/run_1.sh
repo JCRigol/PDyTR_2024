@@ -63,7 +63,7 @@ vagrant ssh $SERVER -c "
 	cd server/ &&
 	chmod +x $server_binary &&
 	nohup ./$server_binary \"\$server_param1\" > $server_output 2>&1 & sleep 1
-  sleep 10
+	sleep 10
 "
 
 # Debug
