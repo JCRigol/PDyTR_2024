@@ -6,9 +6,9 @@ server_output="server_output.txt"
 time_output="comm_times.csv"
 
 # Remove old output files if any exist
-rm -rf $client_output
-rm -rf $server_output
-rm -rf $time_output
+rm -f $client_output
+rm -f $server_output
+rm -f $time_output
 
 # Create the output files
 touch $client_output
@@ -34,7 +34,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Start the boxes
-vagrant up --debug
+vagrant up
 
 # Reassign naming
 BOX1="vm1"
@@ -51,8 +51,11 @@ vagrant ssh $SERVER -c "cp /vagrant/server /home/vagrant/server/"
 # Run the server
 echo "Server execution starting..."
 vagrant ssh $SERVER -c "
-	chmod +x ~/server/$server_binary &&
-	nohup ~/server/$server_binary > ~/server/$server_output 2>&1 &
+	server_param1=\"1234\"
+	
+	cd server/ &&
+	chmod +x $server_binary &&
+	nohup ./$server_binary \"\$server_param1\" > $server_output 2>&1 & sleep 1
 "
 
 # Run the client locally
