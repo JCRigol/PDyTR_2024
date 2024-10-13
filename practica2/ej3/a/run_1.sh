@@ -41,15 +41,15 @@ CLIENT="vm1"
 SERVER="vm2"
 
 # Retrieve IP addresses from boxes
-CLIENT_IP=$(vagrant ssh $CLIENT -c "hostname -I | awk '{print \$1}'" | tr -d '\r')
-SERVER_IP=$(vagrant ssh $SERVER -c "hostname -I | awk '{print \$1}'" | tr -d '\r')
+CLIENT_IP=$(vagrant ssh $CLIENT -c "hostname -I | awk '{print \$2}'" | tr -d '\r')
+SERVER_IP=$(vagrant ssh $SERVER -c "hostname -I | awk '{print \$2}'" | tr -d '\r')
 
 # Transfer the binaries to the respective boxes
 vagrant ssh $CLIENT -c "mkdir -p ~/client"
-scp $client_binary vagrant@${CLIENT_IP}:~/client/
+vagrant ssh $CLIENT -c "cp /vagrant/client /home/vagrant/client/"
 
 vagrant ssh $SERVER -c "mkdir -p ~/server"
-scp $server_binary vagrant@${SERVER_IP}:~/server/
+vagrant ssh $SERVER -c "cp /vagrant/server /home/vagrant/server/"
 
 # Execution start
 # Run the server
@@ -80,9 +80,9 @@ vagrant ssh $CLIENT -c "
 echo "Client execution completed"
 
 # Retrieve the output files from server and client boxes
-scp vagrant@${CLIENT_IP}:~/client/$client_output ./$client_output
-scp vagrant@${CLIENT_IP}:~/client/$time_output ./$time_output
-scp vagrant@${SERVER_IP}:~/server/$server_output ./$server_output
+vagrant ssh $CLIENT -c "cp /home/vagrant/client/$client_output /vagrant/"
+vagrant ssh $CLIENT -c "cp /home/vagrant/client/$time_output /vagrant/"
+vagrant ssh $SERVER -c "cp /home/vagrant/server/$server_output /vagrant/"
 
 # Cleanup
 echo "Cleaning up..."
