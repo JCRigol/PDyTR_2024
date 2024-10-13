@@ -37,17 +37,13 @@ fi
 vagrant up --debug
 
 # Reassign naming
-CLIENT="vm1"
+BOX1="vm1"
 SERVER="vm2"
 
 # Retrieve IP addresses from boxes
-CLIENT_IP=$(vagrant ssh $CLIENT -c "hostname -I | awk '{print \$2}'" | tr -d '\r')
 SERVER_IP=$(vagrant ssh $SERVER -c "hostname -I | awk '{print \$2}'" | tr -d '\r')
 
 # Transfer the binaries to the respective boxes
-vagrant ssh $CLIENT -c "mkdir -p ~/client"
-vagrant ssh $CLIENT -c "cp /vagrant/client /home/vagrant/client/"
-
 vagrant ssh $SERVER -c "mkdir -p ~/server"
 vagrant ssh $SERVER -c "cp /vagrant/server /home/vagrant/server/"
 
@@ -59,33 +55,27 @@ vagrant ssh $SERVER -c "
 	nohup ~/server/$server_binary > ~/server/$server_output 2>&1 &
 "
 
-# Run the client
+# Run the client locally
 echo "Client execution starting..."
-vagrant ssh $CLIENT -c "
-	chmod +x ~/client/$client_binary
-	client_param1=\"$SERVER_IP\"
-	client_param2=\"1234\"
-	client_output=\"~/client/$client_output\"
+client_param1="$SERVER_IP"
+client_param2="1234"
 	
-	for i in {1..6}
-	do
-		echo -e \"\n==== Client \$i ==== \" >> \$client_output
-		client_param3=\$i
+for i in {1..6}
+do
+	echo -e "\n==== Client $i ==== " >> $client_output
+	client_param3=$i
 		
-		~/client/$client_binary \"\$client_param1\" \"\$client_param2\" \"\$client_param3\" >> \$client_output 2>&1
-		echo \"Client \$i sent: 10^\$client_param3 bytes\" >> \$client_output
-	done
-"
+	./$client_binary "$client_param1" "$client_param2" "$client_param3" >> $client_output 2>&1
+	echo "Client $i sent: 10^$client_param3 bytes" >> $client_output
+done
 
 echo "Client execution completed"
 
 # Retrieve the output files from server and client boxes
-vagrant ssh $CLIENT -c "cp /home/vagrant/client/$client_output /vagrant/"
-vagrant ssh $CLIENT -c "cp /home/vagrant/client/$time_output /vagrant/"
 vagrant ssh $SERVER -c "cp /home/vagrant/server/$server_output /vagrant/"
 
 # Cleanup
 echo "Cleaning up..."
-vagrant halt $CLIENT $SERVER
-vagrant destroy -f $CLIENT $SERVER
+vagrant halt $BOX1 $SERVER
+vagrant destroy -f $BOX1 $SERVER
 echo "Vagrant boxes have been destroyed, cleanup complete"
