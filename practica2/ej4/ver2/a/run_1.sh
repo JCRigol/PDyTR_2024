@@ -37,15 +37,22 @@ fi
 vagrant up
 
 # Reassign naming
-BOX1="vm1"
+CLIENT="vm1"
 SERVER="vm2"
 
 # Retrieve IP addresses from boxes
+CLIENT_IP=$(vagrant ssh $CLIENT -c "hostname -I | awk '{print \$2}'" | tr -d '\r')
 SERVER_IP=$(vagrant ssh $SERVER -c "hostname -I | awk '{print \$2}'" | tr -d '\r')
 
 # Transfer the binaries to the respective boxes
+vagrant ssh $CLIENT -c "mkdir -p ~/client"
+vagrant ssh $CLIENT -c "cp /vagrant/client /home/vagrant/client/"
+
 vagrant ssh $SERVER -c "mkdir -p ~/server"
 vagrant ssh $SERVER -c "cp /vagrant/server /home/vagrant/server/"
+
+# Debug
+vagrant ssh $SERVER -c "ls -la ~/server/"
 
 # Execution start
 # Run the server
@@ -56,30 +63,40 @@ vagrant ssh $SERVER -c "
 	cd server/ &&
 	chmod +x $server_binary &&
 	nohup ./$server_binary \"\$server_param1\" > $server_output 2>&1 & sleep 1
-	sleep 10
 "
 
-# Run the client locally
+# Debug
+vagrant ssh $CLIENT -c "ls -la ~/client/"
+
+# Run the client
 echo "Client execution starting..."
-client_param1="$SERVER_IP"
-client_param2="1234"
+vagrant ssh $CLIENT -c "
+	cd client/ &&
+	chmod +x $client_binary
+	client_param1=\"$SERVER_IP\"
+	client_param2=\"1234\"
+	client_output=\"$client_output\"
 	
-for i in {1..6}
-do
-	echo -e "\n==== Client $i ==== " >> $client_output
-	client_param3=$i
+	for i in {1..6}
+	do
+		echo -e \"\n==== Client \$i ==== \" >> \$client_output
+		client_param3=\$i
 		
-	./$client_binary "$client_param1" "$client_param2" "$client_param3" >> $client_output 2>&1
-	echo "Client $i sent: 10^$client_param3 bytes" >> $client_output
-done
+		sleep 10
+		./$client_binary \"\$client_param1\" \"\$client_param2\" \"\$client_param3\" >> \$client_output 2>&1
+		echo \"Client \$i sent: 10^\$client_param3 bytes\" >> \$client_output
+	done
+"
 
 echo "Client execution completed"
 
 # Retrieve the output files from server and client boxes
+vagrant ssh $CLIENT -c "cp /home/vagrant/client/$client_output /vagrant/"
+vagrant ssh $CLIENT -c "cp /home/vagrant/client/$time_output /vagrant/"
 vagrant ssh $SERVER -c "cp /home/vagrant/server/$server_output /vagrant/"
 
 # Cleanup
 echo "Cleaning up..."
-vagrant halt $BOX1 $SERVER
-vagrant destroy -f $BOX1 $SERVER
+vagrant halt $CLIENT $SERVER
+vagrant destroy -f $CLIENT $SERVER
 echo "Vagrant boxes have been destroyed, cleanup complete"
