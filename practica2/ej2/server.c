@@ -92,7 +92,7 @@ int main(int argc, char *argv[])
             char buffer[bytes_torecv];
             bzero(buffer, bytes_torecv);
 
-            n = write(newsockfd, ack_msg, strlen(ack_msg) + 1);
+            n = write(newsockfd, &bytes_torecv, sizeof(int));
             if (n < 0)
                 error("ERROR writing to socket");
 
@@ -118,7 +118,7 @@ int main(int argc, char *argv[])
 
                     } while (n > 0 && bytes_received < bytes_torecv);
 
-                    n = write(newsockfd, ack_msg, strlen(ack_msg) + 1);
+                    n = write(newsockfd, buffer, bytes_received);
                     if (n < 0)
                         error("ERROR writing to socket");
 
