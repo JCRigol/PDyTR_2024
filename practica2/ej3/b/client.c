@@ -84,8 +84,7 @@ int main(int argc, char *argv[])
     buffer[buff_size - 1] = '\0';  // Null-terminate the buffer for printf
 
     // ---- UTILITIES ----
-    int nr_bytes_sent;
-    char ack_buffer[19];
+    int nr_bytes_sent, ack_buff_size = 0;
     unsigned long checksum;
     bool corrupted_comm;
     struct timeval start, end;
@@ -94,7 +93,6 @@ int main(int argc, char *argv[])
     // ---- COMM START ----
     for (int i = 0; i < 100; i++){
         nr_bytes_sent = 0;
-        bzero(ack_buffer, 19);
         checksum = crc32(0L, (const unsigned char *)buffer, buff_size);
         amount_of_msgs_needed = 0;
 
@@ -106,12 +104,12 @@ int main(int argc, char *argv[])
         if (n < 0)
             error("ERROR writing to socket");
 
-        n = read(sockfd, ack_buffer, 19);
+        n = read(sockfd, &ack_buff_size, sizeof(buff_size));
         if (n < 0)
             error("ERROR reading from socket");
 
         amount_of_msgs_needed++;
-        printf("%s\n", ack_buffer);
+        printf("%d\n", ack_buff_size);
 
         do {
             // ---- BUFFER COMM LOOP ----
@@ -122,13 +120,31 @@ int main(int argc, char *argv[])
 
                 nr_bytes_sent += n;
 
-                n = read(sockfd, ack_buffer, 19);
-                if (n < 0)
-                    error("ERROR writing to socket");
+                // FANCY VERIFICATION
+                int bytes_received = 0, bytes_torecv = buff_size;
+                char ack_buffer[buff_size];
+                bzero(ack_buffer, buff_size);
+
+                do {
+                    n = read(sockfd, ack_buffer + bytes_received, bytes_torecv - bytes_received);
+                    if (n < 0)
+                        error("ERROR reading from socket");
+                    else if (n == 0)
+                        break;
+
+                    bytes_received += n;
+                    printf("Bytes received so far: %d\n", bytes_received);
+
+                    } while (n > 0 && bytes_received < bytes_torecv);
 
                 amount_of_msgs_needed++;
-                printf("%s\n", ack_buffer);
-                bzero(ack_buffer, 18);
+
+                if(memcmp(buffer, ack_buffer, buff_size) == 0) {
+                    printf("Ack successfull");
+                } else {
+                    error("Ack buffer != buffer");
+                }
+
             } while (nr_bytes_sent < buff_size);
 
             // ---- VERIFICATION PHASE ----
