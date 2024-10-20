@@ -1,0 +1,4918 @@
+
+==== Client 1 ==== 
+10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfull10
+Bytes received so far: 10
+Ack successfullClient 1 sent: 10^1 bytes
+
+==== Client 2 ==== 
+100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfull100
+Bytes received so far: 100
+Ack successfullClient 2 sent: 10^2 bytes
+
+==== Client 3 ==== 
+1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfull1000
+Bytes received so far: 1000
+Ack successfullClient 3 sent: 10^3 bytes
+
+==== Client 4 ==== 
+10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 5792
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 8688
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 7240
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 8688
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 7240
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 7240
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 7240
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 8688
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 8688
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 4344
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 2896
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 1448
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 5792
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 7240
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 5792
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 7240
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 5792
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 1448
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 8688
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 8688
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 2896
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 1448
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 1448
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 5792
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 10000
+Ack successfull10000
+Bytes received so far: 1448
+Bytes received so far: 10000
+Ack successfullClient 4 sent: 10^4 bytes
+
+==== Client 5 ==== 
+100000
+Bytes received so far: 14480
+Bytes received so far: 28960
+Bytes received so far: 43440
+Bytes received so far: 68056
+Bytes received so far: 94120
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 78192
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 28960
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 34752
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 43440
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 5792
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 20272
+Bytes received so far: 57920
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 39096
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 36200
+Bytes received so far: 65160
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 34752
+Bytes received so far: 78192
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 28960
+Bytes received so far: 68056
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 55024
+Bytes received so far: 70952
+Bytes received so far: 85432
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 13032
+Bytes received so far: 20272
+Bytes received so far: 31856
+Bytes received so far: 41992
+Bytes received so far: 49232
+Bytes received so far: 53576
+Bytes received so far: 65160
+Bytes received so far: 73848
+Bytes received so far: 85432
+Bytes received so far: 92672
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 7240
+Bytes received so far: 15928
+Bytes received so far: 30408
+Bytes received so far: 40544
+Bytes received so far: 49232
+Bytes received so far: 63712
+Bytes received so far: 70952
+Bytes received so far: 73848
+Bytes received so far: 75296
+Bytes received so far: 79640
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 7240
+Bytes received so far: 18824
+Bytes received so far: 30408
+Bytes received so far: 40544
+Bytes received so far: 55024
+Bytes received so far: 69504
+Bytes received so far: 81088
+Bytes received so far: 95568
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 30408
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 88328
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 36200
+Bytes received so far: 81088
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 47784
+Bytes received so far: 65160
+Bytes received so far: 82536
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 95568
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 53576
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 79640
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 63712
+Bytes received so far: 79640
+Bytes received so far: 94120
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 75296
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 56472
+Bytes received so far: 76744
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 20272
+Bytes received so far: 57920
+Bytes received so far: 89776
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 43440
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 37648
+Bytes received so far: 76744
+Bytes received so far: 94120
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 33304
+Bytes received so far: 55024
+Bytes received so far: 73848
+Bytes received so far: 92672
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 37648
+Bytes received so far: 82536
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 31856
+Bytes received so far: 63712
+Bytes received so far: 81088
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 31856
+Bytes received so far: 65160
+Bytes received so far: 79640
+Bytes received so far: 99912
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 43440
+Bytes received so far: 62264
+Bytes received so far: 78192
+Bytes received so far: 95568
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 55024
+Bytes received so far: 75296
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 34752
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 57920
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 92672
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 1448
+Bytes received so far: 34752
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 5792
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 81088
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 39096
+Bytes received so far: 65160
+Bytes received so far: 78192
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 57920
+Bytes received so far: 95568
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 55024
+Bytes received so far: 73848
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 92672
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 81088
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 82536
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 13032
+Bytes received so far: 44888
+Bytes received so far: 65160
+Bytes received so far: 78192
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 56472
+Bytes received so far: 76744
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 17376
+Bytes received so far: 55024
+Bytes received so far: 76744
+Bytes received so far: 95568
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 36200
+Bytes received so far: 55024
+Bytes received so far: 76744
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 92672
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 13032
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 21720
+Bytes received so far: 65160
+Bytes received so far: 95568
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 34752
+Bytes received so far: 65160
+Bytes received so far: 70952
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 41992
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 20272
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 28960
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 60816
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 56472
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 33304
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 5792
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 8688
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 63712
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 60816
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 21720
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 63712
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 41992
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 57920
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 11584
+Bytes received so far: 26064
+Bytes received so far: 40544
+Bytes received so far: 56472
+Bytes received so far: 86880
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 4344
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 10136
+Bytes received so far: 60816
+Bytes received so far: 94120
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 13032
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 18824
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 83984
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 14480
+Bytes received so far: 44888
+Bytes received so far: 63712
+Bytes received so far: 91224
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 13032
+Bytes received so far: 28960
+Bytes received so far: 65160
+Bytes received so far: 69504
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 8688
+Bytes received so far: 44888
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 15928
+Bytes received so far: 23168
+Bytes received so far: 33304
+Bytes received so far: 57920
+Bytes received so far: 63712
+Bytes received so far: 76744
+Bytes received so far: 86880
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 7240
+Bytes received so far: 15928
+Bytes received so far: 40544
+Bytes received so far: 47784
+Bytes received so far: 60816
+Bytes received so far: 72400
+Bytes received so far: 98464
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 8688
+Bytes received so far: 20272
+Bytes received so far: 36200
+Bytes received so far: 47784
+Bytes received so far: 53576
+Bytes received so far: 62264
+Bytes received so far: 73848
+Bytes received so far: 97016
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 8688
+Bytes received so far: 21720
+Bytes received so far: 39096
+Bytes received so far: 44888
+Bytes received so far: 57920
+Bytes received so far: 70952
+Bytes received so far: 86880
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 8688
+Bytes received so far: 23168
+Bytes received so far: 36200
+Bytes received so far: 46336
+Bytes received so far: 60816
+Bytes received so far: 78192
+Bytes received so far: 99912
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 8688
+Bytes received so far: 20272
+Bytes received so far: 40544
+Bytes received so far: 52128
+Bytes received so far: 66608
+Bytes received so far: 78192
+Bytes received so far: 89776
+Bytes received so far: 100000
+Ack successfull100000
+Bytes received so far: 31856
+Bytes received so far: 65160
+Bytes received so far: 94120
+Bytes received so far: 100000
+Ack successfullClient 5 sent: 10^5 bytes
+
+==== Client 6 ==== 
+1000000
+Bytes received so far: 4344
+Bytes received so far: 14480
+Bytes received so far: 33304
+Bytes received so far: 43440
+Bytes received so far: 62264
+Bytes received so far: 78192
+Bytes received so far: 101360
+Bytes received so far: 110048
+Bytes received so far: 120184
+Bytes received so far: 139008
+Bytes received so far: 144800
+Bytes received so far: 173760
+Bytes received so far: 192584
+Bytes received so far: 205616
+Bytes received so far: 207064
+Bytes received so far: 237472
+Bytes received so far: 269328
+Bytes received so far: 276568
+Bytes received so far: 311320
+Bytes received so far: 328696
+Bytes received so far: 344624
+Bytes received so far: 356208
+Bytes received so far: 395304
+Bytes received so far: 430056
+Bytes received so far: 453224
+Bytes received so far: 483632
+Bytes received so far: 501008
+Bytes received so far: 516936
+Bytes received so far: 543000
+Bytes received so far: 548792
+Bytes received so far: 567616
+Bytes received so far: 613952
+Bytes received so far: 645808
+Bytes received so far: 667528
+Bytes received so far: 679112
+Bytes received so far: 718208
+Bytes received so far: 744272
+Bytes received so far: 760200
+Bytes received so far: 786264
+Bytes received so far: 802192
+Bytes received so far: 836944
+Bytes received so far: 854320
+Bytes received so far: 874592
+Bytes received so far: 920928
+Bytes received so far: 939752
+Bytes received so far: 964368
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 60816
+Bytes received so far: 78192
+Bytes received so far: 134664
+Bytes received so far: 195480
+Bytes received so far: 259192
+Bytes received so far: 327248
+Bytes received so far: 370688
+Bytes received so far: 383720
+Bytes received so far: 414128
+Bytes received so far: 448880
+Bytes received so far: 482184
+Bytes received so far: 531416
+Bytes received so far: 545896
+Bytes received so far: 579200
+Bytes received so far: 638568
+Bytes received so far: 671872
+Bytes received so far: 709520
+Bytes received so far: 757304
+Bytes received so far: 774680
+Bytes received so far: 816672
+Bytes received so far: 828256
+Bytes received so far: 839840
+Bytes received so far: 876040
+Bytes received so far: 905000
+Bytes received so far: 964368
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 130320
+Bytes received so far: 150592
+Bytes received so far: 172312
+Bytes received so far: 188240
+Bytes received so far: 221544
+Bytes received so far: 237472
+Bytes received so far: 288152
+Bytes received so far: 302632
+Bytes received so far: 321456
+Bytes received so far: 341728
+Bytes received so far: 360552
+Bytes received so far: 392408
+Bytes received so far: 408336
+Bytes received so far: 424264
+Bytes received so far: 461912
+Bytes received so far: 498112
+Bytes received so far: 522728
+Bytes received so far: 557480
+Bytes received so far: 599472
+Bytes received so far: 628432
+Bytes received so far: 658840
+Bytes received so far: 693592
+Bytes received so far: 725448
+Bytes received so far: 758752
+Bytes received so far: 783368
+Bytes received so far: 802192
+Bytes received so far: 823912
+Bytes received so far: 835496
+Bytes received so far: 857216
+Bytes received so far: 896312
+Bytes received so far: 933960
+Bytes received so far: 954232
+Bytes received so far: 971608
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 49232
+Bytes received so far: 68056
+Bytes received so far: 78192
+Bytes received so far: 98464
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 140456
+Bytes received so far: 207064
+Bytes received so far: 222992
+Bytes received so far: 247608
+Bytes received so far: 302632
+Bytes received so far: 338832
+Bytes received so far: 353312
+Bytes received so far: 370688
+Bytes received so far: 418472
+Bytes received so far: 447432
+Bytes received so far: 483632
+Bytes received so far: 509696
+Bytes received so far: 548792
+Bytes received so far: 571960
+Bytes received so far: 609608
+Bytes received so far: 613952
+Bytes received so far: 637120
+Bytes received so far: 667528
+Bytes received so far: 822464
+Bytes received so far: 889072
+Bytes received so far: 903552
+Bytes received so far: 925272
+Bytes received so far: 939752
+Bytes received so far: 970160
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 43440
+Bytes received so far: 65160
+Bytes received so far: 72400
+Bytes received so far: 92672
+Bytes received so far: 133216
+Bytes received so far: 163624
+Bytes received so far: 178104
+Bytes received so far: 185344
+Bytes received so far: 217200
+Bytes received so far: 243264
+Bytes received so far: 278016
+Bytes received so far: 308424
+Bytes received so far: 321456
+Bytes received so far: 356208
+Bytes received so far: 376480
+Bytes received so far: 431504
+Bytes received so far: 461912
+Bytes received so far: 498112
+Bytes received so far: 519832
+Bytes received so far: 554584
+Bytes received so far: 569064
+Bytes received so far: 574856
+Bytes received so far: 609608
+Bytes received so far: 628432
+Bytes received so far: 650152
+Bytes received so far: 677664
+Bytes received so far: 693592
+Bytes received so far: 724000
+Bytes received so far: 786264
+Bytes received so far: 821016
+Bytes received so far: 865904
+Bytes received so far: 903552
+Bytes received so far: 964368
+Bytes received so far: 996224
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 39096
+Bytes received so far: 65160
+Bytes received so far: 120184
+Bytes received so far: 175208
+Bytes received so far: 243264
+Bytes received so far: 267880
+Bytes received so far: 306976
+Bytes received so far: 346072
+Bytes received so far: 373584
+Bytes received so far: 427160
+Bytes received so far: 438744
+Bytes received so far: 519832
+Bytes received so far: 569064
+Bytes received so far: 584992
+Bytes received so far: 619744
+Bytes received so far: 634224
+Bytes received so far: 658840
+Bytes received so far: 693592
+Bytes received so far: 726896
+Bytes received so far: 747168
+Bytes received so far: 757304
+Bytes received so far: 796400
+Bytes received so far: 829704
+Bytes received so far: 855768
+Bytes received so far: 894864
+Bytes received so far: 931064
+Bytes received so far: 974504
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 65160
+Bytes received so far: 107152
+Bytes received so far: 130320
+Bytes received so far: 162176
+Bytes received so far: 178104
+Bytes received so far: 195480
+Bytes received so far: 224440
+Bytes received so far: 243264
+Bytes received so far: 289600
+Bytes received so far: 308424
+Bytes received so far: 346072
+Bytes received so far: 373584
+Bytes received so far: 403992
+Bytes received so far: 438744
+Bytes received so far: 460464
+Bytes received so far: 503904
+Bytes received so far: 522728
+Bytes received so far: 569064
+Bytes received so far: 584992
+Bytes received so far: 645808
+Bytes received so far: 671872
+Bytes received so far: 689248
+Bytes received so far: 722552
+Bytes received so far: 754408
+Bytes received so far: 812328
+Bytes received so far: 823912
+Bytes received so far: 878936
+Bytes received so far: 894864
+Bytes received so far: 968712
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 28960
+Bytes received so far: 47784
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 130320
+Bytes received so far: 146248
+Bytes received so far: 192584
+Bytes received so far: 208512
+Bytes received so far: 228784
+Bytes received so far: 243264
+Bytes received so far: 244712
+Bytes received so far: 278016
+Bytes received so far: 306976
+Bytes received so far: 327248
+Bytes received so far: 369240
+Bytes received so far: 388064
+Bytes received so far: 406888
+Bytes received so far: 448880
+Bytes received so far: 489424
+Bytes received so far: 503904
+Bytes received so far: 525624
+Bytes received so far: 563272
+Bytes received so far: 599472
+Bytes received so far: 626984
+Bytes received so far: 658840
+Bytes received so far: 687800
+Bytes received so far: 699384
+Bytes received so far: 702280
+Bytes received so far: 747168
+Bytes received so far: 764544
+Bytes received so far: 786264
+Bytes received so far: 807984
+Bytes received so far: 826808
+Bytes received so far: 884728
+Bytes received so far: 916584
+Bytes received so far: 955680
+Bytes received so far: 988984
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 65160
+Bytes received so far: 81088
+Bytes received so far: 130320
+Bytes received so far: 163624
+Bytes received so far: 195480
+Bytes received so far: 222992
+Bytes received so far: 266432
+Bytes received so far: 306976
+Bytes received so far: 373584
+Bytes received so far: 418472
+Bytes received so far: 447432
+Bytes received so far: 482184
+Bytes received so far: 493768
+Bytes received so far: 499560
+Bytes received so far: 563272
+Bytes received so far: 592232
+Bytes received so far: 612504
+Bytes received so far: 624088
+Bytes received so far: 631328
+Bytes received so far: 664632
+Bytes received so far: 699384
+Bytes received so far: 764544
+Bytes received so far: 797848
+Bytes received so far: 834048
+Bytes received so far: 912240
+Bytes received so far: 946992
+Bytes received so far: 986088
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 28960
+Bytes received so far: 69504
+Bytes received so far: 99912
+Bytes received so far: 121632
+Bytes received so far: 139008
+Bytes received so far: 156384
+Bytes received so far: 215752
+Bytes received so far: 233128
+Bytes received so far: 262088
+Bytes received so far: 276568
+Bytes received so far: 295392
+Bytes received so far: 324352
+Bytes received so far: 359104
+Bytes received so far: 395304
+Bytes received so far: 434400
+Bytes received so far: 454672
+Bytes received so far: 486528
+Bytes received so far: 521280
+Bytes received so far: 541552
+Bytes received so far: 558928
+Bytes received so far: 570512
+Bytes received so far: 612504
+Bytes received so far: 624088
+Bytes received so far: 650152
+Bytes received so far: 705176
+Bytes received so far: 745720
+Bytes received so far: 805088
+Bytes received so far: 819568
+Bytes received so far: 848528
+Bytes received so far: 867352
+Bytes received so far: 884728
+Bytes received so far: 926720
+Bytes received so far: 949888
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 33304
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 127424
+Bytes received so far: 166520
+Bytes received so far: 182448
+Bytes received so far: 195480
+Bytes received so far: 236024
+Bytes received so far: 279464
+Bytes received so far: 298288
+Bytes received so far: 335936
+Bytes received so far: 363448
+Bytes received so far: 392408
+Bytes received so far: 437296
+Bytes received so far: 474944
+Bytes received so far: 493768
+Bytes received so far: 512592
+Bytes received so far: 547344
+Bytes received so far: 558928
+Bytes received so far: 605264
+Bytes received so far: 624088
+Bytes received so far: 641464
+Bytes received so far: 674768
+Bytes received so far: 689248
+Bytes received so far: 692144
+Bytes received so far: 754408
+Bytes received so far: 771784
+Bytes received so far: 802192
+Bytes received so far: 819568
+Bytes received so far: 845632
+Bytes received so far: 884728
+Bytes received so far: 912240
+Bytes received so far: 949888
+Bytes received so far: 965816
+Bytes received so far: 986088
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 105704
+Bytes received so far: 130320
+Bytes received so far: 157832
+Bytes received so far: 195480
+Bytes received so far: 214304
+Bytes received so far: 233128
+Bytes received so far: 247608
+Bytes received so far: 270776
+Bytes received so far: 311320
+Bytes received so far: 331592
+Bytes received so far: 348968
+Bytes received so far: 363448
+Bytes received so far: 383720
+Bytes received so far: 428608
+Bytes received so far: 443088
+Bytes received so far: 459016
+Bytes received so far: 479288
+Bytes received so far: 493768
+Bytes received so far: 506800
+Bytes received so far: 548792
+Bytes received so far: 580648
+Bytes received so far: 612504
+Bytes received so far: 624088
+Bytes received so far: 651600
+Bytes received so far: 695040
+Bytes received so far: 722552
+Bytes received so far: 751512
+Bytes received so far: 765992
+Bytes received so far: 803640
+Bytes received so far: 819568
+Bytes received so far: 845632
+Bytes received so far: 878936
+Bytes received so far: 897760
+Bytes received so far: 929616
+Bytes received so far: 948440
+Bytes received so far: 986088
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 114392
+Bytes received so far: 130320
+Bytes received so far: 149144
+Bytes received so far: 183896
+Bytes received so far: 195480
+Bytes received so far: 214304
+Bytes received so far: 250504
+Bytes received so far: 267880
+Bytes received so far: 312768
+Bytes received so far: 350416
+Bytes received so far: 363448
+Bytes received so far: 366344
+Bytes received so far: 405440
+Bytes received so far: 422816
+Bytes received so far: 441640
+Bytes received so far: 472048
+Bytes received so far: 489424
+Bytes received so far: 528520
+Bytes received so far: 569064
+Bytes received so far: 619744
+Bytes received so far: 640016
+Bytes received so far: 741376
+Bytes received so far: 754408
+Bytes received so far: 777576
+Bytes received so far: 816672
+Bytes received so far: 855768
+Bytes received so far: 877488
+Bytes received so far: 906448
+Bytes received so far: 941200
+Bytes received so far: 961472
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 28960
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 78192
+Bytes received so far: 112944
+Bytes received so far: 130320
+Bytes received so far: 133216
+Bytes received so far: 162176
+Bytes received so far: 194032
+Bytes received so far: 215752
+Bytes received so far: 233128
+Bytes received so far: 247608
+Bytes received so far: 249056
+Bytes received so far: 262088
+Bytes received so far: 298288
+Bytes received so far: 325800
+Bytes received so far: 353312
+Bytes received so far: 372136
+Bytes received so far: 409784
+Bytes received so far: 422816
+Bytes received so far: 444536
+Bytes received so far: 464808
+Bytes received so far: 499560
+Bytes received so far: 566168
+Bytes received so far: 599472
+Bytes received so far: 624088
+Bytes received so far: 625536
+Bytes received so far: 637120
+Bytes received so far: 670424
+Bytes received so far: 819568
+Bytes received so far: 855768
+Bytes received so far: 900656
+Bytes received so far: 906448
+Bytes received so far: 946992
+Bytes received so far: 981744
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 40544
+Bytes received so far: 53576
+Bytes received so far: 65160
+Bytes received so far: 83984
+Bytes received so far: 128872
+Bytes received so far: 157832
+Bytes received so far: 176656
+Bytes received so far: 224440
+Bytes received so far: 286704
+Bytes received so far: 340280
+Bytes received so far: 359104
+Bytes received so far: 392408
+Bytes received so far: 424264
+Bytes received so far: 470600
+Bytes received so far: 489424
+Bytes received so far: 509696
+Bytes received so far: 522728
+Bytes received so far: 525624
+Bytes received so far: 554584
+Bytes received so far: 577752
+Bytes received so far: 618296
+Bytes received so far: 651600
+Bytes received so far: 692144
+Bytes received so far: 731240
+Bytes received so far: 748616
+Bytes received so far: 777576
+Bytes received so far: 821016
+Bytes received so far: 841288
+Bytes received so far: 863008
+Bytes received so far: 880384
+Bytes received so far: 913688
+Bytes received so far: 928168
+Bytes received so far: 941200
+Bytes received so far: 960024
+Bytes received so far: 978848
+Bytes received so far: 994776
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 47784
+Bytes received so far: 65160
+Bytes received so far: 75296
+Bytes received so far: 107152
+Bytes received so far: 124528
+Bytes received so far: 156384
+Bytes received so far: 169416
+Bytes received so far: 204168
+Bytes received so far: 221544
+Bytes received so far: 238920
+Bytes received so far: 264984
+Bytes received so far: 288152
+Bytes received so far: 299736
+Bytes received so far: 312768
+Bytes received so far: 331592
+Bytes received so far: 353312
+Bytes received so far: 372136
+Bytes received so far: 393856
+Bytes received so far: 412680
+Bytes received so far: 424264
+Bytes received so far: 441640
+Bytes received so far: 474944
+Bytes received so far: 489424
+Bytes received so far: 515488
+Bytes received so far: 534312
+Bytes received so far: 554584
+Bytes received so far: 556032
+Bytes received so far: 577752
+Bytes received so far: 593680
+Bytes received so far: 611056
+Bytes received so far: 632776
+Bytes received so far: 679112
+Bytes received so far: 693592
+Bytes received so far: 752960
+Bytes received so far: 809432
+Bytes received so far: 838392
+Bytes received so far: 874592
+Bytes received so far: 890520
+Bytes received so far: 928168
+Bytes received so far: 945544
+Bytes received so far: 980296
+Bytes received so far: 997672
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 28960
+Bytes received so far: 62264
+Bytes received so far: 92672
+Bytes received so far: 134664
+Bytes received so far: 150592
+Bytes received so far: 163624
+Bytes received so far: 179552
+Bytes received so far: 207064
+Bytes received so far: 228784
+Bytes received so far: 259192
+Bytes received so far: 291048
+Bytes received so far: 306976
+Bytes received so far: 346072
+Bytes received so far: 359104
+Bytes received so far: 375032
+Bytes received so far: 412680
+Bytes received so far: 432952
+Bytes received so far: 450328
+Bytes received so far: 483632
+Bytes received so far: 514040
+Bytes received so far: 534312
+Bytes received so far: 553136
+Bytes received so far: 595128
+Bytes received so far: 619744
+Bytes received so far: 637120
+Bytes received so far: 677664
+Bytes received so far: 693592
+Bytes received so far: 750064
+Bytes received so far: 773232
+Bytes received so far: 815224
+Bytes received so far: 826808
+Bytes received so far: 887624
+Bytes received so far: 936856
+Bytes received so far: 964368
+Bytes received so far: 978848
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 30408
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 72400
+Bytes received so far: 112944
+Bytes received so far: 130320
+Bytes received so far: 157832
+Bytes received so far: 175208
+Bytes received so far: 194032
+Bytes received so far: 237472
+Bytes received so far: 291048
+Bytes received so far: 312768
+Bytes received so far: 357656
+Bytes received so far: 377928
+Bytes received so far: 424264
+Bytes received so far: 487976
+Bytes received so far: 514040
+Bytes received so far: 554584
+Bytes received so far: 571960
+Bytes received so far: 590784
+Bytes received so far: 619744
+Bytes received so far: 628432
+Bytes received so far: 644360
+Bytes received so far: 680560
+Bytes received so far: 699384
+Bytes received so far: 716760
+Bytes received so far: 750064
+Bytes received so far: 773232
+Bytes received so far: 812328
+Bytes received so far: 857216
+Bytes received so far: 880384
+Bytes received so far: 920928
+Bytes received so far: 954232
+Bytes received so far: 973056
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 82536
+Bytes received so far: 95568
+Bytes received so far: 127424
+Bytes received so far: 146248
+Bytes received so far: 212856
+Bytes received so far: 237472
+Bytes received so far: 251952
+Bytes received so far: 282360
+Bytes received so far: 302632
+Bytes received so far: 314216
+Bytes received so far: 372136
+Bytes received so far: 392408
+Bytes received so far: 412680
+Bytes received so far: 432952
+Bytes received so far: 457568
+Bytes received so far: 477840
+Bytes received so far: 498112
+Bytes received so far: 534312
+Bytes received so far: 563272
+Bytes received so far: 574856
+Bytes received so far: 595128
+Bytes received so far: 611056
+Bytes received so far: 628432
+Bytes received so far: 642912
+Bytes received so far: 680560
+Bytes received so far: 693592
+Bytes received so far: 718208
+Bytes received so far: 728344
+Bytes received so far: 745720
+Bytes received so far: 758752
+Bytes received so far: 781920
+Bytes received so far: 810880
+Bytes received so far: 823912
+Bytes received so far: 844184
+Bytes received so far: 878936
+Bytes received so far: 889072
+Bytes received so far: 918032
+Bytes received so far: 929616
+Bytes received so far: 931064
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 83984
+Bytes received so far: 117288
+Bytes received so far: 130320
+Bytes received so far: 137560
+Bytes received so far: 154936
+Bytes received so far: 167968
+Bytes received so far: 176656
+Bytes received so far: 191136
+Bytes received so far: 208512
+Bytes received so far: 227336
+Bytes received so far: 241816
+Bytes received so far: 249056
+Bytes received so far: 270776
+Bytes received so far: 289600
+Bytes received so far: 308424
+Bytes received so far: 327248
+Bytes received so far: 344624
+Bytes received so far: 362000
+Bytes received so far: 395304
+Bytes received so far: 409784
+Bytes received so far: 425712
+Bytes received so far: 445984
+Bytes received so far: 466256
+Bytes received so far: 482184
+Bytes received so far: 512592
+Bytes received so far: 525624
+Bytes received so far: 538656
+Bytes received so far: 556032
+Bytes received so far: 566168
+Bytes received so far: 598024
+Bytes received so far: 612504
+Bytes received so far: 628432
+Bytes received so far: 668976
+Bytes received so far: 686352
+Bytes received so far: 689248
+Bytes received so far: 739928
+Bytes received so far: 751512
+Bytes received so far: 760200
+Bytes received so far: 816672
+Bytes received so far: 852872
+Bytes received so far: 863008
+Bytes received so far: 881832
+Bytes received so far: 939752
+Bytes received so far: 980296
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 39096
+Bytes received so far: 78192
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 140456
+Bytes received so far: 170864
+Bytes received so far: 188240
+Bytes received so far: 225888
+Bytes received so far: 237472
+Bytes received so far: 259192
+Bytes received so far: 288152
+Bytes received so far: 304080
+Bytes received so far: 344624
+Bytes received so far: 362000
+Bytes received so far: 364896
+Bytes received so far: 414128
+Bytes received so far: 425712
+Bytes received so far: 428608
+Bytes received so far: 448880
+Bytes received so far: 467704
+Bytes received so far: 485080
+Bytes received so far: 512592
+Bytes received so far: 535760
+Bytes received so far: 554584
+Bytes received so far: 569064
+Bytes received so far: 603816
+Bytes received so far: 615400
+Bytes received so far: 668976
+Bytes received so far: 734136
+Bytes received so far: 752960
+Bytes received so far: 777576
+Bytes received so far: 809432
+Bytes received so far: 831152
+Bytes received so far: 851424
+Bytes received so far: 881832
+Bytes received so far: 900656
+Bytes received so far: 919480
+Bytes received so far: 944096
+Bytes received so far: 957128
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 30408
+Bytes received so far: 65160
+Bytes received so far: 73848
+Bytes received so far: 137560
+Bytes received so far: 166520
+Bytes received so far: 195480
+Bytes received so far: 231680
+Bytes received so far: 257744
+Bytes received so far: 296840
+Bytes received so far: 315664
+Bytes received so far: 362000
+Bytes received so far: 376480
+Bytes received so far: 424264
+Bytes received so far: 440192
+Bytes received so far: 503904
+Bytes received so far: 540104
+Bytes received so far: 557480
+Bytes received so far: 584992
+Bytes received so far: 615400
+Bytes received so far: 635672
+Bytes received so far: 658840
+Bytes received so far: 664632
+Bytes received so far: 687800
+Bytes received so far: 719656
+Bytes received so far: 751512
+Bytes received so far: 781920
+Bytes received so far: 818120
+Bytes received so far: 838392
+Bytes received so far: 883280
+Bytes received so far: 903552
+Bytes received so far: 948440
+Bytes received so far: 965816
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 28960
+Bytes received so far: 57920
+Bytes received so far: 70952
+Bytes received so far: 115840
+Bytes received so far: 130320
+Bytes received so far: 150592
+Bytes received so far: 166520
+Bytes received so far: 195480
+Bytes received so far: 214304
+Bytes received so far: 231680
+Bytes received so far: 250504
+Bytes received so far: 264984
+Bytes received so far: 278016
+Bytes received so far: 296840
+Bytes received so far: 312768
+Bytes received so far: 343176
+Bytes received so far: 359104
+Bytes received so far: 377928
+Bytes received so far: 396752
+Bytes received so far: 414128
+Bytes received so far: 427160
+Bytes received so far: 443088
+Bytes received so far: 476392
+Bytes received so far: 492320
+Bytes received so far: 515488
+Bytes received so far: 534312
+Bytes received so far: 554584
+Bytes received so far: 576304
+Bytes received so far: 616848
+Bytes received so far: 629880
+Bytes received so far: 680560
+Bytes received so far: 737032
+Bytes received so far: 752960
+Bytes received so far: 767440
+Bytes received so far: 831152
+Bytes received so far: 894864
+Bytes received so far: 915136
+Bytes received so far: 949888
+Bytes received so far: 968712
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 53576
+Bytes received so far: 68056
+Bytes received so far: 88328
+Bytes received so far: 120184
+Bytes received so far: 137560
+Bytes received so far: 195480
+Bytes received so far: 214304
+Bytes received so far: 236024
+Bytes received so far: 304080
+Bytes received so far: 322904
+Bytes received so far: 350416
+Bytes received so far: 359104
+Bytes received so far: 392408
+Bytes received so far: 406888
+Bytes received so far: 422816
+Bytes received so far: 464808
+Bytes received so far: 480736
+Bytes received so far: 502456
+Bytes received so far: 528520
+Bytes received so far: 543000
+Bytes received so far: 573408
+Bytes received so far: 598024
+Bytes received so far: 611056
+Bytes received so far: 634224
+Bytes received so far: 644360
+Bytes received so far: 680560
+Bytes received so far: 741376
+Bytes received so far: 757304
+Bytes received so far: 822464
+Bytes received so far: 887624
+Bytes received so far: 929616
+Bytes received so far: 984640
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 31856
+Bytes received so far: 44888
+Bytes received so far: 56472
+Bytes received so far: 101360
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 157832
+Bytes received so far: 173760
+Bytes received so far: 195480
+Bytes received so far: 230232
+Bytes received so far: 247608
+Bytes received so far: 291048
+Bytes received so far: 321456
+Bytes received so far: 350416
+Bytes received so far: 373584
+Bytes received so far: 411232
+Bytes received so far: 454672
+Bytes received so far: 480736
+Bytes received so far: 516936
+Bytes received so far: 535760
+Bytes received so far: 556032
+Bytes received so far: 577752
+Bytes received so far: 598024
+Bytes received so far: 611056
+Bytes received so far: 635672
+Bytes received so far: 676216
+Bytes received so far: 689248
+Bytes received so far: 722552
+Bytes received so far: 741376
+Bytes received so far: 742824
+Bytes received so far: 776128
+Bytes received so far: 794952
+Bytes received so far: 806536
+Bytes received so far: 835496
+Bytes received so far: 871696
+Bytes received so far: 899208
+Bytes received so far: 933960
+Bytes received so far: 974504
+Bytes received so far: 996224
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 44888
+Bytes received so far: 65160
+Bytes received so far: 97016
+Bytes received so far: 110048
+Bytes received so far: 131768
+Bytes received so far: 150592
+Bytes received so far: 183896
+Bytes received so far: 195480
+Bytes received so far: 204168
+Bytes received so far: 234576
+Bytes received so far: 236024
+Bytes received so far: 254848
+Bytes received so far: 272224
+Bytes received so far: 285256
+Bytes received so far: 299736
+Bytes received so far: 302632
+Bytes received so far: 331592
+Bytes received so far: 350416
+Bytes received so far: 363448
+Bytes received so far: 393856
+Bytes received so far: 415576
+Bytes received so far: 425712
+Bytes received so far: 453224
+Bytes received so far: 487976
+Bytes received so far: 518384
+Bytes received so far: 545896
+Bytes received so far: 557480
+Bytes received so far: 592232
+Bytes received so far: 608160
+Bytes received so far: 626984
+Bytes received so far: 645808
+Bytes received so far: 682008
+Bytes received so far: 712416
+Bytes received so far: 719656
+Bytes received so far: 741376
+Bytes received so far: 751512
+Bytes received so far: 784816
+Bytes received so far: 796400
+Bytes received so far: 818120
+Bytes received so far: 838392
+Bytes received so far: 877488
+Bytes received so far: 910792
+Bytes received so far: 932512
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 31856
+Bytes received so far: 46336
+Bytes received so far: 62264
+Bytes received so far: 81088
+Bytes received so far: 98464
+Bytes received so far: 112944
+Bytes received so far: 130320
+Bytes received so far: 154936
+Bytes received so far: 167968
+Bytes received so far: 185344
+Bytes received so far: 220096
+Bytes received so far: 233128
+Bytes received so far: 238920
+Bytes received so far: 251952
+Bytes received so far: 280912
+Bytes received so far: 340280
+Bytes received so far: 399648
+Bytes received so far: 415576
+Bytes received so far: 444536
+Bytes received so far: 480736
+Bytes received so far: 502456
+Bytes received so far: 545896
+Bytes received so far: 556032
+Bytes received so far: 616848
+Bytes received so far: 658840
+Bytes received so far: 677664
+Bytes received so far: 696488
+Bytes received so far: 712416
+Bytes received so far: 741376
+Bytes received so far: 774680
+Bytes received so far: 806536
+Bytes received so far: 810880
+Bytes received so far: 870248
+Bytes received so far: 890520
+Bytes received so far: 936856
+Bytes received so far: 958576
+Bytes received so far: 997672
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 36200
+Bytes received so far: 65160
+Bytes received so far: 99912
+Bytes received so far: 130320
+Bytes received so far: 154936
+Bytes received so far: 163624
+Bytes received so far: 182448
+Bytes received so far: 195480
+Bytes received so far: 220096
+Bytes received so far: 224440
+Bytes received so far: 236024
+Bytes received so far: 282360
+Bytes received so far: 317112
+Bytes received so far: 354760
+Bytes received so far: 390960
+Bytes received so far: 415576
+Bytes received so far: 443088
+Bytes received so far: 480736
+Bytes received so far: 502456
+Bytes received so far: 512592
+Bytes received so far: 531416
+Bytes received so far: 545896
+Bytes received so far: 571960
+Bytes received so far: 611056
+Bytes received so far: 628432
+Bytes received so far: 660288
+Bytes received so far: 676216
+Bytes received so far: 697936
+Bytes received so far: 741376
+Bytes received so far: 777576
+Bytes received so far: 799296
+Bytes received so far: 854320
+Bytes received so far: 871696
+Bytes received so far: 897760
+Bytes received so far: 936856
+Bytes received so far: 964368
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 43440
+Bytes received so far: 53576
+Bytes received so far: 65160
+Bytes received so far: 89776
+Bytes received so far: 98464
+Bytes received so far: 101360
+Bytes received so far: 120184
+Bytes received so far: 153488
+Bytes received so far: 172312
+Bytes received so far: 195480
+Bytes received so far: 202720
+Bytes received so far: 220096
+Bytes received so far: 237472
+Bytes received so far: 272224
+Bytes received so far: 285256
+Bytes received so far: 288152
+Bytes received so far: 331592
+Bytes received so far: 350416
+Bytes received so far: 376480
+Bytes received so far: 415576
+Bytes received so far: 438744
+Bytes received so far: 480736
+Bytes received so far: 492320
+Bytes received so far: 524176
+Bytes received so far: 545896
+Bytes received so far: 558928
+Bytes received so far: 611056
+Bytes received so far: 651600
+Bytes received so far: 667528
+Bytes received so far: 700832
+Bytes received so far: 735584
+Bytes received so far: 754408
+Bytes received so far: 776128
+Bytes received so far: 810880
+Bytes received so far: 864456
+Bytes received so far: 899208
+Bytes received so far: 929616
+Bytes received so far: 960024
+Bytes received so far: 980296
+Bytes received so far: 999120
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 37648
+Bytes received so far: 70952
+Bytes received so far: 114392
+Bytes received so far: 130320
+Bytes received so far: 152040
+Bytes received so far: 181000
+Bytes received so far: 195480
+Bytes received so far: 220096
+Bytes received so far: 237472
+Bytes received so far: 263536
+Bytes received so far: 285256
+Bytes received so far: 321456
+Bytes received so far: 364896
+Bytes received so far: 415576
+Bytes received so far: 441640
+Bytes received so far: 496664
+Bytes received so far: 545896
+Bytes received so far: 573408
+Bytes received so far: 615400
+Bytes received so far: 648704
+Bytes received so far: 670424
+Bytes received so far: 687800
+Bytes received so far: 728344
+Bytes received so far: 741376
+Bytes received so far: 770336
+Bytes received so far: 790608
+Bytes received so far: 806536
+Bytes received so far: 832600
+Bytes received so far: 871696
+Bytes received so far: 915136
+Bytes received so far: 935408
+Bytes received so far: 961472
+Bytes received so far: 990432
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 41992
+Bytes received so far: 65160
+Bytes received so far: 94120
+Bytes received so far: 130320
+Bytes received so far: 150592
+Bytes received so far: 195480
+Bytes received so far: 214304
+Bytes received so far: 240368
+Bytes received so far: 269328
+Bytes received so far: 285256
+Bytes received so far: 309872
+Bytes received so far: 328696
+Bytes received so far: 350416
+Bytes received so far: 393856
+Bytes received so far: 415576
+Bytes received so far: 447432
+Bytes received so far: 492320
+Bytes received so far: 535760
+Bytes received so far: 556032
+Bytes received so far: 606712
+Bytes received so far: 638568
+Bytes received so far: 674768
+Bytes received so far: 692144
+Bytes received so far: 722552
+Bytes received so far: 741376
+Bytes received so far: 754408
+Bytes received so far: 789160
+Bytes received so far: 806536
+Bytes received so far: 823912
+Bytes received so far: 886176
+Bytes received so far: 925272
+Bytes received so far: 936856
+Bytes received so far: 967264
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 57920
+Bytes received so far: 94120
+Bytes received so far: 115840
+Bytes received so far: 130320
+Bytes received so far: 144800
+Bytes received so far: 212856
+Bytes received so far: 256296
+Bytes received so far: 293944
+Bytes received so far: 331592
+Bytes received so far: 350416
+Bytes received so far: 366344
+Bytes received so far: 402544
+Bytes received so far: 417024
+Bytes received so far: 473496
+Bytes received so far: 506800
+Bytes received so far: 540104
+Bytes received so far: 579200
+Bytes received so far: 616848
+Bytes received so far: 671872
+Bytes received so far: 712416
+Bytes received so far: 748616
+Bytes received so far: 776128
+Bytes received so far: 792056
+Bytes received so far: 806536
+Bytes received so far: 821016
+Bytes received so far: 863008
+Bytes received so far: 900656
+Bytes received so far: 936856
+Bytes received so far: 957128
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 33304
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 118736
+Bytes received so far: 136112
+Bytes received so far: 152040
+Bytes received so far: 185344
+Bytes received so far: 205616
+Bytes received so far: 220096
+Bytes received so far: 231680
+Bytes received so far: 238920
+Bytes received so far: 253400
+Bytes received so far: 275120
+Bytes received so far: 292496
+Bytes received so far: 328696
+Bytes received so far: 346072
+Bytes received so far: 373584
+Bytes received so far: 390960
+Bytes received so far: 415576
+Bytes received so far: 435848
+Bytes received so far: 480736
+Bytes received so far: 493768
+Bytes received so far: 557480
+Bytes received so far: 621192
+Bytes received so far: 686352
+Bytes received so far: 705176
+Bytes received so far: 741376
+Bytes received so far: 797848
+Bytes received so far: 831152
+Bytes received so far: 886176
+Bytes received so far: 949888
+Bytes received so far: 984640
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 36200
+Bytes received so far: 65160
+Bytes received so far: 111496
+Bytes received so far: 130320
+Bytes received so far: 178104
+Bytes received so far: 195480
+Bytes received so far: 218648
+Bytes received so far: 237472
+Bytes received so far: 256296
+Bytes received so far: 285256
+Bytes received so far: 320008
+Bytes received so far: 350416
+Bytes received so far: 375032
+Bytes received so far: 415576
+Bytes received so far: 432952
+Bytes received so far: 480736
+Bytes received so far: 521280
+Bytes received so far: 560376
+Bytes received so far: 571960
+Bytes received so far: 611056
+Bytes received so far: 637120
+Bytes received so far: 676216
+Bytes received so far: 697936
+Bytes received so far: 741376
+Bytes received so far: 757304
+Bytes received so far: 799296
+Bytes received so far: 829704
+Bytes received so far: 871696
+Bytes received so far: 893416
+Bytes received so far: 936856
+Bytes received so far: 967264
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 10136
+Bytes received so far: 43440
+Bytes received so far: 65160
+Bytes received so far: 97016
+Bytes received so far: 130320
+Bytes received so far: 156384
+Bytes received so far: 195480
+Bytes received so far: 217200
+Bytes received so far: 230232
+Bytes received so far: 285256
+Bytes received so far: 301184
+Bytes received so far: 335936
+Bytes received so far: 350416
+Bytes received so far: 354760
+Bytes received so far: 415576
+Bytes received so far: 444536
+Bytes received so far: 480736
+Bytes received so far: 502456
+Bytes received so far: 545896
+Bytes received so far: 580648
+Bytes received so far: 618296
+Bytes received so far: 676216
+Bytes received so far: 695040
+Bytes received so far: 729792
+Bytes received so far: 741376
+Bytes received so far: 767440
+Bytes received so far: 806536
+Bytes received so far: 822464
+Bytes received so far: 881832
+Bytes received so far: 944096
+Bytes received so far: 997672
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 79640
+Bytes received so far: 124528
+Bytes received so far: 146248
+Bytes received so far: 188240
+Bytes received so far: 209960
+Bytes received so far: 233128
+Bytes received so far: 244712
+Bytes received so far: 282360
+Bytes received so far: 301184
+Bytes received so far: 346072
+Bytes received so far: 367792
+Bytes received so far: 425712
+Bytes received so far: 480736
+Bytes received so far: 499560
+Bytes received so far: 545896
+Bytes received so far: 557480
+Bytes received so far: 611056
+Bytes received so far: 642912
+Bytes received so far: 676216
+Bytes received so far: 702280
+Bytes received so far: 741376
+Bytes received so far: 806536
+Bytes received so far: 832600
+Bytes received so far: 871696
+Bytes received so far: 936856
+Bytes received so far: 942648
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 18824
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 104256
+Bytes received so far: 123080
+Bytes received so far: 143352
+Bytes received so far: 178104
+Bytes received so far: 195480
+Bytes received so far: 212856
+Bytes received so far: 256296
+Bytes received so far: 263536
+Bytes received so far: 280912
+Bytes received so far: 302632
+Bytes received so far: 335936
+Bytes received so far: 354760
+Bytes received so far: 367792
+Bytes received so far: 393856
+Bytes received so far: 431504
+Bytes received so far: 473496
+Bytes received so far: 498112
+Bytes received so far: 527072
+Bytes received so far: 563272
+Bytes received so far: 595128
+Bytes received so far: 628432
+Bytes received so far: 647256
+Bytes received so far: 689248
+Bytes received so far: 693592
+Bytes received so far: 706624
+Bytes received so far: 744272
+Bytes received so far: 755856
+Bytes received so far: 897760
+Bytes received so far: 946992
+Bytes received so far: 981744
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 21720
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 81088
+Bytes received so far: 124528
+Bytes received so far: 152040
+Bytes received so far: 165072
+Bytes received so far: 186792
+Bytes received so far: 211408
+Bytes received so far: 230232
+Bytes received so far: 259192
+Bytes received so far: 273672
+Bytes received so far: 291048
+Bytes received so far: 306976
+Bytes received so far: 347520
+Bytes received so far: 360552
+Bytes received so far: 363448
+Bytes received so far: 379376
+Bytes received so far: 401096
+Bytes received so far: 414128
+Bytes received so far: 425712
+Bytes received so far: 457568
+Bytes received so far: 490872
+Bytes received so far: 502456
+Bytes received so far: 563272
+Bytes received so far: 621192
+Bytes received so far: 642912
+Bytes received so far: 686352
+Bytes received so far: 706624
+Bytes received so far: 751512
+Bytes received so far: 774680
+Bytes received so far: 787712
+Bytes received so far: 816672
+Bytes received so far: 852872
+Bytes received so far: 867352
+Bytes received so far: 876040
+Bytes received so far: 941200
+Bytes received so far: 960024
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 33304
+Bytes received so far: 72400
+Bytes received so far: 130320
+Bytes received so far: 160728
+Bytes received so far: 199824
+Bytes received so far: 231680
+Bytes received so far: 253400
+Bytes received so far: 264984
+Bytes received so far: 296840
+Bytes received so far: 357656
+Bytes received so far: 375032
+Bytes received so far: 419920
+Bytes received so far: 467704
+Bytes received so far: 487976
+Bytes received so far: 508248
+Bytes received so far: 557480
+Bytes received so far: 570512
+Bytes received so far: 621192
+Bytes received so far: 657392
+Bytes received so far: 674768
+Bytes received so far: 687800
+Bytes received so far: 697936
+Bytes received so far: 724000
+Bytes received so far: 752960
+Bytes received so far: 760200
+Bytes received so far: 818120
+Bytes received so far: 852872
+Bytes received so far: 883280
+Bytes received so far: 919480
+Bytes received so far: 948440
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 26064
+Bytes received so far: 57920
+Bytes received so far: 79640
+Bytes received so far: 143352
+Bytes received so far: 166520
+Bytes received so far: 188240
+Bytes received so far: 222992
+Bytes received so far: 237472
+Bytes received so far: 257744
+Bytes received so far: 288152
+Bytes received so far: 318560
+Bytes received so far: 338832
+Bytes received so far: 354760
+Bytes received so far: 369240
+Bytes received so far: 422816
+Bytes received so far: 463360
+Bytes received so far: 485080
+Bytes received so far: 492320
+Bytes received so far: 527072
+Bytes received so far: 545896
+Bytes received so far: 557480
+Bytes received so far: 577752
+Bytes received so far: 592232
+Bytes received so far: 629880
+Bytes received so far: 658840
+Bytes received so far: 684904
+Bytes received so far: 719656
+Bytes received so far: 744272
+Bytes received so far: 774680
+Bytes received so far: 813776
+Bytes received so far: 852872
+Bytes received so far: 883280
+Bytes received so far: 919480
+Bytes received so far: 941200
+Bytes received so far: 996224
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 30408
+Bytes received so far: 65160
+Bytes received so far: 88328
+Bytes received so far: 130320
+Bytes received so far: 156384
+Bytes received so far: 181000
+Bytes received so far: 194032
+Bytes received so far: 207064
+Bytes received so far: 211408
+Bytes received so far: 231680
+Bytes received so far: 246160
+Bytes received so far: 291048
+Bytes received so far: 330144
+Bytes received so far: 372136
+Bytes received so far: 388064
+Bytes received so far: 424264
+Bytes received so far: 460464
+Bytes received so far: 502456
+Bytes received so far: 515488
+Bytes received so far: 554584
+Bytes received so far: 584992
+Bytes received so far: 600920
+Bytes received so far: 622640
+Bytes received so far: 663184
+Bytes received so far: 690696
+Bytes received so far: 710968
+Bytes received so far: 750064
+Bytes received so far: 789160
+Bytes received so far: 818120
+Bytes received so far: 821016
+Bytes received so far: 887624
+Bytes received so far: 903552
+Bytes received so far: 946992
+Bytes received so far: 971608
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 41992
+Bytes received so far: 59368
+Bytes received so far: 99912
+Bytes received so far: 121632
+Bytes received so far: 140456
+Bytes received so far: 170864
+Bytes received so far: 192584
+Bytes received so far: 227336
+Bytes received so far: 249056
+Bytes received so far: 267880
+Bytes received so far: 301184
+Bytes received so far: 321456
+Bytes received so far: 357656
+Bytes received so far: 375032
+Bytes received so far: 396752
+Bytes received so far: 435848
+Bytes received so far: 470600
+Bytes received so far: 508248
+Bytes received so far: 547344
+Bytes received so far: 561824
+Bytes received so far: 566168
+Bytes received so far: 603816
+Bytes received so far: 618296
+Bytes received so far: 654496
+Bytes received so far: 670424
+Bytes received so far: 686352
+Bytes received so far: 731240
+Bytes received so far: 750064
+Bytes received so far: 770336
+Bytes received so far: 806536
+Bytes received so far: 822464
+Bytes received so far: 858664
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 10136
+Bytes received so far: 63712
+Bytes received so far: 98464
+Bytes received so far: 130320
+Bytes received so far: 152040
+Bytes received so far: 165072
+Bytes received so far: 189688
+Bytes received so far: 202720
+Bytes received so far: 222992
+Bytes received so far: 254848
+Bytes received so far: 286704
+Bytes received so far: 314216
+Bytes received so far: 341728
+Bytes received so far: 356208
+Bytes received so far: 383720
+Bytes received so far: 421368
+Bytes received so far: 448880
+Bytes received so far: 482184
+Bytes received so far: 518384
+Bytes received so far: 550240
+Bytes received so far: 573408
+Bytes received so far: 592232
+Bytes received so far: 615400
+Bytes received so far: 631328
+Bytes received so far: 683456
+Bytes received so far: 726896
+Bytes received so far: 751512
+Bytes received so far: 794952
+Bytes received so far: 816672
+Bytes received so far: 887624
+Bytes received so far: 900656
+Bytes received so far: 918032
+Bytes received so far: 946992
+Bytes received so far: 961472
+Bytes received so far: 983192
+Bytes received so far: 986088
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 21720
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 94120
+Bytes received so far: 112944
+Bytes received so far: 130320
+Bytes received so far: 181000
+Bytes received so far: 241816
+Bytes received so far: 296840
+Bytes received so far: 343176
+Bytes received so far: 362000
+Bytes received so far: 402544
+Bytes received so far: 445984
+Bytes received so far: 463360
+Bytes received so far: 492320
+Bytes received so far: 509696
+Bytes received so far: 528520
+Bytes received so far: 557480
+Bytes received so far: 599472
+Bytes received so far: 622640
+Bytes received so far: 684904
+Bytes received so far: 739928
+Bytes received so far: 752960
+Bytes received so far: 796400
+Bytes received so far: 818120
+Bytes received so far: 861560
+Bytes received so far: 883280
+Bytes received so far: 922376
+Bytes received so far: 944096
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 18824
+Bytes received so far: 40544
+Bytes received so far: 60816
+Bytes received so far: 92672
+Bytes received so far: 130320
+Bytes received so far: 146248
+Bytes received so far: 166520
+Bytes received so far: 212856
+Bytes received so far: 231680
+Bytes received so far: 244712
+Bytes received so far: 286704
+Bytes received so far: 304080
+Bytes received so far: 362000
+Bytes received so far: 383720
+Bytes received so far: 421368
+Bytes received so far: 461912
+Bytes received so far: 482184
+Bytes received so far: 525624
+Bytes received so far: 556032
+Bytes received so far: 592232
+Bytes received so far: 628432
+Bytes received so far: 673320
+Bytes received so far: 687800
+Bytes received so far: 712416
+Bytes received so far: 752960
+Bytes received so far: 767440
+Bytes received so far: 789160
+Bytes received so far: 818120
+Bytes received so far: 821016
+Bytes received so far: 878936
+Bytes received so far: 913688
+Bytes received so far: 948440
+Bytes received so far: 983192
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 31856
+Bytes received so far: 65160
+Bytes received so far: 98464
+Bytes received so far: 130320
+Bytes received so far: 166520
+Bytes received so far: 182448
+Bytes received so far: 231680
+Bytes received so far: 250504
+Bytes received so far: 296840
+Bytes received so far: 314216
+Bytes received so far: 350416
+Bytes received so far: 362000
+Bytes received so far: 405440
+Bytes received so far: 427160
+Bytes received so far: 460464
+Bytes received so far: 492320
+Bytes received so far: 548792
+Bytes received so far: 602368
+Bytes received so far: 622640
+Bytes received so far: 660288
+Bytes received so far: 687800
+Bytes received so far: 741376
+Bytes received so far: 752960
+Bytes received so far: 834048
+Bytes received so far: 883280
+Bytes received so far: 896312
+Bytes received so far: 948440
+Bytes received so far: 980296
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 60816
+Bytes received so far: 76744
+Bytes received so far: 108600
+Bytes received so far: 130320
+Bytes received so far: 149144
+Bytes received so far: 182448
+Bytes received so far: 195480
+Bytes received so far: 224440
+Bytes received so far: 238920
+Bytes received so far: 253400
+Bytes received so far: 298288
+Bytes received so far: 330144
+Bytes received so far: 347520
+Bytes received so far: 369240
+Bytes received so far: 412680
+Bytes received so far: 434400
+Bytes received so far: 453224
+Bytes received so far: 493768
+Bytes received so far: 531416
+Bytes received so far: 547344
+Bytes received so far: 564720
+Bytes received so far: 569064
+Bytes received so far: 611056
+Bytes received so far: 629880
+Bytes received so far: 644360
+Bytes received so far: 676216
+Bytes received so far: 692144
+Bytes received so far: 695040
+Bytes received so far: 705176
+Bytes received so far: 732688
+Bytes received so far: 748616
+Bytes received so far: 955680
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 134664
+Bytes received so far: 166520
+Bytes received so far: 182448
+Bytes received so far: 194032
+Bytes received so far: 231680
+Bytes received so far: 253400
+Bytes received so far: 296840
+Bytes received so far: 362000
+Bytes received so far: 373584
+Bytes received so far: 421368
+Bytes received so far: 440192
+Bytes received so far: 492320
+Bytes received so far: 519832
+Bytes received so far: 563272
+Bytes received so far: 619744
+Bytes received so far: 657392
+Bytes received so far: 679112
+Bytes received so far: 721104
+Bytes received so far: 751512
+Bytes received so far: 794952
+Bytes received so far: 818120
+Bytes received so far: 858664
+Bytes received so far: 883280
+Bytes received so far: 913688
+Bytes received so far: 948440
+Bytes received so far: 996224
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 18824
+Bytes received so far: 33304
+Bytes received so far: 75296
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 160728
+Bytes received so far: 186792
+Bytes received so far: 199824
+Bytes received so far: 243264
+Bytes received so far: 278016
+Bytes received so far: 295392
+Bytes received so far: 353312
+Bytes received so far: 386616
+Bytes received so far: 425712
+Bytes received so far: 457568
+Bytes received so far: 493768
+Bytes received so far: 521280
+Bytes received so far: 554584
+Bytes received so far: 577752
+Bytes received so far: 609608
+Bytes received so far: 624088
+Bytes received so far: 641464
+Bytes received so far: 689248
+Bytes received so far: 726896
+Bytes received so far: 745720
+Bytes received so far: 754408
+Bytes received so far: 819568
+Bytes received so far: 847080
+Bytes received so far: 884728
+Bytes received so far: 922376
+Bytes received so far: 938304
+Bytes received so far: 949888
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 30408
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 130320
+Bytes received so far: 141904
+Bytes received so far: 167968
+Bytes received so far: 208512
+Bytes received so far: 233128
+Bytes received so far: 275120
+Bytes received so far: 295392
+Bytes received so far: 315664
+Bytes received so far: 337384
+Bytes received so far: 363448
+Bytes received so far: 380824
+Bytes received so far: 418472
+Bytes received so far: 474944
+Bytes received so far: 493768
+Bytes received so far: 518384
+Bytes received so far: 558928
+Bytes received so far: 576304
+Bytes received so far: 624088
+Bytes received so far: 640016
+Bytes received so far: 686352
+Bytes received so far: 708072
+Bytes received so far: 726896
+Bytes received so far: 738480
+Bytes received so far: 754408
+Bytes received so far: 779024
+Bytes received so far: 819568
+Bytes received so far: 832600
+Bytes received so far: 876040
+Bytes received so far: 894864
+Bytes received so far: 939752
+Bytes received so far: 977400
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 65160
+Bytes received so far: 104256
+Bytes received so far: 130320
+Bytes received so far: 159280
+Bytes received so far: 212856
+Bytes received so far: 233128
+Bytes received so far: 270776
+Bytes received so far: 298288
+Bytes received so far: 324352
+Bytes received so far: 357656
+Bytes received so far: 412680
+Bytes received so far: 428608
+Bytes received so far: 477840
+Bytes received so far: 493768
+Bytes received so far: 544448
+Bytes received so far: 558928
+Bytes received so far: 637120
+Bytes received so far: 668976
+Bytes received so far: 689248
+Bytes received so far: 761648
+Bytes received so far: 796400
+Bytes received so far: 819568
+Bytes received so far: 889072
+Bytes received so far: 926720
+Bytes received so far: 949888
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 55024
+Bytes received so far: 70952
+Bytes received so far: 98464
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 131768
+Bytes received so far: 166520
+Bytes received so far: 179552
+Bytes received so far: 195480
+Bytes received so far: 208512
+Bytes received so far: 243264
+Bytes received so far: 283808
+Bytes received so far: 317112
+Bytes received so far: 362000
+Bytes received so far: 418472
+Bytes received so far: 434400
+Bytes received so far: 457568
+Bytes received so far: 492320
+Bytes received so far: 531416
+Bytes received so far: 564720
+Bytes received so far: 593680
+Bytes received so far: 629880
+Bytes received so far: 653048
+Bytes received so far: 695040
+Bytes received so far: 721104
+Bytes received so far: 755856
+Bytes received so far: 807984
+Bytes received so far: 825360
+Bytes received so far: 868800
+Bytes received so far: 890520
+Bytes received so far: 907896
+Bytes received so far: 945544
+Bytes received so far: 984640
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 65160
+Bytes received so far: 121632
+Bytes received so far: 153488
+Bytes received so far: 175208
+Bytes received so far: 195480
+Bytes received so far: 234576
+Bytes received so far: 249056
+Bytes received so far: 309872
+Bytes received so far: 328696
+Bytes received so far: 367792
+Bytes received so far: 403992
+Bytes received so far: 422816
+Bytes received so far: 434400
+Bytes received so far: 467704
+Bytes received so far: 485080
+Bytes received so far: 499560
+Bytes received so far: 521280
+Bytes received so far: 584992
+Bytes received so far: 619744
+Bytes received so far: 638568
+Bytes received so far: 690696
+Bytes received so far: 731240
+Bytes received so far: 752960
+Bytes received so far: 794952
+Bytes received so far: 825360
+Bytes received so far: 851424
+Bytes received so far: 870248
+Bytes received so far: 890520
+Bytes received so far: 933960
+Bytes received so far: 955680
+Bytes received so far: 967264
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 36200
+Bytes received so far: 79640
+Bytes received so far: 120184
+Bytes received so far: 141904
+Bytes received so far: 167968
+Bytes received so far: 185344
+Bytes received so far: 215752
+Bytes received so far: 236024
+Bytes received so far: 253400
+Bytes received so far: 272224
+Bytes received so far: 301184
+Bytes received so far: 322904
+Bytes received so far: 359104
+Bytes received so far: 379376
+Bytes received so far: 408336
+Bytes received so far: 425712
+Bytes received so far: 477840
+Bytes received so far: 499560
+Bytes received so far: 531416
+Bytes received so far: 553136
+Bytes received so far: 564720
+Bytes received so far: 589336
+Bytes received so far: 624088
+Bytes received so far: 655944
+Bytes received so far: 676216
+Bytes received so far: 695040
+Bytes received so far: 713864
+Bytes received so far: 728344
+Bytes received so far: 744272
+Bytes received so far: 760200
+Bytes received so far: 796400
+Bytes received so far: 835496
+Bytes received so far: 870248
+Bytes received so far: 890520
+Bytes received so far: 910792
+Bytes received so far: 946992
+Bytes received so far: 991880
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 65160
+Bytes received so far: 94120
+Bytes received so far: 130320
+Bytes received so far: 152040
+Bytes received so far: 195480
+Bytes received so far: 215752
+Bytes received so far: 256296
+Bytes received so far: 308424
+Bytes received so far: 347520
+Bytes received so far: 369240
+Bytes received so far: 403992
+Bytes received so far: 434400
+Bytes received so far: 456120
+Bytes received so far: 498112
+Bytes received so far: 537208
+Bytes received so far: 564720
+Bytes received so far: 605264
+Bytes received so far: 629880
+Bytes received so far: 664632
+Bytes received so far: 695040
+Bytes received so far: 721104
+Bytes received so far: 760200
+Bytes received so far: 789160
+Bytes received so far: 825360
+Bytes received so far: 874592
+Bytes received so far: 890520
+Bytes received so far: 939752
+Bytes received so far: 955680
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 60816
+Bytes received so far: 102808
+Bytes received so far: 144800
+Bytes received so far: 183896
+Bytes received so far: 195480
+Bytes received so far: 222992
+Bytes received so far: 238920
+Bytes received so far: 259192
+Bytes received so far: 267880
+Bytes received so far: 302632
+Bytes received so far: 341728
+Bytes received so far: 380824
+Bytes received so far: 434400
+Bytes received so far: 445984
+Bytes received so far: 508248
+Bytes received so far: 551688
+Bytes received so far: 564720
+Bytes received so far: 615400
+Bytes received so far: 629880
+Bytes received so far: 673320
+Bytes received so far: 695040
+Bytes received so far: 718208
+Bytes received so far: 760200
+Bytes received so far: 805088
+Bytes received so far: 825360
+Bytes received so far: 847080
+Bytes received so far: 889072
+Bytes received so far: 955680
+Bytes received so far: 980296
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 55024
+Bytes received so far: 95568
+Bytes received so far: 130320
+Bytes received so far: 152040
+Bytes received so far: 163624
+Bytes received so far: 170864
+Bytes received so far: 209960
+Bytes received so far: 249056
+Bytes received so far: 278016
+Bytes received so far: 304080
+Bytes received so far: 333040
+Bytes received so far: 367792
+Bytes received so far: 396752
+Bytes received so far: 425712
+Bytes received so far: 467704
+Bytes received so far: 501008
+Bytes received so far: 544448
+Bytes received so far: 564720
+Bytes received so far: 584992
+Bytes received so far: 629880
+Bytes received so far: 653048
+Bytes received so far: 690696
+Bytes received so far: 725448
+Bytes received so far: 760200
+Bytes received so far: 786264
+Bytes received so far: 825360
+Bytes received so far: 839840
+Bytes received so far: 864456
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 40544
+Bytes received so far: 95568
+Bytes received so far: 117288
+Bytes received so far: 130320
+Bytes received so far: 153488
+Bytes received so far: 175208
+Bytes received so far: 185344
+Bytes received so far: 202720
+Bytes received so far: 231680
+Bytes received so far: 260640
+Bytes received so far: 296840
+Bytes received so far: 362000
+Bytes received so far: 377928
+Bytes received so far: 393856
+Bytes received so far: 411232
+Bytes received so far: 427160
+Bytes received so far: 450328
+Bytes received so far: 486528
+Bytes received so far: 508248
+Bytes received so far: 529968
+Bytes received so far: 551688
+Bytes received so far: 589336
+Bytes received so far: 618296
+Bytes received so far: 653048
+Bytes received so far: 687800
+Bytes received so far: 713864
+Bytes received so far: 751512
+Bytes received so far: 793504
+Bytes received so far: 818120
+Bytes received so far: 851424
+Bytes received so far: 881832
+Bytes received so far: 919480
+Bytes received so far: 962920
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 76744
+Bytes received so far: 114392
+Bytes received so far: 130320
+Bytes received so far: 153488
+Bytes received so far: 167968
+Bytes received so far: 186792
+Bytes received so far: 207064
+Bytes received so far: 243264
+Bytes received so far: 283808
+Bytes received so far: 298288
+Bytes received so far: 315664
+Bytes received so far: 353312
+Bytes received so far: 372136
+Bytes received so far: 406888
+Bytes received so far: 428608
+Bytes received so far: 440192
+Bytes received so far: 472048
+Bytes received so far: 492320
+Bytes received so far: 522728
+Bytes received so far: 553136
+Bytes received so far: 573408
+Bytes received so far: 606712
+Bytes received so far: 624088
+Bytes received so far: 640016
+Bytes received so far: 683456
+Bytes received so far: 713864
+Bytes received so far: 754408
+Bytes received so far: 768888
+Bytes received so far: 806536
+Bytes received so far: 819568
+Bytes received so far: 838392
+Bytes received so far: 870248
+Bytes received so far: 881832
+Bytes received so far: 912240
+Bytes received so far: 946992
+Bytes received so far: 962920
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 18824
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 108600
+Bytes received so far: 130320
+Bytes received so far: 175208
+Bytes received so far: 217200
+Bytes received so far: 233128
+Bytes received so far: 249056
+Bytes received so far: 285256
+Bytes received so far: 298288
+Bytes received so far: 335936
+Bytes received so far: 363448
+Bytes received so far: 375032
+Bytes received so far: 418472
+Bytes received so far: 432952
+Bytes received so far: 454672
+Bytes received so far: 490872
+Bytes received so far: 512592
+Bytes received so far: 527072
+Bytes received so far: 563272
+Bytes received so far: 583544
+Bytes received so far: 615400
+Bytes received so far: 654496
+Bytes received so far: 696488
+Bytes received so far: 725448
+Bytes received so far: 745720
+Bytes received so far: 780472
+Bytes received so far: 812328
+Bytes received so far: 822464
+Bytes received so far: 881832
+Bytes received so far: 919480
+Bytes received so far: 948440
+Bytes received so far: 980296
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 70952
+Bytes received so far: 124528
+Bytes received so far: 159280
+Bytes received so far: 183896
+Bytes received so far: 243264
+Bytes received so far: 311320
+Bytes received so far: 363448
+Bytes received so far: 401096
+Bytes received so far: 441640
+Bytes received so far: 477840
+Bytes received so far: 493768
+Bytes received so far: 508248
+Bytes received so far: 531416
+Bytes received so far: 547344
+Bytes received so far: 558928
+Bytes received so far: 605264
+Bytes received so far: 624088
+Bytes received so far: 644360
+Bytes received so far: 703728
+Bytes received so far: 763096
+Bytes received so far: 783368
+Bytes received so far: 819568
+Bytes received so far: 847080
+Bytes received so far: 884728
+Bytes received so far: 960024
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 33304
+Bytes received so far: 72400
+Bytes received so far: 107152
+Bytes received so far: 127424
+Bytes received so far: 167968
+Bytes received so far: 207064
+Bytes received so far: 222992
+Bytes received so far: 244712
+Bytes received so far: 262088
+Bytes received so far: 276568
+Bytes received so far: 282360
+Bytes received so far: 327248
+Bytes received so far: 341728
+Bytes received so far: 351864
+Bytes received so far: 354760
+Bytes received so far: 390960
+Bytes received so far: 406888
+Bytes received so far: 428608
+Bytes received so far: 463360
+Bytes received so far: 495216
+Bytes received so far: 531416
+Bytes received so far: 569064
+Bytes received so far: 600920
+Bytes received so far: 637120
+Bytes received so far: 679112
+Bytes received so far: 697936
+Bytes received so far: 725448
+Bytes received so far: 741376
+Bytes received so far: 779024
+Bytes received so far: 797848
+Bytes received so far: 800744
+Bytes received so far: 863008
+Bytes received so far: 886176
+Bytes received so far: 928168
+Bytes received so far: 975952
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 33304
+Bytes received so far: 65160
+Bytes received so far: 94120
+Bytes received so far: 124528
+Bytes received so far: 162176
+Bytes received so far: 199824
+Bytes received so far: 217200
+Bytes received so far: 275120
+Bytes received so far: 308424
+Bytes received so far: 341728
+Bytes received so far: 370688
+Bytes received so far: 412680
+Bytes received so far: 467704
+Bytes received so far: 508248
+Bytes received so far: 537208
+Bytes received so far: 596576
+Bytes received so far: 637120
+Bytes received so far: 667528
+Bytes received so far: 697936
+Bytes received so far: 732688
+Bytes received so far: 765992
+Bytes received so far: 797848
+Bytes received so far: 852872
+Bytes received so far: 890520
+Bytes received so far: 928168
+Bytes received so far: 931064
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 57920
+Bytes received so far: 76744
+Bytes received so far: 110048
+Bytes received so far: 130320
+Bytes received so far: 140456
+Bytes received so far: 183896
+Bytes received so far: 195480
+Bytes received so far: 211408
+Bytes received so far: 215752
+Bytes received so far: 256296
+Bytes received so far: 276568
+Bytes received so far: 288152
+Bytes received so far: 330144
+Bytes received so far: 341728
+Bytes received so far: 373584
+Bytes received so far: 417024
+Bytes received so far: 432952
+Bytes received so far: 472048
+Bytes received so far: 489424
+Bytes received so far: 524176
+Bytes received so far: 537208
+Bytes received so far: 558928
+Bytes received so far: 592232
+Bytes received so far: 626984
+Bytes received so far: 648704
+Bytes received so far: 667528
+Bytes received so far: 726896
+Bytes received so far: 767440
+Bytes received so far: 797848
+Bytes received so far: 822464
+Bytes received so far: 863008
+Bytes received so far: 881832
+Bytes received so far: 920928
+Bytes received so far: 942648
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 21720
+Bytes received so far: 94120
+Bytes received so far: 123080
+Bytes received so far: 156384
+Bytes received so far: 185344
+Bytes received so far: 222992
+Bytes received so far: 283808
+Bytes received so far: 340280
+Bytes received so far: 369240
+Bytes received so far: 412680
+Bytes received so far: 450328
+Bytes received so far: 472048
+Bytes received so far: 482184
+Bytes received so far: 527072
+Bytes received so far: 558928
+Bytes received so far: 626984
+Bytes received so far: 660288
+Bytes received so far: 699384
+Bytes received so far: 732688
+Bytes received so far: 757304
+Bytes received so far: 789160
+Bytes received so far: 828256
+Bytes received so far: 870248
+Bytes received so far: 907896
+Bytes received so far: 929616
+Bytes received so far: 968712
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 47784
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 118736
+Bytes received so far: 139008
+Bytes received so far: 201272
+Bytes received so far: 220096
+Bytes received so far: 276568
+Bytes received so far: 299736
+Bytes received so far: 341728
+Bytes received so far: 373584
+Bytes received so far: 417024
+Bytes received so far: 459016
+Bytes received so far: 472048
+Bytes received so far: 496664
+Bytes received so far: 512592
+Bytes received so far: 534312
+Bytes received so far: 577752
+Bytes received so far: 619744
+Bytes received so far: 679112
+Bytes received so far: 758752
+Bytes received so far: 797848
+Bytes received so far: 826808
+Bytes received so far: 863008
+Bytes received so far: 909344
+Bytes received so far: 928168
+Bytes received so far: 944096
+Bytes received so far: 973056
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 89776
+Bytes received so far: 127424
+Bytes received so far: 149144
+Bytes received so far: 191136
+Bytes received so far: 211408
+Bytes received so far: 225888
+Bytes received so far: 234576
+Bytes received so far: 251952
+Bytes received so far: 296840
+Bytes received so far: 341728
+Bytes received so far: 359104
+Bytes received so far: 399648
+Bytes received so far: 456120
+Bytes received so far: 472048
+Bytes received so far: 499560
+Bytes received so far: 541552
+Bytes received so far: 561824
+Bytes received so far: 590784
+Bytes received so far: 602368
+Bytes received so far: 655944
+Bytes received so far: 667528
+Bytes received so far: 706624
+Bytes received so far: 732688
+Bytes received so far: 761648
+Bytes received so far: 797848
+Bytes received so far: 819568
+Bytes received so far: 863008
+Bytes received so far: 883280
+Bytes received so far: 928168
+Bytes received so far: 967264
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 8688
+Bytes received so far: 27512
+Bytes received so far: 88328
+Bytes received so far: 107152
+Bytes received so far: 130320
+Bytes received so far: 162176
+Bytes received so far: 183896
+Bytes received so far: 195480
+Bytes received so far: 211408
+Bytes received so far: 225888
+Bytes received so far: 289600
+Bytes received so far: 320008
+Bytes received so far: 341728
+Bytes received so far: 362000
+Bytes received so far: 395304
+Bytes received so far: 406888
+Bytes received so far: 457568
+Bytes received so far: 472048
+Bytes received so far: 490872
+Bytes received so far: 541552
+Bytes received so far: 558928
+Bytes received so far: 600920
+Bytes received so far: 634224
+Bytes received so far: 673320
+Bytes received so far: 695040
+Bytes received so far: 728344
+Bytes received so far: 770336
+Bytes received so far: 797848
+Bytes received so far: 855768
+Bytes received so far: 928168
+Bytes received so far: 962920
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 56472
+Bytes received so far: 78192
+Bytes received so far: 117288
+Bytes received so far: 130320
+Bytes received so far: 154936
+Bytes received so far: 192584
+Bytes received so far: 211408
+Bytes received so far: 224440
+Bytes received so far: 267880
+Bytes received so far: 305528
+Bytes received so far: 359104
+Bytes received so far: 424264
+Bytes received so far: 454672
+Bytes received so far: 472048
+Bytes received so far: 515488
+Bytes received so far: 537208
+Bytes received so far: 560376
+Bytes received so far: 596576
+Bytes received so far: 634224
+Bytes received so far: 667528
+Bytes received so far: 689248
+Bytes received so far: 731240
+Bytes received so far: 789160
+Bytes received so far: 831152
+Bytes received so far: 863008
+Bytes received so far: 878936
+Bytes received so far: 922376
+Bytes received so far: 978848
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 33304
+Bytes received so far: 85432
+Bytes received so far: 130320
+Bytes received so far: 175208
+Bytes received so far: 211408
+Bytes received so far: 234576
+Bytes received so far: 276568
+Bytes received so far: 301184
+Bytes received so far: 341728
+Bytes received so far: 360552
+Bytes received so far: 405440
+Bytes received so far: 443088
+Bytes received so far: 485080
+Bytes received so far: 506800
+Bytes received so far: 537208
+Bytes received so far: 560376
+Bytes received so far: 593680
+Bytes received so far: 653048
+Bytes received so far: 667528
+Bytes received so far: 695040
+Bytes received so far: 752960
+Bytes received so far: 797848
+Bytes received so far: 828256
+Bytes received so far: 863008
+Bytes received so far: 894864
+Bytes received so far: 928168
+Bytes received so far: 954232
+Bytes received so far: 975952
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 53576
+Bytes received so far: 65160
+Bytes received so far: 97016
+Bytes received so far: 134664
+Bytes received so far: 179552
+Bytes received so far: 211408
+Bytes received so far: 212856
+Bytes received so far: 249056
+Bytes received so far: 270776
+Bytes received so far: 308424
+Bytes received so far: 337384
+Bytes received so far: 390960
+Bytes received so far: 406888
+Bytes received so far: 424264
+Bytes received so far: 476392
+Bytes received so far: 532864
+Bytes received so far: 566168
+Bytes received so far: 605264
+Bytes received so far: 624088
+Bytes received so far: 658840
+Bytes received so far: 702280
+Bytes received so far: 745720
+Bytes received so far: 767440
+Bytes received so far: 787712
+Bytes received so far: 822464
+Bytes received so far: 863008
+Bytes received so far: 880384
+Bytes received so far: 899208
+Bytes received so far: 939752
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 65160
+Bytes received so far: 94120
+Bytes received so far: 114392
+Bytes received so far: 130320
+Bytes received so far: 150592
+Bytes received so far: 181000
+Bytes received so far: 211408
+Bytes received so far: 270776
+Bytes received so far: 341728
+Bytes received so far: 359104
+Bytes received so far: 398200
+Bytes received so far: 415576
+Bytes received so far: 447432
+Bytes received so far: 467704
+Bytes received so far: 506800
+Bytes received so far: 535760
+Bytes received so far: 573408
+Bytes received so far: 613952
+Bytes received so far: 632776
+Bytes received so far: 667528
+Bytes received so far: 695040
+Bytes received so far: 763096
+Bytes received so far: 797848
+Bytes received so far: 828256
+Bytes received so far: 873144
+Bytes received so far: 938304
+Bytes received so far: 968712
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 55024
+Bytes received so far: 88328
+Bytes received so far: 123080
+Bytes received so far: 144800
+Bytes received so far: 209960
+Bytes received so far: 227336
+Bytes received so far: 238920
+Bytes received so far: 279464
+Bytes received so far: 304080
+Bytes received so far: 333040
+Bytes received so far: 375032
+Bytes received so far: 403992
+Bytes received so far: 434400
+Bytes received so far: 496664
+Bytes received so far: 535760
+Bytes received so far: 564720
+Bytes received so far: 629880
+Bytes received so far: 647256
+Bytes received so far: 679112
+Bytes received so far: 695040
+Bytes received so far: 789160
+Bytes received so far: 912240
+Bytes received so far: 955680
+Bytes received so far: 994776
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 36200
+Bytes received so far: 55024
+Bytes received so far: 117288
+Bytes received so far: 144800
+Bytes received so far: 185344
+Bytes received so far: 218648
+Bytes received so far: 238920
+Bytes received so far: 253400
+Bytes received so far: 263536
+Bytes received so far: 275120
+Bytes received so far: 304080
+Bytes received so far: 325800
+Bytes received so far: 369240
+Bytes received so far: 386616
+Bytes received so far: 428608
+Bytes received so far: 461912
+Bytes received so far: 496664
+Bytes received so far: 540104
+Bytes received so far: 564720
+Bytes received so far: 576304
+Bytes received so far: 634224
+Bytes received so far: 654496
+Bytes received so far: 692144
+Bytes received so far: 722552
+Bytes received so far: 758752
+Bytes received so far: 789160
+Bytes received so far: 823912
+Bytes received so far: 851424
+Bytes received so far: 867352
+Bytes received so far: 890520
+Bytes received so far: 910792
+Bytes received so far: 931064
+Bytes received so far: 955680
+Bytes received so far: 988984
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 65160
+Bytes received so far: 69504
+Bytes received so far: 104256
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 205616
+Bytes received so far: 238920
+Bytes received so far: 266432
+Bytes received so far: 304080
+Bytes received so far: 325800
+Bytes received so far: 343176
+Bytes received so far: 369240
+Bytes received so far: 408336
+Bytes received so far: 450328
+Bytes received so far: 486528
+Bytes received so far: 499560
+Bytes received so far: 518384
+Bytes received so far: 537208
+Bytes received so far: 550240
+Bytes received so far: 564720
+Bytes received so far: 571960
+Bytes received so far: 611056
+Bytes received so far: 629880
+Bytes received so far: 641464
+Bytes received so far: 668976
+Bytes received so far: 686352
+Bytes received so far: 706624
+Bytes received so far: 728344
+Bytes received so far: 748616
+Bytes received so far: 760200
+Bytes received so far: 777576
+Bytes received so far: 857216
+Bytes received so far: 894864
+Bytes received so far: 923824
+Bytes received so far: 964368
+Bytes received so far: 975952
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 36200
+Bytes received so far: 53576
+Bytes received so far: 72400
+Bytes received so far: 82536
+Bytes received so far: 94120
+Bytes received so far: 111496
+Bytes received so far: 130320
+Bytes received so far: 152040
+Bytes received so far: 172312
+Bytes received so far: 212856
+Bytes received so far: 257744
+Bytes received so far: 278016
+Bytes received so far: 299736
+Bytes received so far: 320008
+Bytes received so far: 341728
+Bytes received so far: 359104
+Bytes received so far: 373584
+Bytes received so far: 382272
+Bytes received so far: 390960
+Bytes received so far: 424264
+Bytes received so far: 444536
+Bytes received so far: 464808
+Bytes received so far: 509696
+Bytes received so far: 522728
+Bytes received so far: 541552
+Bytes received so far: 564720
+Bytes received so far: 576304
+Bytes received so far: 583544
+Bytes received so far: 611056
+Bytes received so far: 629880
+Bytes received so far: 642912
+Bytes received so far: 657392
+Bytes received so far: 671872
+Bytes received so far: 695040
+Bytes received so far: 710968
+Bytes received so far: 750064
+Bytes received so far: 787712
+Bytes received so far: 822464
+Bytes received so far: 860112
+Bytes received so far: 890520
+Bytes received so far: 945544
+Bytes received so far: 987536
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 65160
+Bytes received so far: 70952
+Bytes received so far: 108600
+Bytes received so far: 144800
+Bytes received so far: 181000
+Bytes received so far: 195480
+Bytes received so far: 214304
+Bytes received so far: 233128
+Bytes received so far: 253400
+Bytes received so far: 263536
+Bytes received so far: 280912
+Bytes received so far: 304080
+Bytes received so far: 315664
+Bytes received so far: 348968
+Bytes received so far: 369240
+Bytes received so far: 380824
+Bytes received so far: 418472
+Bytes received so far: 434400
+Bytes received so far: 445984
+Bytes received so far: 480736
+Bytes received so far: 509696
+Bytes received so far: 525624
+Bytes received so far: 570512
+Bytes received so far: 589336
+Bytes received so far: 609608
+Bytes received so far: 629880
+Bytes received so far: 637120
+Bytes received so far: 658840
+Bytes received so far: 695040
+Bytes received so far: 722552
+Bytes received so far: 760200
+Bytes received so far: 789160
+Bytes received so far: 822464
+Bytes received so far: 825360
+Bytes received so far: 842736
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 57920
+Bytes received so far: 97016
+Bytes received so far: 128872
+Bytes received so far: 149144
+Bytes received so far: 166520
+Bytes received so far: 175208
+Bytes received so far: 231680
+Bytes received so far: 247608
+Bytes received so far: 269328
+Bytes received so far: 288152
+Bytes received so far: 331592
+Bytes received so far: 359104
+Bytes received so far: 393856
+Bytes received so far: 414128
+Bytes received so far: 427160
+Bytes received so far: 432952
+Bytes received so far: 466256
+Bytes received so far: 483632
+Bytes received so far: 495216
+Bytes received so far: 532864
+Bytes received so far: 557480
+Bytes received so far: 598024
+Bytes received so far: 634224
+Bytes received so far: 651600
+Bytes received so far: 670424
+Bytes received so far: 687800
+Bytes received so far: 692144
+Bytes received so far: 725448
+Bytes received so far: 752960
+Bytes received so far: 754408
+Bytes received so far: 807984
+Bytes received so far: 828256
+Bytes received so far: 848528
+Bytes received so far: 896312
+Bytes received so far: 916584
+Bytes received so far: 952784
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 81088
+Bytes received so far: 121632
+Bytes received so far: 176656
+Bytes received so far: 215752
+Bytes received so far: 273672
+Bytes received so far: 289600
+Bytes received so far: 335936
+Bytes received so far: 363448
+Bytes received so far: 390960
+Bytes received so far: 453224
+Bytes received so far: 490872
+Bytes received so far: 525624
+Bytes received so far: 545896
+Bytes received so far: 558928
+Bytes received so far: 583544
+Bytes received so far: 599472
+Bytes received so far: 613952
+Bytes received so far: 648704
+Bytes received so far: 679112
+Bytes received so far: 709520
+Bytes received so far: 731240
+Bytes received so far: 745720
+Bytes received so far: 777576
+Bytes received so far: 815224
+Bytes received so far: 845632
+Bytes received so far: 877488
+Bytes received so far: 903552
+Bytes received so far: 942648
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 130320
+Bytes received so far: 149144
+Bytes received so far: 166520
+Bytes received so far: 198376
+Bytes received so far: 233128
+Bytes received so far: 279464
+Bytes received so far: 298288
+Bytes received so far: 372136
+Bytes received so far: 389512
+Bytes received so far: 428608
+Bytes received so far: 473496
+Bytes received so far: 493768
+Bytes received so far: 511144
+Bytes received so far: 569064
+Bytes received so far: 606712
+Bytes received so far: 624088
+Bytes received so far: 641464
+Bytes received so far: 682008
+Bytes received so far: 713864
+Bytes received so far: 750064
+Bytes received so far: 781920
+Bytes received so far: 819568
+Bytes received so far: 836944
+Bytes received so far: 870248
+Bytes received so far: 881832
+Bytes received so far: 906448
+Bytes received so far: 941200
+Bytes received so far: 980296
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 15928
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 70952
+Bytes received so far: 149144
+Bytes received so far: 167968
+Bytes received so far: 212856
+Bytes received so far: 233128
+Bytes received so far: 243264
+Bytes received so far: 298288
+Bytes received so far: 335936
+Bytes received so far: 347520
+Bytes received so far: 363448
+Bytes received so far: 415576
+Bytes received so far: 428608
+Bytes received so far: 456120
+Bytes received so far: 512592
+Bytes received so far: 558928
+Bytes received so far: 595128
+Bytes received so far: 624088
+Bytes received so far: 654496
+Bytes received so far: 689248
+Bytes received so far: 721104
+Bytes received so far: 754408
+Bytes received so far: 784816
+Bytes received so far: 819568
+Bytes received so far: 844184
+Bytes received so far: 884728
+Bytes received so far: 926720
+Bytes received so far: 949888
+Bytes received so far: 990432
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 36200
+Bytes received so far: 65160
+Bytes received so far: 102808
+Bytes received so far: 130320
+Bytes received so far: 179552
+Bytes received so far: 195480
+Bytes received so far: 212856
+Bytes received so far: 234576
+Bytes received so far: 278016
+Bytes received so far: 315664
+Bytes received so far: 343176
+Bytes received so far: 373584
+Bytes received so far: 402544
+Bytes received so far: 432952
+Bytes received so far: 476392
+Bytes received so far: 509696
+Bytes received so far: 538656
+Bytes received so far: 564720
+Bytes received so far: 621192
+Bytes received so far: 660288
+Bytes received so far: 680560
+Bytes received so far: 706624
+Bytes received so far: 741376
+Bytes received so far: 763096
+Bytes received so far: 825360
+Bytes received so far: 842736
+Bytes received so far: 864456
+Bytes received so far: 886176
+Bytes received so far: 928168
+Bytes received so far: 946992
+Bytes received so far: 964368
+Bytes received so far: 994776
+Bytes received so far: 996224
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 83984
+Bytes received so far: 130320
+Bytes received so far: 144800
+Bytes received so far: 159280
+Bytes received so far: 225888
+Bytes received so far: 293944
+Bytes received so far: 325800
+Bytes received so far: 343176
+Bytes received so far: 360552
+Bytes received so far: 408336
+Bytes received so far: 438744
+Bytes received so far: 473496
+Bytes received so far: 525624
+Bytes received so far: 538656
+Bytes received so far: 583544
+Bytes received so far: 603816
+Bytes received so far: 621192
+Bytes received so far: 668976
+Bytes received so far: 700832
+Bytes received so far: 734136
+Bytes received so far: 787712
+Bytes received so far: 799296
+Bytes received so far: 816672
+Bytes received so far: 876040
+Bytes received so far: 929616
+Bytes received so far: 968712
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 60816
+Bytes received so far: 92672
+Bytes received so far: 130320
+Bytes received so far: 149144
+Bytes received so far: 228784
+Bytes received so far: 273672
+Bytes received so far: 305528
+Bytes received so far: 341728
+Bytes received so far: 377928
+Bytes received so far: 411232
+Bytes received so far: 466256
+Bytes received so far: 503904
+Bytes received so far: 548792
+Bytes received so far: 567616
+Bytes received so far: 611056
+Bytes received so far: 668976
+Bytes received so far: 721104
+Bytes received so far: 734136
+Bytes received so far: 783368
+Bytes received so far: 799296
+Bytes received so far: 822464
+Bytes received so far: 858664
+Bytes received so far: 919480
+Bytes received so far: 960024
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 50680
+Bytes received so far: 65160
+Bytes received so far: 89776
+Bytes received so far: 130320
+Bytes received so far: 178104
+Bytes received so far: 195480
+Bytes received so far: 211408
+Bytes received so far: 227336
+Bytes received so far: 267880
+Bytes received so far: 304080
+Bytes received so far: 360552
+Bytes received so far: 408336
+Bytes received so far: 444536
+Bytes received so far: 473496
+Bytes received so far: 498112
+Bytes received so far: 538656
+Bytes received so far: 554584
+Bytes received so far: 621192
+Bytes received so far: 658840
+Bytes received so far: 695040
+Bytes received so far: 734136
+Bytes received so far: 761648
+Bytes received so far: 799296
+Bytes received so far: 842736
+Bytes received so far: 864456
+Bytes received so far: 928168
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 47784
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 146248
+Bytes received so far: 212856
+Bytes received so far: 238920
+Bytes received so far: 278016
+Bytes received so far: 306976
+Bytes received so far: 343176
+Bytes received so far: 388064
+Bytes received so far: 408336
+Bytes received so far: 464808
+Bytes received so far: 503904
+Bytes received so far: 538656
+Bytes received so far: 566168
+Bytes received so far: 603816
+Bytes received so far: 658840
+Bytes received so far: 710968
+Bytes received so far: 734136
+Bytes received so far: 751512
+Bytes received so far: 768888
+Bytes received so far: 799296
+Bytes received so far: 848528
+Bytes received so far: 864456
+Bytes received so far: 952784
+Bytes received so far: 964368
+Bytes received so far: 994776
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 75296
+Bytes received so far: 156384
+Bytes received so far: 218648
+Bytes received so far: 299736
+Bytes received so far: 328696
+Bytes received so far: 343176
+Bytes received so far: 388064
+Bytes received so far: 408336
+Bytes received so far: 447432
+Bytes received so far: 473496
+Bytes received so far: 512592
+Bytes received so far: 538656
+Bytes received so far: 619744
+Bytes received so far: 661736
+Bytes received so far: 706624
+Bytes received so far: 734136
+Bytes received so far: 767440
+Bytes received so far: 799296
+Bytes received so far: 860112
+Bytes received so far: 893416
+Bytes received so far: 929616
+Bytes received so far: 958576
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 53576
+Bytes received so far: 65160
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 178104
+Bytes received so far: 195480
+Bytes received so far: 217200
+Bytes received so far: 247608
+Bytes received so far: 276568
+Bytes received so far: 311320
+Bytes received so far: 340280
+Bytes received so far: 357656
+Bytes received so far: 408336
+Bytes received so far: 435848
+Bytes received so far: 473496
+Bytes received so far: 516936
+Bytes received so far: 538656
+Bytes received so far: 561824
+Bytes received so far: 603816
+Bytes received so far: 624088
+Bytes received so far: 687800
+Bytes received so far: 752960
+Bytes received so far: 799296
+Bytes received so far: 818120
+Bytes received so far: 864456
+Bytes received so far: 929616
+Bytes received so far: 948440
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 49232
+Bytes received so far: 65160
+Bytes received so far: 85432
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 205616
+Bytes received so far: 222992
+Bytes received so far: 291048
+Bytes received so far: 321456
+Bytes received so far: 343176
+Bytes received so far: 386616
+Bytes received so far: 408336
+Bytes received so far: 443088
+Bytes received so far: 473496
+Bytes received so far: 501008
+Bytes received so far: 538656
+Bytes received so far: 554584
+Bytes received so far: 629880
+Bytes received so far: 666080
+Bytes received so far: 710968
+Bytes received so far: 734136
+Bytes received so far: 748616
+Bytes received so far: 799296
+Bytes received so far: 832600
+Bytes received so far: 864456
+Bytes received so far: 896312
+Bytes received so far: 929616
+Bytes received so far: 964368
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 10136
+Bytes received so far: 41992
+Bytes received so far: 65160
+Bytes received so far: 73848
+Bytes received so far: 114392
+Bytes received so far: 130320
+Bytes received so far: 136112
+Bytes received so far: 194032
+Bytes received so far: 212856
+Bytes received so far: 282360
+Bytes received so far: 296840
+Bytes received so far: 331592
+Bytes received so far: 343176
+Bytes received so far: 362000
+Bytes received so far: 393856
+Bytes received so far: 408336
+Bytes received so far: 424264
+Bytes received so far: 445984
+Bytes received so far: 461912
+Bytes received so far: 473496
+Bytes received so far: 496664
+Bytes received so far: 512592
+Bytes received so far: 554584
+Bytes received so far: 571960
+Bytes received so far: 589336
+Bytes received so far: 603816
+Bytes received so far: 628432
+Bytes received so far: 668976
+Bytes received so far: 684904
+Bytes received so far: 718208
+Bytes received so far: 738480
+Bytes received so far: 760200
+Bytes received so far: 781920
+Bytes received so far: 799296
+Bytes received so far: 810880
+Bytes received so far: 839840
+Bytes received so far: 858664
+Bytes received so far: 893416
+Bytes received so far: 915136
+Bytes received so far: 929616
+Bytes received so far: 948440
+Bytes received so far: 968712
+Bytes received so far: 990432
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 10136
+Bytes received so far: 30408
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 72400
+Bytes received so far: 104256
+Bytes received so far: 141904
+Bytes received so far: 173760
+Bytes received so far: 195480
+Bytes received so far: 208512
+Bytes received so far: 263536
+Bytes received so far: 278016
+Bytes received so far: 301184
+Bytes received so far: 337384
+Bytes received so far: 370688
+Bytes received so far: 408336
+Bytes received so far: 427160
+Bytes received so far: 467704
+Bytes received so far: 505352
+Bytes received so far: 547344
+Bytes received so far: 609608
+Bytes received so far: 642912
+Bytes received so far: 668976
+Bytes received so far: 695040
+Bytes received so far: 738480
+Bytes received so far: 771784
+Bytes received so far: 807984
+Bytes received so far: 841288
+Bytes received so far: 864456
+Bytes received so far: 874592
+Bytes received so far: 916584
+Bytes received so far: 929616
+Bytes received so far: 948440
+Bytes received so far: 987536
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 11584
+Bytes received so far: 43440
+Bytes received so far: 62264
+Bytes received so far: 79640
+Bytes received so far: 118736
+Bytes received so far: 130320
+Bytes received so far: 150592
+Bytes received so far: 172312
+Bytes received so far: 195480
+Bytes received so far: 209960
+Bytes received so far: 250504
+Bytes received so far: 289600
+Bytes received so far: 330144
+Bytes received so far: 343176
+Bytes received so far: 363448
+Bytes received so far: 421368
+Bytes received so far: 480736
+Bytes received so far: 538656
+Bytes received so far: 554584
+Bytes received so far: 615400
+Bytes received so far: 648704
+Bytes received so far: 668976
+Bytes received so far: 687800
+Bytes received so far: 747168
+Bytes received so far: 768888
+Bytes received so far: 805088
+Bytes received so far: 825360
+Bytes received so far: 890520
+Bytes received so far: 920928
+Bytes received so far: 954232
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 37648
+Bytes received so far: 82536
+Bytes received so far: 95568
+Bytes received so far: 115840
+Bytes received so far: 130320
+Bytes received so far: 157832
+Bytes received so far: 195480
+Bytes received so far: 212856
+Bytes received so far: 247608
+Bytes received so far: 267880
+Bytes received so far: 299736
+Bytes received so far: 312768
+Bytes received so far: 334488
+Bytes received so far: 377928
+Bytes received so far: 395304
+Bytes received so far: 456120
+Bytes received so far: 487976
+Bytes received so far: 508248
+Bytes received so far: 547344
+Bytes received so far: 573408
+Bytes received so far: 611056
+Bytes received so far: 638568
+Bytes received so far: 663184
+Bytes received so far: 695040
+Bytes received so far: 726896
+Bytes received so far: 747168
+Bytes received so far: 768888
+Bytes received so far: 787712
+Bytes received so far: 818120
+Bytes received so far: 834048
+Bytes received so far: 852872
+Bytes received so far: 899208
+Bytes received so far: 919480
+Bytes received so far: 949888
+Bytes received so far: 964368
+Bytes received so far: 986088
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 62264
+Bytes received so far: 92672
+Bytes received so far: 111496
+Bytes received so far: 130320
+Bytes received so far: 150592
+Bytes received so far: 167968
+Bytes received so far: 207064
+Bytes received so far: 227336
+Bytes received so far: 247608
+Bytes received so far: 257744
+Bytes received so far: 289600
+Bytes received so far: 309872
+Bytes received so far: 350416
+Bytes received so far: 388064
+Bytes received so far: 402544
+Bytes received so far: 447432
+Bytes received so far: 461912
+Bytes received so far: 492320
+Bytes received so far: 511144
+Bytes received so far: 573408
+Bytes received so far: 603816
+Bytes received so far: 641464
+Bytes received so far: 699384
+Bytes received so far: 742824
+Bytes received so far: 784816
+Bytes received so far: 802192
+Bytes received so far: 835496
+Bytes received so far: 845632
+Bytes received so far: 864456
+Bytes received so far: 896312
+Bytes received so far: 910792
+Bytes received so far: 925272
+Bytes received so far: 931064
+Bytes received so far: 962920
+Bytes received so far: 981744
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 31856
+Bytes received so far: 65160
+Bytes received so far: 66608
+Bytes received so far: 120184
+Bytes received so far: 141904
+Bytes received so far: 162176
+Bytes received so far: 179552
+Bytes received so far: 195480
+Bytes received so far: 209960
+Bytes received so far: 243264
+Bytes received so far: 263536
+Bytes received so far: 279464
+Bytes received so far: 308424
+Bytes received so far: 347520
+Bytes received so far: 367792
+Bytes received so far: 405440
+Bytes received so far: 427160
+Bytes received so far: 448880
+Bytes received so far: 470600
+Bytes received so far: 506800
+Bytes received so far: 540104
+Bytes received so far: 557480
+Bytes received so far: 573408
+Bytes received so far: 599472
+Bytes received so far: 615400
+Bytes received so far: 624088
+Bytes received so far: 631328
+Bytes received so far: 670424
+Bytes received so far: 703728
+Bytes received so far: 726896
+Bytes received so far: 744272
+Bytes received so far: 768888
+Bytes received so far: 784816
+Bytes received so far: 823912
+Bytes received so far: 860112
+Bytes received so far: 881832
+Bytes received so far: 899208
+Bytes received so far: 925272
+Bytes received so far: 939752
+Bytes received so far: 957128
+Bytes received so far: 993328
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 14480
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 101360
+Bytes received so far: 133216
+Bytes received so far: 167968
+Bytes received so far: 189688
+Bytes received so far: 225888
+Bytes received so far: 247608
+Bytes received so far: 278016
+Bytes received so far: 312768
+Bytes received so far: 341728
+Bytes received so far: 360552
+Bytes received so far: 377928
+Bytes received so far: 396752
+Bytes received so far: 425712
+Bytes received so far: 443088
+Bytes received so far: 447432
+Bytes received so far: 487976
+Bytes received so far: 508248
+Bytes received so far: 515488
+Bytes received so far: 544448
+Bytes received so far: 560376
+Bytes received so far: 573408
+Bytes received so far: 618296
+Bytes received so far: 638568
+Bytes received so far: 663184
+Bytes received so far: 703728
+Bytes received so far: 729792
+Bytes received so far: 768888
+Bytes received so far: 806536
+Bytes received so far: 847080
+Bytes received so far: 887624
+Bytes received so far: 899208
+Bytes received so far: 931064
+Bytes received so far: 964368
+Bytes received so far: 986088
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 20272
+Bytes received so far: 60816
+Bytes received so far: 97016
+Bytes received so far: 118736
+Bytes received so far: 139008
+Bytes received so far: 159280
+Bytes received so far: 176656
+Bytes received so far: 195480
+Bytes received so far: 227336
+Bytes received so far: 237472
+Bytes received so far: 269328
+Bytes received so far: 299736
+Bytes received so far: 312768
+Bytes received so far: 330144
+Bytes received so far: 372136
+Bytes received so far: 399648
+Bytes received so far: 430056
+Bytes received so far: 443088
+Bytes received so far: 451776
+Bytes received so far: 461912
+Bytes received so far: 477840
+Bytes received so far: 515488
+Bytes received so far: 532864
+Bytes received so far: 561824
+Bytes received so far: 582096
+Bytes received so far: 593680
+Bytes received so far: 608160
+Bytes received so far: 660288
+Bytes received so far: 702280
+Bytes received so far: 738480
+Bytes received so far: 758752
+Bytes received so far: 768888
+Bytes received so far: 803640
+Bytes received so far: 823912
+Bytes received so far: 826808
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 18824
+Bytes received so far: 63712
+Bytes received so far: 107152
+Bytes received so far: 130320
+Bytes received so far: 140456
+Bytes received so far: 181000
+Bytes received so far: 215752
+Bytes received so far: 236024
+Bytes received so far: 259192
+Bytes received so far: 286704
+Bytes received so far: 302632
+Bytes received so far: 325800
+Bytes received so far: 366344
+Bytes received so far: 399648
+Bytes received so far: 431504
+Bytes received so far: 461912
+Bytes received so far: 496664
+Bytes received so far: 528520
+Bytes received so far: 571960
+Bytes received so far: 612504
+Bytes received so far: 628432
+Bytes received so far: 653048
+Bytes received so far: 684904
+Bytes received so far: 722552
+Bytes received so far: 760200
+Bytes received so far: 780472
+Bytes received so far: 800744
+Bytes received so far: 836944
+Bytes received so far: 865904
+Bytes received so far: 889072
+Bytes received so far: 899208
+Bytes received so far: 935408
+Bytes received so far: 954232
+Bytes received so far: 980296
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 17376
+Bytes received so far: 46336
+Bytes received so far: 65160
+Bytes received so far: 91224
+Bytes received so far: 127424
+Bytes received so far: 157832
+Bytes received so far: 173760
+Bytes received so far: 220096
+Bytes received so far: 238920
+Bytes received so far: 269328
+Bytes received so far: 301184
+Bytes received so far: 322904
+Bytes received so far: 357656
+Bytes received so far: 369240
+Bytes received so far: 398200
+Bytes received so far: 430056
+Bytes received so far: 472048
+Bytes received so far: 496664
+Bytes received so far: 515488
+Bytes received so far: 537208
+Bytes received so far: 557480
+Bytes received so far: 596576
+Bytes received so far: 629880
+Bytes received so far: 653048
+Bytes received so far: 689248
+Bytes received so far: 713864
+Bytes received so far: 732688
+Bytes received so far: 754408
+Bytes received so far: 776128
+Bytes received so far: 797848
+Bytes received so far: 825360
+Bytes received so far: 836944
+Bytes received so far: 880384
+Bytes received so far: 912240
+Bytes received so far: 957128
+Bytes received so far: 978848
+Bytes received so far: 1000000
+Ack successfull1000000
+Bytes received so far: 13032
+Bytes received so far: 52128
+Bytes received so far: 65160
+Bytes received so far: 86880
+Bytes received so far: 123080
+Bytes received so far: 144800
+Bytes received so far: 185344
+Bytes received so far: 218648
+Bytes received so far: 238920
+Bytes received so far: 257744
+Bytes received so far: 296840
+Bytes received so far: 320008
+Bytes received so far: 376480
+Bytes received so far: 414128
+Bytes received so far: 431504
+Bytes received so far: 441640
+Bytes received so far: 501008
+Bytes received so far: 554584
+Bytes received so far: 571960
+Bytes received so far: 600920
+Bytes received so far: 637120
+Bytes received so far: 654496
+Bytes received so far: 674768
+Bytes received so far: 695040
+Bytes received so far: 716760
+Bytes received so far: 745720
+Bytes received so far: 760200
+Bytes received so far: 787712
+Bytes received so far: 841288
+Bytes received so far: 868800
+Bytes received so far: 890520
+Bytes received so far: 913688
+Bytes received so far: 945544
+Bytes received so far: 960024
+Bytes received so far: 990432
+Bytes received so far: 1000000
+Ack successfullClient 6 sent: 10^6 bytes
