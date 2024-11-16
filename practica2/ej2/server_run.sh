@@ -42,7 +42,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Get the server's IP address (change the interface name as needed, e.g., eth0, enp0s3, etc.)
-server_ip=$(hostname -I | awk '{print $1}')
+server_ip=$(hostname -i | awk '{print $1}')
 echo "Server IP: $server_ip"
 
 # Define the server parameter (e.g., running on port 1234)
