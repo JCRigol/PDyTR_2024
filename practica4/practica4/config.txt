@@ -1,0 +1,15 @@
+# This is a comment. Lines starting with # will be ignored.
+
+# Set JAVA_PATH to the bin location of your Java installation
+JAVAC_PATH="/usr/lib/jvm/java-8-openjdk-amd64/bin/javac"
+JAVA_PATH="/usr/lib/jvm/java-8-openjdk-amd64/bin/java"
+
+# Path to JADE library
+JADE_LIB="lib/jade.jar"
+
+# Output directory for compiled files
+OUTPUT_DIR="classes"
+
+# Space separated list of "agent_name:package.agent_class"
+AGENTS=("AgenteA:ej1.AgentA")
+
