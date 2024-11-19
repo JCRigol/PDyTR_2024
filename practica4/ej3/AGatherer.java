@@ -3,14 +3,21 @@ package ej3;
 import jade.lang.acl.ACLMessage;
 import jade.core.Agent;
 
+import jade.domain.introspection.AMSSubscriber;
+import jade.domain.introspection.Event;
+import jade.domain.introspection.MovedAgent;
+import jade.domain.introspection.IntrospectionVocabulary;
+
 import jade.core.behaviours.OneShotBehaviour;
-import jade.core.behaviours.SequentialBehaviour;
-import jade.core.behaviours.SimpleBehaviour;
+import jade.core.behaviours.FSMBehaviour;
+import jade.core.behaviours.Behaviour;
 
 import jade.core.ContainerID;
 import jade.core.Location;
 import jade.core.AID;
+
 import jade.lang.acl.ACLMessage;
+import jade.lang.acl.MessageTemplate;
 
 import com.sun.management.OperatingSystemMXBean;
 import java.lang.management.ManagementFactory;
@@ -18,28 +25,45 @@ import java.lang.management.ManagementFactory;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-import java.util.HashSet;
+import java.util.Map;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
 public class AGatherer extends Agent {
 	
-	private HashSet<ContainerID> containerList;
-	private Iterator<ContainerID> containerIter;
+	private ArrayList<ContainerID> containerList;
 	
 	private ContainerID origin;
 	private String centralAgentLName;
 	
 	private HashMap<String,ResObj> results = new HashMap<String,ResObj>();
+	
+	private TraverseState tState;
 
-	protected void setup() {	
-		SequentialBehaviour lifeCycle = new SequentialBehaviour(this);
+	protected void setup() {
+		// Debug
+		System.out.println("DEBUG :: AGatherer : Creation");
+		// addBehaviour(new AMSListenerBehaviour());
 		
-		lifeCycle.addSubBehaviour(new SetupBehaviour(this));
-		lifeCycle.addSubBehaviour(new TraverseBehaviour(this));
-		lifeCycle.addSubBehaviour(new CleanupBehaviour(this));
+		// Strings
+		String setupState = "setupState";
+		String traverseState = "traverseState";
+		String cleanupState = "cleanupState";
+	
+		tState = new TraverseState(this);
+		FSMBehaviour lifeCycleFSM = new FSMBehaviour(this);
 		
-		addBehaviour(lifeCycle);
+		lifeCycleFSM.registerFirstState(new SetupState(this), setupState);
+		lifeCycleFSM.registerState(tState, traverseState);
+		lifeCycleFSM.registerLastState(new CleanupState(this), cleanupState);
+		
+		lifeCycleFSM.registerDefaultTransition(setupState, traverseState);	
+		
+		lifeCycleFSM.registerTransition(traverseState, traverseState, 0);
+		lifeCycleFSM.registerTransition(traverseState, cleanupState, 1);
+		
+		addBehaviour(lifeCycleFSM);
 	}
 	
 	protected void afterMove() {		
@@ -56,9 +80,19 @@ public class AGatherer extends Agent {
 			
 			this.results.put(containerName, containerResults);
 			
+			// Debug
+			System.out.println("DEBUG :: AGatherer : Results : " + containerName + " : " + containerResults.toString());		
 		} catch (UnknownHostException e) {
 			System.out.println(e.getMessage());
 		}
+		
+		tState.wakeUp();
+	}
+	
+	@Override
+	protected void takeDown() {
+		// Debug
+		System.out.println("DEBUG :: AGatherer : Destruction");
 	}
 
 	/* Behaviours (in order, sequence ran cyclically):
@@ -67,71 +101,135 @@ public class AGatherer extends Agent {
 		- Return to origin Container (should be Main-Container)
 		- Send data to Central Agent
 		- Die */
-	public class SetupBehaviour extends OneShotBehaviour {
-		SetupBehaviour(Agent a) {
+	public class SetupState extends OneShotBehaviour {
+		SetupState(Agent a) {
 			super(a);
 		}
 		
 		@Override
 		public void action() {
-			ACLMessage message = blockingReceive();
-			
-			System.out.println("2");
+			// Debug
+			System.out.println("DEBUG :: AGatherer : SetupState");
+		
+			// Patch
+			MessageTemplate mt = MessageTemplate.and(
+				MessageTemplate.MatchSender(new AID("ACentral", AID.ISLOCALNAME)),
+				MessageTemplate.MatchPerformative(ACLMessage.INFORM)
+			);
+			ACLMessage message = blockingReceive(mt);
 			
 			try {
 				InitObj content = (InitObj) message.getContentObject();
-				System.out.println("3");
 				
 				containerList = content.getContainerList();
 				centralAgentLName = content.getAgentLocalName();
-				origin = content.getOrigin();
-				
+				origin = content.getOrigin();	
 			} catch (Exception e) {
 				System.out.println(e.getMessage());
 			}
-			
-			System.out.println("1");
-			
-			containerIter = containerList.iterator();
 		}
 	}
 	
-	public class TraverseBehaviour extends SimpleBehaviour {
-		private boolean finished = false;
+	public class TraverseState extends Behaviour {
+		private boolean isDone = false;
+		private boolean movingOk = true;
+		private int nextState = -1;
 		
-		TraverseBehaviour(Agent a) {
+		TraverseState(Agent a) {
 			super(a);
 		}
 		
 		@Override
 		public void action() {
-			if (containerIter.hasNext()) {
-				ContainerID nextContainer = containerIter.next();
-				containerIter.remove();
+			// Debug
+			System.out.println("DEBUG :: AGatherer : TraverseState");
+			
+			if ((movingOk) && (!containerList.isEmpty())) {
+				movingOk = false;
+				ContainerID container = containerList.get(0);
 				
+				if (((container.equals(here())) && (containerList.size() > 1))) {
+					container = containerList.get(1);
+				} else if (container.equals(here())) {
+					// Container List empty, current location == doMove() location
+					// Debug
+					System.out.println("DEBUG :: AGatherer : TraverseState : Destination : " + container);
+					
+					edgeCase();
+					containerList.remove(container);
+					return;
+				}
+				
+				// Debug
+				System.out.println("DEBUG :: AGatherer : TraverseState : Destination : " + container);
+		            
 				try {
-					doMove(nextContainer);
+					doMove(container);
+					block();
 				} catch (Exception e) {
 					System.out.println(e.getMessage());
-				}			
-			} else {
-				this.finished = true;
+				}
+		        
+				containerList.remove(container);
+			} else if (movingOk) {
+				isDone = true;
 			}
 		}
 		
 		@Override
 		public boolean done() {
-			return finished;
+			return isDone;
+		}
+		
+		@Override
+		public int onEnd() {
+			if (isDone) {
+				return 1;
+			}
+			return 0;
+		}
+		
+		private void edgeCase() {
+			// Edge Case: First Container to travel is here()
+			// Methodology: Execute afterMove() logic (no wakeUp() needed since no block() was called)
+			try {
+				InetAddress localHost = InetAddress.getLocalHost();
+				OperatingSystemMXBean osBean = (OperatingSystemMXBean) ManagementFactory.getOperatingSystemMXBean();
+				
+				String containerName = here().getID();
+				ResObj containerResults = new ResObj(
+					osBean.getSystemLoadAverage(),
+					osBean.getTotalPhysicalMemorySize(),
+					localHost.getHostName()
+				);
+				
+				results.put(containerName, containerResults);
+				
+				// Debug
+				System.out.println("DEBUG :: AGatherer : Results : " + containerName + " : " + containerResults.toString());		
+			} catch (UnknownHostException e) {
+				System.out.println(e.getMessage());
+			}
+			
+			movingOk = true;
+		}
+		
+		public void wakeUp() {
+			movingOk = true;
+			restart();
 		}
 	}
 	
-	public class CleanupBehaviour extends OneShotBehaviour {
-		CleanupBehaviour(Agent a) {
+	public class CleanupState extends OneShotBehaviour {
+		CleanupState(Agent a) {
 			super(a);
 		}
 		
 		@Override
 		public void action() {
+			// Debug
+			System.out.println("DEBUG :: AGatherer : CleanupState");
+			
 			try {
 				doMove(origin);
 			} catch (Exception e) {
@@ -153,5 +251,26 @@ public class AGatherer extends Agent {
 			doDelete();
 		}
 	}
+	
+	/*
+	public class AMSListenerBehaviour extends AMSSubscriber {
+		@Override
+		public void installHandlers(Map handlersTable) {
+			handlersTable.put(IntrospectionVocabulary.MOVEDAGENT, new MovedAgentHandler());
+		}
+		
+		public final class MovedAgentHandler implements EventHandler {
+			@Override
+			public void handle(Event ev) {
+				MovedAgent event = (MovedAgent) ev;
+				
+				// Debug
+				// System.out.println(event.getAgent().getName());
+				
+				traverseBehaviour.wakeUp();
+			}
+		}
+	}
+	*/
 	
 }

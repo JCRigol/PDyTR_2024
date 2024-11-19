@@ -13,6 +13,15 @@ public class ResObj implements Serializable {
 		this.hostName = hN;
 	}
 	
+	@Override
+	public String toString() {
+		return "ResObj{" +
+				"hostName='" + this.getHostName() + '\'' +
+				", memory='" + this.getAvailableMemory() + '\'' +
+				", loadAvg='" + this.getProcessingLoadAvg() + '\'' +
+				'}';
+	}
+	
 	public double getProcessingLoadAvg() {
 		return this.processingLoadAvg;
 	}

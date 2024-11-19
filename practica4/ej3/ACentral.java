@@ -17,27 +17,51 @@ import jade.core.Location;
 
 import jade.core.behaviours.OneShotBehaviour;
 import jade.core.behaviours.FSMBehaviour;
-import jade.core.behaviours.WakerBehaviour;
 
 import jade.lang.acl.ACLMessage;
+import jade.lang.acl.MessageTemplate;
 
-import java.util.HashSet;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-
 
 import java.io.ByteArrayInputStream;
 import java.io.ObjectInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+
+import java.time.Instant;
+import java.time.Duration;
 
 public class ACentral extends Agent {
 
 	private ContainerID initialContainer;
-	private HashSet<ContainerID> containerList = new HashSet<ContainerID>();
+	private volatile ArrayList<ContainerID> containerList = new ArrayList<>();
 	private HashMap<String,ResObj> results = new HashMap<String,ResObj>();
+	
+	private File measurementsStorage;
+	private Instant startMeasureTime;
+	private Instant endMeasureTime;
+	private int platformSize;
+	private int iters;
+	
+	private DummyState dummySt;
+	private FSMBehaviour containerDataRetrievalFSM;
 
 	protected void setup() {
+		iters = 0;
+		
+		try {
+			// Setup of results storage
+			measurementsStorage = new File("ej3/measurements.csv");
+			measurementsStorage.delete();
+			measurementsStorage.createNewFile();
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+	
 		// AMS Events listener
 		addBehaviour(new AMSListenerBehaviour());
 
@@ -46,21 +70,30 @@ public class ACentral extends Agent {
 		String receptionState = "receptionState";
 		String sleepState = "sleepState";
 		String storageState = "storageState";
+		String dummyState = "dummyState";
+		String dummierState = "dummierState";
+		
+		dummySt = new DummyState(this);
 	
-		FSMBehaviour containerDataRetrievalFSM = new FSMBehaviour(this);
+		containerDataRetrievalFSM = new FSMBehaviour(this);
 		
 		containerDataRetrievalFSM.registerFirstState(new SetupState(this), setupState);
+		containerDataRetrievalFSM.registerState(new SleepState(this), sleepState); // Ideally Randint(10000, 15000);
 		containerDataRetrievalFSM.registerState(new ReceptionState(this), receptionState);
-		containerDataRetrievalFSM.registerState(new SleepState(this, 10000), sleepState); // Randint(10000, 15000);
-		containerDataRetrievalFSM.registerLastState(new StorageState(this), storageState); // Por ahora vacío, a ser utilizado mas tarde para automatizar esto.
+		containerDataRetrievalFSM.registerState(new StorageState(this), storageState);
+		containerDataRetrievalFSM.registerState(dummySt, dummyState); // DummyState necessary because FSMBehaviour is dumb and doesn't account for endless FSM.
+		containerDataRetrievalFSM.registerLastState(new DummierState(this), dummierState); // DummyState necessary because FSMBehaviour is dumb and doesn't account for endless FSM.
 		
 		containerDataRetrievalFSM.registerDefaultTransition(setupState, receptionState);
-		containerDataRetrievalFSM.registerDefaultTransition(sleepState, setupState);		
+		containerDataRetrievalFSM.registerDefaultTransition(receptionState, storageState);
+		containerDataRetrievalFSM.registerDefaultTransition(sleepState, setupState);
 		
-		containerDataRetrievalFSM.registerTransition(receptionState, receptionState, 0);
-		containerDataRetrievalFSM.registerTransition(receptionState, sleepState, 1);
-		containerDataRetrievalFSM.registerTransition(receptionState, storageState, 2); // Determine if gathering loop is done in reception? Maybe add "DataProcessingState"
-	
+		containerDataRetrievalFSM.registerTransition(storageState, sleepState, 0);
+		containerDataRetrievalFSM.registerTransition(storageState, dummyState, 1);
+		containerDataRetrievalFSM.registerTransition(storageState, dummierState, 2);
+		
+		containerDataRetrievalFSM.registerDefaultTransition(dummyState, setupState);
+		
 		addBehaviour(containerDataRetrievalFSM);
 	}
 
@@ -80,6 +113,12 @@ public class ACentral extends Agent {
 		}
 	}
 	
+	public void signal() {
+		if (iters == 10) {
+			iters = 0;
+			dummySt.wakeUp();
+		}
+	}
 
 	public class SetupState extends OneShotBehaviour {
 		SetupState(Agent a) {
@@ -88,26 +127,35 @@ public class ACentral extends Agent {
 	
 		@Override
 		public void action() {
+			// Debug
+			System.out.println("DEBUG :: ACentral : SetupState");
+		
+			InitObj content;
+			synchronized(this) {
+				content = new InitObj(
+					containerList,
+					getLocalName(),
+					initialContainer
+				);
+				
+				platformSize = containerList.size();
+			}
+		
+			// Measure startTime contemplates Agent Gatherer creation and initialization of variables.
+			startMeasureTime = Instant.now();
+		
 			// Obtain current Container control
 			AgentContainer container = getContainerController();
 			
 			try {
-				AgentController agentController = container.createNewAgent("Gatherer", "ej3.AGatherer", null);
+				AgentController agentController = container.createNewAgent("AGatherer", "ej3.AGatherer", null);
 				agentController.start();
 			} catch (Exception e) {
 				System.out.println(e.getMessage());
 			}
 			
-			// Create a message for the agent
-			AID receiver = new AID("Gatherer", AID.ISLOCALNAME);
-			ACLMessage message = new ACLMessage(ACLMessage.INFORM);
-						
-			InitObj content = new InitObj(
-				containerList,
-				getLocalName(),
-				initialContainer
-			);
-			
+			/*		
+			// Debug
 			// Serializability test https://stackoverflow.com/questions/20286340/is-there-any-way-to-check-whether-an-object-is-serializable-or-not-in-java
 			try {
 		        ByteArrayOutputStream bf = new ByteArrayOutputStream();
@@ -117,18 +165,25 @@ public class ACentral extends Agent {
 
 		        ObjectInputStream ois = new ObjectInputStream(new ByteArrayInputStream(bf.toByteArray()));
 		        Object o = ois.readObject();
-		        System.out.println(o.toString() + "\n" + o.getClass());
+		        System.out.println("DEBUG :: ACentral.121\n" + o.toString() + "\n" + o.getClass());
 		        InitObj co = (InitObj) o;
-		        System.out.println(co.getContainerList() + "\n" + co.getOrigin() + "\n" + co.getAgentLocalName());
+		        System.out.println("DEBUG :: ACentral.123\n" + co.getContainerList() + "\n" + co.getOrigin() + "\n" + co.getAgentLocalName());
 		    } catch (Exception e) {
 		        System.out.println("Not exactly Serializable");
 		        e.printStackTrace();
-		    }
+		    }			
+			*/
 			
+			// Debug
+			System.out.println("DEBUG :: ACentral : KnownPlatform : " + content.getContainerList());
+			
+			// Create a message for the agent
+			AID receiver = new AID("AGatherer", AID.ISLOCALNAME);
+			ACLMessage message = new ACLMessage(ACLMessage.INFORM);
 			message.addReceiver(receiver);
+			
 			try {
 				message.setContentObject(content);
-				System.out.println("4");
 			} catch (Exception e) {
 				System.out.println(e.getMessage());
 			}
@@ -138,64 +193,105 @@ public class ACentral extends Agent {
 	}
 	
 	public class ReceptionState extends OneShotBehaviour {
-		private int exitValue;
-	
 		ReceptionState(Agent a) {
 			super(a);
-			this.exitValue = 15;
 		}
 	
 		@Override
 		public void action() {
-			ACLMessage message = blockingReceive();
-						
-			System.out.println("Llego el mensaje de B");
+			// Debug
+			System.out.println("DEBUG :: ACentral : ReceptionState");
+		
+			MessageTemplate mt = MessageTemplate.and(
+				MessageTemplate.MatchSender(new AID("AGatherer", AID.ISLOCALNAME)),
+				MessageTemplate.MatchPerformative(ACLMessage.INFORM)
+			);
+			ACLMessage message = blockingReceive(mt);
+			
+			// Measure endTime contemplates successfull reception of measurements from Agent Gatherer only
+			endMeasureTime = Instant.now();
 
 			if (message != null) {
 				try {
 					results = (HashMap<String,ResObj>) message.getContentObject();
-					System.out.println("Se casteo el mensaje de B" + results);
 
 					for (String key : results.keySet()) {
 						ResObj r = results.get(key);
-						System.out.println("Results: " + r.getProcessingLoadAvg()  + r.getAvailableMemory() + r.getHostName());
+						// Debug
+						System.out.println("DEBUG :: ACentral : ResultObject : {" + r.getProcessingLoadAvg() + "," + r.getAvailableMemory() + "," + r.getHostName() + "}");
 					}
 				} catch (Exception e) {
 					System.out.println(e.getMessage());
 				}
-				
-				this.exitValue = 1;
-			
-			}
-		}
-		
-		@Override
-		public int onEnd() {
-			return exitValue;
-		}
-		
-		private void decide() {
-			if (this.exitValue == 15) {
-				this.exitValue = 1;
-			} else {
-				this.exitValue = 2;
 			}
 		}
 	}
 	
-	public class SleepState extends WakerBehaviour {
-		SleepState(Agent a, long tms) {
-			super(a, tms);
+	public class SleepState extends OneShotBehaviour {
+		SleepState(Agent a) {
+			super(a);
 		}
 		
 		@Override
-		protected void onWake() {
-			return;
+		public void action() {
+			// Debug
+			System.out.println("DEBUG :: ACentral : SleepState");
+		
+			block(1000);
 		}
 	}
 	
 	public class StorageState extends OneShotBehaviour {
+		private int max_iters;
+	
 		StorageState(Agent a) {
+			super(a);
+			this.max_iters = 10;
+		}
+		
+		@Override
+		public void action() {
+			// Debug
+			System.out.println("DEBUG :: ACentral : StorageState");
+		
+			long timeElapsed = Duration.between(startMeasureTime, endMeasureTime).toMillis();
+			System.out.println("DEBUG :: ACentral : TimeElapsed : {platformSize: " + platformSize + ",timeElapsed: " + timeElapsed + "ms}");
+			
+			try (FileOutputStream oFile = new FileOutputStream(measurementsStorage, true)) {
+				String row = platformSize + "," + timeElapsed + "\n";
+				oFile.write(row.getBytes());
+			} catch (Exception e) {
+				System.out.println(e.getMessage());
+			}
+			
+			iters++;
+		}
+		
+		@Override
+		public int onEnd() {
+			return (iters / this.max_iters);
+		}
+	}
+	
+	public class DummyState extends OneShotBehaviour {
+		DummyState(Agent a) {
+			super(a);
+		}
+		
+		@Override
+		public void action() {
+			// Debug
+			System.out.println("DEBUG :: ACentral : DummyState");
+			block();
+		}
+		
+		public void wakeUp() {
+			restart();
+		}
+	}
+	
+	public class DummierState extends OneShotBehaviour {
+		DummierState(Agent a) {
 			super(a);
 		}
 		
@@ -220,6 +316,7 @@ public class ACentral extends Agent {
 				AddedContainer event = (AddedContainer) ev;
 				ContainerID addedContainer = event.getContainer();
 				addContainer(addedContainer);
+				signal();
 			}
 		}
 		

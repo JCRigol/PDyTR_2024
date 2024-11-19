@@ -4,20 +4,20 @@ import jade.core.Location;
 import jade.core.ContainerID;
 
 import java.io.Serializable;
-import java.util.HashSet;
+import java.util.ArrayList;
 
 public class InitObj implements Serializable {
-	private HashSet<ContainerID> containerList;
+	private ArrayList<ContainerID> containerList;
 	private String agentLocalName;
 	private ContainerID origin;
 	
-	InitObj(HashSet<ContainerID> cL, String aLN, ContainerID og) {
+	InitObj(ArrayList<ContainerID> cL, String aLN, ContainerID og) {
 		this.containerList = cL;
 		this.agentLocalName = aLN;
 		this.origin = og;
 	}
 	
-	public HashSet<ContainerID> getContainerList() {
+	public ArrayList<ContainerID> getContainerList() {
 		return this.containerList;
 	}
 	
@@ -29,7 +29,7 @@ public class InitObj implements Serializable {
 		return this.origin;
 	}
 	
-	public void setContainerList(HashSet<ContainerID> cL) {
+	public void setContainerList(ArrayList<ContainerID> cL) {
 		this.containerList = cL;
 	}
 	

@@ -1,0 +1,85 @@
+nov 19, 2024 8:24:38 PM jade.Boot parseCmdLineArgs
+ADVERTENCIA: WARNING: ignoring command line argument -host occurring after agents specification
+nov 19, 2024 8:24:38 PM jade.core.Runtime beginContainer
+INFORMACIÓN: ----------------------------------
+    This is JADE 4.3.2 - revision 6708 of 2014/03/28 15:19:44
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+nov 19, 2024 8:24:38 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFORMACIÓN: Listening for intra-platform commands on address:
+- jicp://172.17.0.1:38435
+
+nov 19, 2024 8:24:38 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.management.AgentManagement initialized
+nov 19, 2024 8:24:38 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.messaging.Messaging initialized
+nov 19, 2024 8:24:38 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.resource.ResourceManagement initialized
+nov 19, 2024 8:24:38 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.mobility.AgentMobility initialized
+nov 19, 2024 8:24:38 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.event.Notification initialized
+nov 19, 2024 8:24:38 PM jade.core.AgentContainerImpl startBootstrapAgents
+ADVERTENCIA: Cannot create an agent with no name. Class was Container-29
+nov 19, 2024 8:24:38 PM jade.core.AgentContainerImpl joinPlatform
+INFORMACIÓN: --------------------------------------
+Agent container Container-30@172.17.0.1 is ready.
+--------------------------------------------
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.48046875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.5224609375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.5224609375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.5224609375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.3203125'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.3203125'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.3203125'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.3203125'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.13427734375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='1.8857421875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='1.8857421875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='1.734375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='1.734375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='1.734375'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.076171875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.076171875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.076171875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='2.076171875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
+DEBUG :: AGatherer : Results : Container-30@172.17.0.1 : ResObj{hostName='juan-System-Product-Name', memory='16691314688', loadAvg='1.90966796875'}
+DEBUG :: AGatherer : TraverseState
+DEBUG :: AGatherer : TraverseState : Destination : Container-29@172.17.0.1
