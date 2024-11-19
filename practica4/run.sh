@@ -1,73 +1,155 @@
 #!/bin/bash
 
-
-##### Functions Block #####
-
-## JADE Config ##
-
-exec_user_interface()
+##### FUNCTIONS START #####
+## SETUP ##
+setup()
 {
-	# Determine the agents to execute
-	# Determine the n° of containers to execute
-	# Determine which of containers or agents executes first
+	local FILE="$BASE_DIR/config.env"
 	
-	# Execute JADE GUI -> confirm execution
-	# Execute ag/cont (whichever first) -> confirm execution (of all)
-	# Execute ag/cont (whichever first) -> confirm execution (of all)
-	
-	# When last agent dies -> Tear down JADE GUI
-	
-	echo "Welcome to the JADE Execution CLI"
-    echo "1) Start JADE GUI"
-    echo "2) Start Containers"
-    echo "3) Start Agents"
-    echo "4) Start Full Execution"
-    echo "5) Exit"
+	if [ ! -e $FILE ] ; then
+		touch $FILE
+		setup_config "$FILE"
+	fi
 
-    read -p "Choose which will be executed first [\e[4;31mA\e[0mgents/\e[4;31mC\e[0montainers]: " choice
-
-    case $choice in
-        1)
-            execute_jade
-            ;;
-        2)
-            read -p "Enter number of containers to start: " container_count
-            execute_containers "$container_count"
-            ;;
-        3)
-            read -p "Enter path to directory with agents: " agents_path
-            execute_agents "$agents_path"
-            ;;
-        4)
-            echo "Starting full execution..."
-            execute_jade
-            sleep 5 # Give GUI time to initialize
-            read -p "Enter number of containers to start: " container_count
-            execute_containers "$container_count"
-            read -p "Enter path to directory with agents: " agents_path
-            execute_agents "$agents_path"
-            ;;
-        5)
-            echo "Exiting."
-            exit 0
-            ;;
-        *)
-            echo "Invalid choice. Please select a valid option."
-            exec_user_interface
-            ;;
-    esac
+	source "$FILE"
+	
+	if [[ $COMPILE = true ]] ; then
+		export COMPILE_LIST
+		if [[ -z ${TARGET_DIR+x} ]] ; then
+			for i in "${!DIR_STRUCT[@]}" ; do
+            	detect_changes "${DIR_STRUCT[$i]}"
+			done
+		else
+			detect_changes "$BASE_DIR/$TARGET_DIR"
+		fi
+	fi
+	
+	if [[ $EXECUTE = true ]] ; then
+		if [[ -z ${TARGET_DIR+x} ]] ; then
+			for i in "${!DIR_STRUCT[@]}" ; do
+            	detect_exec_profile "${DIR_STRUCT[$i]}"
+			done
+		else
+			detect_exec_profile "$BASE_DIR/$TARGET_DIR"
+		fi
+	fi
 }
 
-agents()
+setup_config()
 {
-	trap ' break ' SIGINT
+	echo "# Set JAVA_PATH to the bin location of your Java installation" >> $1
+		
+	read -ep "JAVA Compiler full path (/usr/lib/jvm/java-*-*/bin/javac) : " javac_path
+	echo "JAVAC_PATH=$javac_path" >> $1
 	
-	local dir=$1
-	local -n ag_arr_output=$2
-	declare -A agents_arr
-	classes_available=()
+	read -ep "JAVA Executable full path (/usr/lib/jvm/java-*-*/bin/java) : " java_path
+	echo "JAVA_PATH=$java_path" >> $1
 	
-	for file in $( find "$dir" -type f -name '*.java' -exec grep -l 'extends Agent' {} \+ ) ; do
+	echo >> $1
+	echo "# Path to JADE library" >> $1
+	
+	read -ep "JADE Binary full path (lib/jade.jar) : " jade_lib
+	echo "JADE_LIB=$jade_lib" >> $1
+	
+	echo >> $1
+	echo "# Output directory for compiled classes" >> $1
+	
+	read -ep "Output Directory for compilation: " outp_dir
+	echo "OUTPUT_DIR=$BASE_DIR/$outp_dir" >> $1
+	
+	echo >> $1
+	echo "# Path to each excercise" >> $1
+	
+	read -a arr -ep "Directorios para cada ejercicio (separados por espacio): "
+	
+	echo "DIR_STRUCT=( " >> $1
+	for item in "${arr[@]}"; do
+		echo "    \"$BASE_DIR/$item\"" >> $1
+	done
+	echo ")" >> $1
+}
+
+detect_changes()
+{
+	local FILE="$1/files.history"
+	local md5sum_aux=""
+
+	if [ ! -e $FILE ] ; then
+		touch $FILE
+	fi
+
+	for file in $( find "$1" -type f -name '*.java' ) ; do
+		md5sum_aux=$( md5sum "$file" | cut -d' ' -f1-2 )
+		
+		if $( grep -q "$file" $FILE ) ; then
+			checksum=$( grep "$file" $FILE | cut -d':' -f2 )
+			
+			if [[ $md5sum_aux != $checksum ]] ; then
+				COMPILE_LIST+=("$file")
+			fi
+		else
+			COMPILE_LIST+=("$file")
+		fi
+	done
+}
+
+write_changes()
+{
+	local FILE="$1/files.history"
+	local md5sum_aux=""
+
+	for file in "${COMPILE_LIST[@]}" ; do
+		md5sum_aux=$( md5sum "$file" | cut -d' ' -f1-2 )
+		
+		if $( grep -q "$file" $FILE ) ; then
+			sed -i "s|^$file:.*|$file:$md5sum_aux|" "$FILE"
+		else
+			echo "$file:$md5sum_aux" >> $FILE
+		fi
+	done
+}
+
+detect_exec_profile()
+{
+	local profiles=()
+	
+	for profile in $( find "$1" -type f -name '*.profile' ) ; do
+		profiles+="$( basename "$profile" .profile )"
+	done
+	
+	if [[ ${#profiles[@]} -le 0 ]] ; then
+		export AGENTS
+		create_exec_profile "$1"
+	else
+		echo "SELECCIONE EL PERFIL DE EJECUCIÓN A UTILIZAR:"
+    	for i in "${!profiles[@]}" ; do
+    		profile_desc=$( cat "$1"/${profiles[$i]}.profile )
+      		echo "$((i + 1))) ${profiles[$i]} => $profile_desc"
+    	done
+    	read -p "Ingrese el identificador de perfil (1-${#profiles[@]}): " id
+
+		while [[ $id -lt 1 ]] || [[ $id -gt ${#profiles[@]} ]] ; do
+			echo "Opción inválida. Por favor, ingrese un número válido."
+			read -p "Ingrese el identificador de perfil (1-${#profiles[@]}): " id
+		done
+
+		local FILE="$1/${profiles[$(( id - 1 ))]}.profile"
+		source "$FILE"
+	fi
+}
+
+create_exec_profile()
+{	
+	local classes_available=()
+	
+	echo "CREATING NEW EXECUTION PROFILE"
+	
+	echo -ne "PROFILE NAME: "
+	read profile_name
+	
+	touch "$1/$profile_name.profile"
+	
+	for file in $( find "$1" -type f -name '*.java' -exec grep -l 'extends Agent' {} \+ ) ; do
 		class_name=$( basename "$file" .java )
 		pckg=$( grep 'package' $file | sed 's/package \([^;]*\);/\1/' )
 
@@ -75,310 +157,269 @@ agents()
 	done
 	
 	while : ; do
-		read -p "INGRESE EL NOMBRE DEL AGENTE: " agent_name
+		echo -ne "MAKE NEW AGENT [NAME/Fin]: "
+		read agent_name
 		
-		echo "SELECCIONE SU CLASE:"
+		if [[ $agent_name = "F" ]] || [[ $agent_name = "f" ]] ; then
+			break
+		fi
+		
+		echo "AGENT CLASS SELECTION"
 		for i in "${!classes_available[@]}"; do
 		    echo "$((i + 1))) $( echo ${classes_available[$i]} | sed 's/.*\.\([^\.]*\)$/\1/' )"
 		done
 		
-		read -p "Ingrese el número de la clase (1-${#classes_available[@]}): " class_num
+		echo -ne "Ingrese el número de la clase (1-${#classes_available[@]}): "
+		read class_num
 		
 		while [[ $class_num -lt 1 ]] || [[ $class_num -gt ${#classes_available[@]} ]] ; do
-		    echo "Opción inválida. Por favor, ingrese un número válido."
-		    read -p "Ingrese el número de la clase (1-${#classes_available[@]}): " class_num
+		    echo "Opción inválida. Por favor, ingrese el número de la clase (1-${#classes_available[@]}): "
+		    read -p class_num
 		done
 		
 		class_selected=${classes_available[$((class_num - 1))]}
-		agents_arr["$agent_name"]=$class_selected
+		AGENTS+=("$agent_name:$class_selected")
 	done
 	
-	if [[ ${#agents_arr[@]} -le 0 ]] ; then
-		return 1
-	else
-		echo "Agentes definidos"
-		for agent in "${!agents_arr[@]}" ; do
-			echo "    $agent:${agents_arr[$agent]}"
-			ag_arr_output+=$agent:${agents_arr[$agent]}
-		done
+	echo "AGENTS=( " >> "$1/$profile_name.profile"
+	for item in "${AGENTS[@]}"; do
+		echo "    \"$item\"" >> "$1/$profile_name.profile"
+	done
+	echo ")" >> "$1/$profile_name.profile"
+}
+
+
+## CLEANUP ##
+cleanup()
+{
+	local FILE="$BASE_DIR/config.env"
+	local unamestr=$( uname )
+	
+	if [ "$unamestr" = 'Linux' ] ; then
+		unset $(grep -v '^#' $FILE | xargs -d '\n')
+	elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ] ; then
+		unset $(grep -v '^#' $FILE | xargs -0)
+	fi
+	
+	if [[ $COMPILE = true ]] ; then
+		unset COMPILE_LIST
+	fi
+	
+	if [[ $EXECUTE = true ]] ; then
+		unset AGENTS
 	fi
 }
 
 
-
-## Arguments Handling ##
-
-has_argument()
-{
-	[[ ("$1" == *=* && -n ${1#*=}) || ( ! -z "$2" && "$2" != -*)  ]]
-}
-
-extract_argument()
-{
-	echo "${2:-${1#*=}}"
-}
-
-
-## Config ##
-
-setup()
-{
-	local b_DIR=$1
-	local t_DIR=$2
-	
-	detect_base_config "$b_DIR"
-	
-	if [[ $t_DIR != $b_DIR ]] ; then
-		detect_sub_config "$t_DIR"
-	else
-		for i in {1 .. $CANT_EJS} ; do
-			detect_sub_config "$EJ_${i}"
-		done
-	fi
-}
-
-detect_base_config()
-{
-	local PATH=$1
-	local FILE=$PATH/config.env
-
-	if [ ! -e $FILE ] ; then
-		touch $FILE
-		
-		echo "# Set JAVA_PATH to the bin location of your Java installation" >> $FILE
-		
-		read -ep "JAVA Compiler full path (/usr/lib/jvm/java-*-*/bin/javac) : " javac_path
-		echo "JAVAC_PATH=$javac_path" >> $FILE
-		
-		read -ep "JAVA Executable full path (/usr/lib/jvm/java-*-*/bin/java) : " java_path
-		echo "JAVA_PATH=$java_path" >> $FILE
-		
-		echo >> $FILE
-		echo "# Path to JADE library" >> $FILE
-		
-		read -ep "JADE Binary full path (lib/jade.jar) : " jade_lib
-		echo "JADE_LIB=$jade_lib" >> $FILE
-		
-		echo >> $FILE
-		echo "# Path to each excercise" >> $FILE
-		
-		read -a arr -ep "Directorios para cada ejercicio (separados por espacio): "
-		echo "CANT_EJS=${#arr[@]}" >> $FILE
-		for i in "${!arr[@]}" ; do
-			echo "EJ_$((i + 1))=$PATH/${arr[$i]}" >> $FILE
-		done
-	fi
-	
-	set_env_variables "$PATH"
-}
-
-detect_sub_config()
-{
-	local PATH=$1
-	local FILE=$PATH/config.env
-
-	if [ ! -e $FILE ] ; then	
-		echo "# Output directory for compiled classes" >> $FILE
-		
-		read -ep "Output Directory for compilation: " outp_dir
-		echo "OUTPUT_DIR=$PATH/$outp_dir" >> $FILE
-		
-		echo >> $FILE
-		echo "# Paths to files to compile" >> $FILE
-		
-		read -a fls -ep "Paths to the files to compile (separados por espacio): "
-		flss="("
-		for f in "${!fls[@]}" ; do
-			$flss="${flss} \"$PATH/${arr[$i]}\""
-		done
-		$flss"${flss} )"
-		echo "COMPILE_LIST=$flss" >> $FILE
-	fi
-	
-	set_env_variables "$PATH"
-}
-
-
-## Compile ##
-
+## COMPILATION ##
 compile()
 {
-	if [ ! -d $OUTPUT_DIR ] ; then
-		mkdir $OUTPUT_DIR
+	if [[ ! -d $OUTPUT_DIR ]] ; then
+		mkdir "$OUTPUT_DIR"
 	fi
 	
-	$JAVAC_PATH -classpath $JADE_LIB -d $OUTPUT_DIR ${COMPILE_LIST[@]}
-}
-
-## Execute ##
-
-execute_jade()
-{
-	$JAVA_PATH -cp $JADE_LIB jade.Boot -gui
-}
-
-execute_containers()
-{
-	local amount=$1
+	local DEPENDENCIES=$JADE_LIB
 	
-	for i in {1 .. $amount} ; do
-		$JAVA_PATH -cp $JADE_LIB jade.Boot -container
+	# Placeholder fix
+	if [[ -d $1/lib ]] ; then
+		for lib in $( find "$1" -type f -name '*.jar' ) ; do
+			$DEPENDENCIES="$DEPENDENCIES:$lib"
+		done
+	fi
+	
+	# Placeholder $OUTPUT_DIR in classpath (fixes package deps)
+	"$JAVAC_PATH" -classpath "$DEPENDENCIES:$OUTPUT_DIR" -d "$OUTPUT_DIR" "${COMPILE_LIST[@]}"
+	
+	if [[ $? -eq 0 ]] ; then
+		write_changes "$1"
+	else
+		exit 1
+	fi
+}
+
+
+## EXECUTION ##
+execute()
+{
+	local OUT_DIR="$1/logs"
+	local JADE_PID
+	local CONTS_PID
+	local CONTS_AMNT_CURRENT=1 # Lying variable, it needs to be current + 1 to avoid issues
+	local CONTS_AMNT_TARGET=0
+	
+	local DEPENDENCIES=$JADE_LIB
+	
+	# Placeholder fix
+	if [[ -d $1/lib ]] ; then
+		for lib in $( find "$1" -type f -name '*.jar' ) ; do
+			$DEPENDENCIES="$DEPENDENCIES:$lib"
+		done
+	fi
+	
+	rm -rf "$OUT_DIR/agents" "$OUT_DIR/containers" "$OUT_DIR/platform" 2> /dev/null
+	mkdir -p "$OUT_DIR/agents" "$OUT_DIR/containers" "$OUT_DIR/platform" 2> /dev/null
+	
+	echo "Running JADE platform"
+	
+	"$JAVA_PATH" -cp "$JADE_LIB" jade.Boot -gui > "$OUT_DIR/platform/log.txt" 2>&1 & # JADE Running
+	JADE_PID="$!"
+		
+	local continue=true
+	while $continue ; do
+		echo -en "Select next entities to run [\e[4;31mA\e[0mgents/\e[4;31mC\e[0montainers/\e[4;31mD\e[0mone]: "
+		read user_input
+		
+		if [[ $user_input = "A" ]] || [[ $user_input = "a" ]] ; then
+
+			echo -en "Enter parent container name (if none creates new container for each agent): "
+			read container_name
+			: ${container_name:=""}
+			
+			echo -en "Enter host name (default localhost): "
+			read host_name
+			: ${host_name:=localhost}
+			
+			for i in "${!AGENTS[@]}" ; do
+				"$JAVA_PATH" -cp "$DEPENDENCIES":"$OUTPUT_DIR" jade.Boot -container $container_name -host $host_name -agents "${AGENTS[$(( i - 1 ))]}" > "$OUT_DIR/agents/${AGENTS[$(( i - 1 ))]}_log.txt" 2>&1 &
+				CONTS_PID+=("$!")
+			done
+						
+		elif [[ $user_input = "C" ]] || [[ $user_input = "c" ]] ; then
+
+			echo -en "Enter amount of containers (default one): "
+			read amount
+			: ${amount:=1}
+			
+			CONTS_AMNT_TARGET=$(( $CONTS_AMNT_TARGET + $amount )) # Again lying, should be current + amount but it generates issues, since current = target then target gets used as current proxy.
+			
+			echo -en "Enter host name (default localhost): "
+			read host_name
+			: ${host_name:=localhost}
+			
+			for i in $( seq $CONTS_AMNT_CURRENT $CONTS_AMNT_TARGET ) ; do
+				CONT_NAME="Container-$i"
+				"$JAVA_PATH" -cp "$JADE_LIB" jade.Boot -container "$CONT_NAME" -host $host_name > "$OUT_DIR/containers/${CONT_NAME}_log.txt" 2>&1 &
+				CONTS_PID+=("$!")
+			done
+			
+			CONTS_AMNT_CURRENT=$(( CONTS_AMNT_TARGET + 1 )) # Finale of lies trifecta, +1 to move pointer to empty space instead of last element
+			
+		elif [[ $user_input = "D" ]] || [[ $user_input = "d" ]] ; then
+			echo "Killing Containers"
+			for i in "${!CONTS_PID[@]}" ; do
+				kill "${CONTS_PID[$i]}"
+			done
+			
+			echo "Killing Platform"
+			kill "$JADE_PID"
+			
+			continue=false
+		else
+			echo -en "Invalid input, please select next entities to run [\e[4;31mA\e[0mgents/\e[4;31mC\e[0montainers/\e[4;31mD\e[0mone]: "
+			read user_input
+		fi
 	done
 }
 
-execute_agents()
-{
-	local PATH=$1
-	cd $PATH
 
-	# Declare agents to run
-	local arr=()
-	agents "$TARGET_DIR" arr # if return = 1 explode, else continue
-	declare -p arr
-	
-	$JAVA_PATH -cp $JADE_LIB:$OUTPUT_DIR jade.Boot -container -host localhost -agents ${arr[@]}
-
-}
-
-## Print Utils ##
-
+## UTILS ##
 print_error()
 {
 	echo ""
-	echo "INVALID COMMAND OPTION"
+	echo $1
 	echo ""
 }
 
 print_help()
 {
-	echo "Usage: $0 [-cx] [-d DIR]"
+	echo "Usage: -h // -cx [DIR]?"
 	echo ""
 	echo "Realiza las operaciones especificadas sobre el DIR (directorio del script por defecto)."
 	echo ""
-	echo "Description of FLAGS:"
-	echo "  -c, --compile               Set COMPILE=true"
-	echo "  -x, --execute               Set EXECUTE=true"
-	echo "  -d, --directory=DIR         Specifies DIR as the base directory"
+	echo "OPTIONS:"
+	echo "  -c,                      Set COMPILE=true"
+	echo "  -x,                      Set EXECUTE=true"
+	echo "  -h,                      Show help, incompatible with other flags"
+	echo
+	echo "ARGUMENTS:"
+	echo "  DIR (optional)           Set TARGET_DIR=DIR"
 }
 
-# Courtesy of https://stackoverflow.com/a/20909045 #
-set_env_variables(){
-	local script_dir=$1
-	local unamestr=$( uname )
-	
-	if [ "$unamestr" = 'Linux' ] ; then
-		export $(grep -v '^#' $( ls $script_dir | grep .env ) | xargs -d '\n') 
-	elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ] ; then
-		export $(grep -v '^#' $( ls $dir | grep .env ) | xargs -0)
-	fi
-}
+##### END FUNCTIONS #####
 
-unset_env_variables(){
-	local script_dir=$1
-	local unamestr=$(uname)
-	
-	if [ "$unamestr" = 'Linux' ] ; then
-		unset $(grep -v '^#' $( ls $script_dir | grep .env ) | xargs -d '\n')
-	elif [ "$unamestr" = 'FreeBSD' ] || [ "$unamestr" = 'Darwin' ] ; then
-		unset $(grep -v '^#' $( ls $script_dir | grep .env ) | xargs -0)
-	fi
-}
+##### SCRIPT START #####
 
-perform_actions(){
-	local compile_action_is_requested=$1
-	local execute_action_is_requested=$2
-	
-	if [ $compile_action_is_requested = true ] ; then
-		eval $JAVAC_PATH "-classpath $JADE_LIB -d $OUTPUT_DIR $WORKDIR/*.java"
+COMPILE=false;
+EXECUTE=false;
+HELP=false
+BASE_DIR=$( dirname $0 )
+
+while getopts ":cxh" FLAG ; do
+	case $FLAG in
+		c)
+			COMPILE=true
+			;;
+		x)
+			EXECUTE=true
+			;;
+		h)
+			HELP=true
+			;;
+		*)
+			print_error "ERROR: OPTION NOT RECOGNIZED"
+			print_help
+			exit 1
+			;;
+	esac
+done
+shift "$(( OPTIND - 1 ))"
+
+if [[ $HELP = true ]] ; then
+	if [[ $COMPILE = true || $EXECUTE = true || $# -gt 0 ]] ; then
+		print_error "ERROR: HELP OPTION (-h) DOESN'T ALLOW OTHER OPTIONS/ARGUMENTS "
+		exit 1
+	else
+		print_help
+		exit 0
 	fi
-	
-	if [ $execute_action_is_requested = true ] ; then
-		eval $EXEC_SERVER
-		for AGENT_DEF in "${AGENTS[@]}" ; do
-			eval "$EXEC_AGENT $AGENT_DEF"
+fi
+
+if [[ $COMPILE = false && $EXECUTE = false ]] ; then
+  print_error "ERROR: OPTION SPECIFICATION REQUIRED"
+  print_help
+  exit 1
+fi
+
+if [[ $# -gt 1 ]] ; then
+	print_error "ERROR: TOO MANY ARGUMENTS"
+	print_help
+	exit 1
+elif [[ $# -eq 1 ]] ; then
+	TARGET_DIR=$1
+fi
+
+setup
+
+if [[ $COMPILE = true && "${#COMPILE_LIST[@]}" -ge 1 ]] ; then
+	if [[ -z ${TARGET_DIR+x} ]] ; then
+		for i in "${!DIR_STRUCT[@]}" ; do
+        	compile "${DIR_STRUCT[$i]}"
 		done
+	else
+		compile "$BASE_DIR/$TARGET_DIR"
 	fi
-}
-
-
-## Flags ##
-parse_flags()
-{
-	COMPILE=false;
-	EXECUTE=false;
-	SCRIPT_DIR=$( dirname $0 )
-	TARGET_DIR=$SCRIPT_DIR;
-
-	while [ $# -gt 0 ] ; do
-		case $1 in
-		
-			-c | --compile)
-				COMPILE=true
-				;;
-			
-			-x | --execute)
-				EXECUTE=true
-				;;
-			
-			-d | --directory*)
-				if has_argument $@ ; then
-					TARGET_DIR=$SCRIPT_DIR/$( extract_argument $@ )
-					shift
-				fi
-				echo $TARGET_DIR
-				;;
-				
-			-h | --help)
-				print_help
-				exit 0
-				;;
-				
-			*)
-				print_error
-				print_help
-				exit 1
-				;;
-		esac
-		
-		shift
-	done
-}
-
-parse_flags "$@"
-setup "$SCRIPT_DIR" "$TARGET_DIR"
-
-if [[ $COMPILE = true ]] ; then
-	compile
 fi
 
 if [[ $EXECUTE = true ]] ; then
-	exec_user_interface
+	if [[ -z ${TARGET_DIR+x} ]] ; then
+		for i in "${!DIR_STRUCT[@]}" ; do
+        	execute "${DIR_STRUCT[$i]}"
+		done
+	else
+		execute "$BASE_DIR/$TARGET_DIR"
+	fi
 fi
 
-arr=()
-agents "$TARGET_DIR" arr
-declare -p arr
+cleanup
 
-## Commands ##
-#COMPILE="$( ${JAVA_PATH} -classpath $JADE_LIB -d $OUTPUT_DIR $WORKDIR/*.java )" ## TODO: Logic for avoiding recompiling unchanged files
-
-#EXEC_AGENT="$( ${JAVA_PATH}java -cp $JADE_LIB:$OUTPUT_DIR jade.Boot -container -host localhost -agents )"
-#EXEC_CONTAINER="$( ${JAVA_PATH}java -cp $JADE_LIB jade.Boot -container )"
-#EXEC_SERVER="$( ${JAVA_PATH}java -cp $JADE_LIB jade.Boot -gui )"
-
-
-
-# project/
-#  |-- p4.sh
-#  |-- config.env
-#  |-- ej1/	
-#  |-- ej2/
-#  |-- ej3/
-#       |-- run.sh
-#       |-- *.java
-
-### ./p4.sh [FLAGS] -c COMPILE=true -x EXECUTE=true [ARGUMENTS] DIR=(default)project/ ----> c? ./DIR then x? ./DIR/run.sh
-
-
-## Using stat for file changes since granularity of OS isn't an issue here
-
+##### END SCRIPT #####

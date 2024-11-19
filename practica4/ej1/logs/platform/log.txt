@@ -1,0 +1,41 @@
+nov 18, 2024 7:09:26 PM jade.core.Runtime beginContainer
+INFORMACIÓN: ----------------------------------
+    This is JADE 4.3.2 - revision 6708 of 2014/03/28 15:19:44
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+nov 18, 2024 7:09:26 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFORMACIÓN: Listening for intra-platform commands on address:
+- jicp://172.17.0.1:1099
+
+nov 18, 2024 7:09:26 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.management.AgentManagement initialized
+nov 18, 2024 7:09:26 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.messaging.Messaging initialized
+nov 18, 2024 7:09:26 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.resource.ResourceManagement initialized
+nov 18, 2024 7:09:26 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.mobility.AgentMobility initialized
+nov 18, 2024 7:09:26 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.event.Notification initialized
+nov 18, 2024 7:09:26 PM jade.mtp.http.HTTPServer <init>
+INFORMACIÓN: HTTP-MTP Using XML parser com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser
+nov 18, 2024 7:09:26 PM jade.core.messaging.MessagingService boot
+INFORMACIÓN: MTP addresses:
+http://juan-System-Product-Name:7778/acc
+nov 18, 2024 7:09:26 PM jade.core.AgentContainerImpl joinPlatform
+INFORMACIÓN: --------------------------------------
+Agent container Main-Container@172.17.0.1 is ready.
+--------------------------------------------
+nov 18, 2024 7:09:38 PM jade.core.PlatformManagerImpl localAddNode
+INFORMACIÓN: Adding node <Container-1> to the platform
+nov 18, 2024 7:09:38 PM jade.core.PlatformManagerImpl$1 nodeAdded
+INFORMACIÓN: --- Node <Container-1> ALIVE ---
+Agent AgenteB (AgenteB@172.17.0.1:1099/JADE) in location Main-Container@172.17.0.1 reports from AFTERMOVE
+jade.core.NotFoundException: No container named Container-1 was found.
+	at jade.core.ContainerTable.getMTPs(ContainerTable.java:98)
+	at jade.core.MainContainerImpl.removeAllMTPs(MainContainerImpl.java:1711)
+	at jade.core.MainContainerImpl.removeRemoteContainer(MainContainerImpl.java:178)
+	at jade.core.MainContainerImpl.shutdownContainer(MainContainerImpl.java:988)
+	at jade.core.MainContainerImpl.shutdownPlatform(MainContainerImpl.java:894)
+	at jade.domain.ams$3.run(ams.java:233)
