@@ -1,0 +1,46 @@
+nov 23, 2024 8:55:17 PM jade.Boot parseCmdLineArgs
+ADVERTENCIA: WARNING: ignoring command line argument -host occurring after agents specification
+nov 23, 2024 8:55:17 PM jade.core.Runtime beginContainer
+INFORMACIÓN: ----------------------------------
+    This is JADE 4.3.2 - revision 6708 of 2014/03/28 15:19:44
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+nov 23, 2024 8:55:17 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFORMACIÓN: Listening for intra-platform commands on address:
+- jicp://172.17.0.1:38595
+
+nov 23, 2024 8:55:17 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.management.AgentManagement initialized
+nov 23, 2024 8:55:17 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.messaging.Messaging initialized
+nov 23, 2024 8:55:17 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.resource.ResourceManagement initialized
+nov 23, 2024 8:55:17 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.mobility.AgentMobility initialized
+nov 23, 2024 8:55:17 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.event.Notification initialized
+nov 23, 2024 8:55:17 PM jade.core.AgentContainerImpl startBootstrapAgents
+ADVERTENCIA: Cannot create an agent with no name. Class was Container-2
+nov 23, 2024 8:55:17 PM jade.core.AgentContainerImpl joinPlatform
+INFORMACIÓN: --------------------------------------
+Agent container Container-3@172.17.0.1 is ready.
+--------------------------------------------
+[1m[33m[[36m2024-11-23T20:55:20.742[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.076171875' }[0m
+[1m[33m[[36m2024-11-23T20:55:20.742[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:21.930[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:21.931[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:22.990[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:22.990[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:24.047[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:24.047[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:24.095[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:24.095[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:25.142[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:25.143[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:26.190[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:26.190[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:27.232[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.13818359375' }[0m
+[1m[33m[[36m2024-11-23T20:55:27.232[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:28.277[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-3@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.13818359375' }[0m
+[1m[33m[[36m2024-11-23T20:55:28.277[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-4@172.17.0.1[0m

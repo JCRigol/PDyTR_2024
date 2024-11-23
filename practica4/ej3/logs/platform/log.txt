@@ -1,0 +1,87 @@
+nov 23, 2024 8:55:14 PM jade.core.Runtime beginContainer
+INFORMACIÓN: ----------------------------------
+    This is JADE 4.3.2 - revision 6708 of 2014/03/28 15:19:44
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+nov 23, 2024 8:55:14 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFORMACIÓN: Listening for intra-platform commands on address:
+- jicp://172.17.0.1:1099
+
+nov 23, 2024 8:55:14 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.management.AgentManagement initialized
+nov 23, 2024 8:55:14 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.messaging.Messaging initialized
+nov 23, 2024 8:55:14 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.resource.ResourceManagement initialized
+nov 23, 2024 8:55:14 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.mobility.AgentMobility initialized
+nov 23, 2024 8:55:14 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.event.Notification initialized
+nov 23, 2024 8:55:14 PM jade.mtp.http.HTTPServer <init>
+INFORMACIÓN: HTTP-MTP Using XML parser com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser
+nov 23, 2024 8:55:14 PM jade.core.messaging.MessagingService boot
+INFORMACIÓN: MTP addresses:
+http://juan-System-Product-Name:7778/acc
+nov 23, 2024 8:55:14 PM jade.core.AgentContainerImpl joinPlatform
+INFORMACIÓN: --------------------------------------
+Agent container Main-Container@172.17.0.1 is ready.
+--------------------------------------------
+nov 23, 2024 8:55:17 PM jade.core.PlatformManagerImpl localAddNode
+INFORMACIÓN: Adding node <Container-1> to the platform
+nov 23, 2024 8:55:17 PM jade.core.PlatformManagerImpl$1 nodeAdded
+INFORMACIÓN: --- Node <Container-1> ALIVE ---
+nov 23, 2024 8:55:17 PM jade.core.PlatformManagerImpl localAddNode
+INFORMACIÓN: Adding node <Container-2> to the platform
+nov 23, 2024 8:55:17 PM jade.core.PlatformManagerImpl localAddNode
+INFORMACIÓN: Adding node <Container-3> to the platform
+nov 23, 2024 8:55:17 PM jade.core.PlatformManagerImpl$1 nodeAdded
+INFORMACIÓN: --- Node <Container-2> ALIVE ---
+nov 23, 2024 8:55:17 PM jade.core.PlatformManagerImpl$1 nodeAdded
+INFORMACIÓN: --- Node <Container-3> ALIVE ---
+nov 23, 2024 8:55:19 PM jade.core.PlatformManagerImpl localAddNode
+INFORMACIÓN: Adding node <Container-4> to the platform
+nov 23, 2024 8:55:19 PM jade.core.PlatformManagerImpl$1 nodeAdded
+INFORMACIÓN: --- Node <Container-4> ALIVE ---
+[1m[33m[[36m2024-11-23T20:55:20.883[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.076171875' }[0m
+[1m[33m[[36m2024-11-23T20:55:21.945[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:23.008[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:24.064[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:24.104[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:25.153[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:26.201[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:27.245[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.13818359375' }[0m
+[1m[33m[[36m2024-11-23T20:55:28.285[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mMain-Container@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.13818359375' }[0m
+nov 23, 2024 8:55:31 PM jade.domain.ams$3 run
+ADVERTENCIA: >>>>>>>>> Main Container JVM is terminating. Activate platform shutdown
+jade.core.NotFoundException: No container named Container-1 was found.
+	at jade.core.ContainerTable.getMTPs(ContainerTable.java:98)
+	at jade.core.MainContainerImpl.removeAllMTPs(MainContainerImpl.java:1711)
+	at jade.core.MainContainerImpl.removeRemoteContainer(MainContainerImpl.java:178)
+	at jade.core.MainContainerImpl.shutdownContainer(MainContainerImpl.java:988)
+	at jade.core.MainContainerImpl.shutdownPlatform(MainContainerImpl.java:894)
+	at jade.domain.ams$3.run(ams.java:233)
+jade.core.NotFoundException: No container named Container-2 was found.
+	at jade.core.ContainerTable.getMTPs(ContainerTable.java:98)
+	at jade.core.MainContainerImpl.removeAllMTPs(MainContainerImpl.java:1711)
+	at jade.core.MainContainerImpl.removeRemoteContainer(MainContainerImpl.java:178)
+	at jade.core.MainContainerImpl.shutdownPlatform(MainContainerImpl.java:900)
+	at jade.domain.ams$3.run(ams.java:233)
+jade.core.NotFoundException: No container named Container-3 was found.
+	at jade.core.ContainerTable.getMTPs(ContainerTable.java:98)
+	at jade.core.MainContainerImpl.removeAllMTPs(MainContainerImpl.java:1711)
+	at jade.core.MainContainerImpl.removeRemoteContainer(MainContainerImpl.java:178)
+	at jade.core.MainContainerImpl.shutdownPlatform(MainContainerImpl.java:900)
+	at jade.domain.ams$3.run(ams.java:233)
+jade.core.NotFoundException: No container named Container-4 was found.
+	at jade.core.ContainerTable.getMTPs(ContainerTable.java:98)
+	at jade.core.MainContainerImpl.removeAllMTPs(MainContainerImpl.java:1711)
+	at jade.core.MainContainerImpl.removeRemoteContainer(MainContainerImpl.java:178)
+	at jade.core.PlatformManagerImpl.localRemoveNode(PlatformManagerImpl.java:359)
+	at jade.core.PlatformManagerImpl.removeNode(PlatformManagerImpl.java:329)
+	at jade.core.PlatformManagerImpl.removeTerminatedNode(PlatformManagerImpl.java:1016)
+	at jade.core.PlatformManagerImpl.access$200(PlatformManagerImpl.java:53)
+	at jade.core.PlatformManagerImpl$1.nodeRemoved(PlatformManagerImpl.java:974)
+	at jade.core.NodeFailureMonitor.fireNodeRemoved(NodeFailureMonitor.java:176)
+	at jade.core.nodeMonitoring.BlockingNodeFailureMonitor.run(BlockingNodeFailureMonitor.java:100)
+	at java.lang.Thread.run(Thread.java:750)

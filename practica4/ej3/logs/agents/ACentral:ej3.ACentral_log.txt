@@ -1,0 +1,161 @@
+nov 23, 2024 8:55:19 PM jade.core.Runtime beginContainer
+INFORMACIÓN: ----------------------------------
+    This is JADE 4.3.2 - revision 6708 of 2014/03/28 15:19:44
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+nov 23, 2024 8:55:19 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFORMACIÓN: Listening for intra-platform commands on address:
+- jicp://172.17.0.1:40511
+
+nov 23, 2024 8:55:19 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.management.AgentManagement initialized
+nov 23, 2024 8:55:19 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.messaging.Messaging initialized
+nov 23, 2024 8:55:19 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.resource.ResourceManagement initialized
+nov 23, 2024 8:55:19 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.mobility.AgentMobility initialized
+nov 23, 2024 8:55:19 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.event.Notification initialized
+nov 23, 2024 8:55:19 PM jade.core.AgentContainerImpl joinPlatform
+INFORMACIÓN: --------------------------------------
+Agent container Container-4@172.17.0.1 is ready.
+--------------------------------------------
+[1m[33m[[36m2024-11-23T20:55:19.405[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [][0m
+[1m[33m[[36m2024-11-23T20:55:19.405[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:19.405[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:19.418[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:19.418[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:19.418[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:19.423[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:19.423[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:19.424[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:19.427[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 32ms[0m
+[1m[33m[[36m2024-11-23T20:55:19.429[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:20.431[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:20.431[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:20.431[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:20.433[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:20.434[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:20.434[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:20.435[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:20.771[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.076171875' }[0m
+[1m[33m[[36m2024-11-23T20:55:20.771[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:20.897[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:20.897[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:20.898[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:20.901[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 467ms[0m
+[1m[33m[[36m2024-11-23T20:55:20.903[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:21.905[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:21.905[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:21.905[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:21.906[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:21.906[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:21.906[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:21.907[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:21.938[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:21.938[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:21.951[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:21.951[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:21.952[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:21.952[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 47ms[0m
+[1m[33m[[36m2024-11-23T20:55:21.953[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:22.956[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:22.956[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:22.956[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:22.956[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:22.956[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:22.956[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:22.957[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:22.998[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:22.998[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:23.012[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:23.012[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:23.013[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:23.013[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 58ms[0m
+[1m[33m[[36m2024-11-23T20:55:23.015[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:24.017[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:24.017[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:24.017[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:24.018[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:24.018[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:24.018[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:24.019[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:24.055[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:24.055[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:24.071[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:24.071[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:24.071[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:24.071[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 55ms[0m
+[1m[33m[[36m2024-11-23T20:55:24.073[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:24.075[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:24.075[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:24.075[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:24.075[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:24.076[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:24.076[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:24.076[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:24.099[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:24.099[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:24.111[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:24.111[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:24.112[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:24.113[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 37ms[0m
+[1m[33m[[36m2024-11-23T20:55:24.114[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:25.117[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:25.117[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:25.117[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:25.117[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:25.117[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:25.118[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:25.118[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:25.148[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:25.148[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:25.156[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:25.156[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:25.157[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:25.158[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 42ms[0m
+[1m[33m[[36m2024-11-23T20:55:25.158[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:26.161[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:26.161[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:26.161[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:26.161[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:26.162[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:26.168[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:26.169[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:26.195[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.150390625' }[0m
+[1m[33m[[36m2024-11-23T20:55:26.195[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:26.205[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:26.206[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:26.206[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:26.206[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 46ms[0m
+[1m[33m[[36m2024-11-23T20:55:26.207[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:27.209[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:27.210[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:27.210[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:27.210[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:27.210[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:27.210[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:27.210[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:27.237[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.13818359375' }[0m
+[1m[33m[[36m2024-11-23T20:55:27.237[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:27.249[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:27.250[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:27.250[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:27.251[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 42ms[0m
+[1m[33m[[36m2024-11-23T20:55:27.252[33m] DEBUG :: [92mACentral[33m :: [34mSleepState[0m
+[1m[33m[[36m2024-11-23T20:55:28.255[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mKnownPlatform [Container-1@172.17.0.1, Container-2@172.17.0.1, Container-3@172.17.0.1, Container-4@172.17.0.1, Main-Container@172.17.0.1][0m
+[1m[33m[[36m2024-11-23T20:55:28.255[33m] DEBUG :: [95mAGatherer[33m :: [34mCreation[0m
+[1m[33m[[36m2024-11-23T20:55:28.255[33m] DEBUG :: [92mACentral[33m :: [34mSetupState[33m :: [31mSendingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:28.255[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mWaitingInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:28.255[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mWaitingResults[0m
+[1m[33m[[36m2024-11-23T20:55:28.256[33m] DEBUG :: [95mAGatherer[33m :: [34mSetupState[33m :: [31mReceivedInitMessage[0m
+[1m[33m[[36m2024-11-23T20:55:28.256[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Container-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:28.281[33m] DEBUG :: [95mAGatherer[33m :: [34mAfterMove[33m :: [31mContainer-4@172.17.0.1 { hostName='juan-System-Product-Name', memory='16691306496', loadAvg='0.13818359375' }[0m
+[1m[33m[[36m2024-11-23T20:55:28.281[33m] DEBUG :: [95mAGatherer[33m :: [34mTraverseState[33m :: [31mDestination Main-Container@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T20:55:28.288[33m] DEBUG :: [95mAGatherer[33m :: [34mCleanupState[33m :: [31mSendingResults[0m
+[1m[33m[[36m2024-11-23T20:55:28.288[33m] DEBUG :: [95mAGatherer[33m :: [34mDestruction[0m
+[1m[33m[[36m2024-11-23T20:55:28.289[33m] DEBUG :: [92mACentral[33m :: [34mReceptionState[33m :: [31mReceivedResults[0m
+[1m[33m[[36m2024-11-23T20:55:28.290[33m] DEBUG :: [92mACentral[33m :: [34mStorageState[33m :: [31mTimeElapsed 35ms[0m
+[1m[33m[[36m2024-11-23T20:55:28.290[33m] DEBUG :: [92mACentral[33m :: [34mDummyState[0m

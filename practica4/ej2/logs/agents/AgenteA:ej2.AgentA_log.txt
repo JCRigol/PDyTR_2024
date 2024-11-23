@@ -1,0 +1,26 @@
+nov 23, 2024 7:22:30 PM jade.core.Runtime beginContainer
+INFORMACIÓN: ----------------------------------
+    This is JADE 4.3.2 - revision 6708 of 2014/03/28 15:19:44
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+nov 23, 2024 7:22:30 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFORMACIÓN: Listening for intra-platform commands on address:
+- jicp://172.17.0.1:44357
+
+nov 23, 2024 7:22:30 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.management.AgentManagement initialized
+nov 23, 2024 7:22:30 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.messaging.Messaging initialized
+nov 23, 2024 7:22:30 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.resource.ResourceManagement initialized
+nov 23, 2024 7:22:30 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.mobility.AgentMobility initialized
+nov 23, 2024 7:22:30 PM jade.core.BaseService init
+INFORMACIÓN: Service jade.core.event.Notification initialized
+nov 23, 2024 7:22:30 PM jade.core.AgentContainerImpl joinPlatform
+INFORMACIÓN: --------------------------------------
+Agent container Container-1@172.17.0.1 is ready.
+--------------------------------------------
+[1m[33m[[36m2024-11-23T19:22:30.327[33m] DEBUG :: [92mAgenteB[33m :: Method => [34mSETUP[33m :: Location => [34mContainer-1@172.17.0.1[0m
+[1m[33m[[36m2024-11-23T19:22:32.399[33m] DEBUG :: [92mAgenteB[33m :: Method => [34mAFTERMOVE[33m :: Location => [34mContainer-1@172.17.0.1[0m
