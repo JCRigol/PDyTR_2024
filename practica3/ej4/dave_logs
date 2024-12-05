@@ -1,0 +1,35 @@
+Server: Welcome!
+[2024-12-05T18:23:12.016Z] Johnny: Hello from Johnny
+[2024-12-05T18:23:12.016Z] Barbara: Hello from Barbara
+[2024-12-05T18:23:12.016Z] Dave: Hello from Dave
+[2024-12-05T18:23:12.016Z] CGPT: Hello from CGPT
+[2024-12-05T18:23:12.141Z] Dave: Another message(1) from Dave
+[2024-12-05T18:23:12.188Z] Dave: Another message(2) from Dave
+[2024-12-05T18:23:12.420Z] CGPT: Another message(1) from CGPT
+[2024-12-05T18:23:12.421Z] Barbara: Another message(1) from Barbara
+[2024-12-05T18:23:12.426Z] Johnny: Another message(1) from Johnny
+[2024-12-05T18:23:12.682Z] Dave: Another message(3) from Dave
+[2024-12-05T18:23:12.807Z] Barbara: Another message(2) from Barbara
+[2024-12-05T18:23:12.853Z] Johnny: Another message(2) from Johnny
+[2024-12-05T18:23:13.012Z] Barbara: Another message(3) from Barbara
+[2024-12-05T18:23:13.056Z] Server: CGPT disconnected
+[2024-12-05T18:23:13.142Z] Dave: Another message(4) from Dave
+[2024-12-05T18:23:13.236Z] Johnny: Another message(3) from Johnny
+[2024-12-05T18:23:13.303Z] Dave: Another message(5) from Dave
+[2024-12-05T18:23:13.345Z] Johnny: Another message(4) from Johnny
+[2024-12-05T18:23:13.411Z] Barbara: Another message(4) from Barbara
+[2024-12-05T18:23:13.700Z] Johnny: Another message(5) from Johnny
+[2024-12-05T18:23:13.757Z] Dave: Another message(6) from Dave
+[2024-12-05T18:23:13.917Z] Barbara: Another message(5) from Barbara
+[2024-12-05T18:23:13.981Z] Dave: Another message(7) from Dave
+[2024-12-05T18:23:14.144Z] Johnny: Another message(6) from Johnny
+[2024-12-05T18:23:14.310Z] Dave: Another message(8) from Dave
+[2024-12-05T18:23:14.336Z] Barbara: Another message(6) from Barbara
+[2024-12-05T18:23:14.611Z] Barbara: Another message(7) from Barbara
+[2024-12-05T18:23:14.630Z] Johnny: Another message(7) from Johnny
+[2024-12-05T18:23:14.667Z] Dave: Another message(9) from Dave
+[2024-12-05T18:23:14.883Z] Barbara: Another message(8) from Barbara
+[2024-12-05T18:23:14.899Z] Dave: Another message(10) from Dave
+[2024-12-05T18:23:15.001Z] Johnny: Another message(8) from Johnny
+[2024-12-05T18:23:15.305Z] Barbara: Another message(9) from Barbara
+Server: Goodbye!

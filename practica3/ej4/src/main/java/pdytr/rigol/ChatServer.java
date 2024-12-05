@@ -74,20 +74,21 @@ public class ChatServer {
         public void join(JoinRequest request, StreamObserver<ChatEvent> responseObserver) {
             String username = request.getUsername();
             //Debug
-            System.out.println("Joined: " + username + " " + Instant.now().toString());
+            System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[38;5;204m" + "JOIN" + "\u001B[33m" + " => " + "\u001B[95m" + username + "\u001B[0m");
 
             ServerCallStreamObserver<ChatEvent> serverObserver = (ServerCallStreamObserver<ChatEvent>) responseObserver;
             serverObserver.setOnCancelHandler(() -> {
                 if (clientList.containsKey(username)) {
                     //Debug
-                    System.out.println("Leave(sudden): " + username + " " + Instant.now().toString());
+                    System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[38;5;201m" + "OBSERVER" + "\u001B[33m" + " :: " + "\u001B[31m" + "SuddenLeave" + "\u001B[33m" + " => " + "\u001B[95m" + username + "\u001B[0m");
                     clientLocks.remove(clientList.remove(username));
 
                     broadcastEvent(
                             chatEventBuilder(MessageRequest.newBuilder()
                                     .setUsername("Server")
                                     .setMessage(username + " disconnected")
-                                    .build())
+                                    .build()),
+                            "Server"
                     );
                 }
             });
@@ -100,13 +101,14 @@ public class ChatServer {
         public void probe(ProbeRequest request, StreamObserver<ServerEvent> responseObserver) {
             String username = request.getUsername();
             //Debug
-            System.out.println("Probe: " + username + " " + Instant.now().toString());
+            System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[38;5;208m" + "PROBE" + "\u001B[33m" + " => " + "\u001B[95m" + username + "\u001B[0m");
 
             if ((clientList.containsKey(username)) && (!clientList.get(username).isCancelled())) {
                 responseObserver.onNext(ServerEvent.newBuilder().setStatus(true).build());
                 event(
                         clientList.get(username),
-                        serverEventBuilder("Welcome!")
+                        serverEventBuilder("Welcome!"),
+                        request.getUsername()
                 );
             }
             else
@@ -120,7 +122,7 @@ public class ChatServer {
 
             if ((clientList.containsKey(username)) && (!clientList.get(username).isCancelled())) {
                 //Debug
-                System.out.println("Leave: " + username + " " + Instant.now().toString());
+                System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[94m" + "LEAVE" + "\u001B[33m" + " => " + "\u001B[95m" + username + "\u001B[0m");
 
                 clientLocks.get(clientList.get(username)).lock();
                 try {
@@ -129,7 +131,8 @@ public class ChatServer {
 
                     event(
                             clientObserver,
-                            serverEventBuilder("Goodbye!")
+                            serverEventBuilder("Goodbye!"),
+                            request.getUsername()
                     );
 
                     clientLocks.remove(clientObserver);
@@ -139,7 +142,8 @@ public class ChatServer {
                             chatEventBuilder(MessageRequest.newBuilder()
                                     .setUsername("Server")
                                     .setMessage(username + " disconnected")
-                                    .build())
+                                    .build()),
+                            "Server"
                     );
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -152,7 +156,7 @@ public class ChatServer {
         @Override
         public void sendMessage(MessageRequest request, StreamObserver<ServerEvent> responseObserver) {
             //Debug
-            System.out.println("Message: " + request.getUsername() + " " + Instant.now().toString());
+            System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[96m" + "MESSAGE" + "\u001B[33m" + " => " + "\u001B[95m" + request.getUsername() + "\u001B[0m");
 
             //First 4 messages from clients should be concurrent, since threads release from latch at around the same time
             //And go into race conditions
@@ -164,14 +168,16 @@ public class ChatServer {
                     Instant timestamp = Instant.now();
 
                     broadcastEvent(
-                            chatEventBuilder(request, timestamp)
+                            chatEventBuilder(request, timestamp),
+                            request.getUsername()
                     );
                 } catch (InterruptedException e) {
                     responseObserver.onNext(ServerEvent.newBuilder().setStatus(false).build());
                 }
             } else {
                 broadcastEvent(
-                        chatEventBuilder(request)
+                        chatEventBuilder(request),
+                        request.getUsername()
                 );
             }
 
@@ -216,24 +222,24 @@ public class ChatServer {
         }
 
         private ChatEvent serverEventBuilder(String message) {
-            return ChatEvent.newBuilder().setMessage("Server: " + message).build();
+            return ChatEvent.newBuilder().setMessage("\u001B[1m" + "\u001B[33m" + "Server: "  + "\u001B[31m" + message + "\u001B[0m").build();
         }
 
         private ChatEvent chatEventBuilder(MessageRequest request) {
-            String message = "[" + Instant.now().toString() + "] " + request.getUsername() + ": " + request.getMessage();
+            String message = "\u001B[1m" + "\u001B[33m" + "["  + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "\u001B[95m" + request.getUsername() + "\u001B[33m" + ": " + "\u001B[34m" + request.getMessage() + "\u001B[0m";
             chatHistory.appendMessage(message);
 
             return ChatEvent.newBuilder().setMessage(message).build();
         }
 
         private ChatEvent chatEventBuilder(MessageRequest request, Instant timestamp) {
-            String message = "[" + timestamp.toString() + "] " + request.getUsername() + ": " + request.getMessage();
+            String message = "\u001B[1m" + "\u001B[33m" + "["  + "\u001B[36m" + timestamp.toString() + "\u001B[33m" + "] " + "\u001B[95m" + request.getUsername() + "\u001B[33m" + ": " + "\u001B[34m" + request.getMessage() + "\u001B[0m";
             chatHistory.appendMessage(message);
 
             return ChatEvent.newBuilder().setMessage(message).build();
         }
 
-        private void event(ServerCallStreamObserver<ChatEvent> clientObserver, ChatEvent event) {
+        private void event(ServerCallStreamObserver<ChatEvent> clientObserver, ChatEvent event, String receiver) {
             if (!clientObserver.isCancelled()) {
                 clientLocks.get(clientObserver).lock();
 
@@ -245,9 +251,12 @@ public class ChatServer {
                     clientLocks.get(clientObserver).unlock();
                 }
             }
+
+            // Debug
+            System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[38;5;126m" + "SERVER_MSG" + "\u001B[33m" + " => " + "\u001B[95m" + receiver + "\u001B[0m");
         }
 
-        private void broadcastEvent(ChatEvent event) {
+        private void broadcastEvent(ChatEvent event, String sender) {
             clientList.forEach((username, clientObserver) -> {
                 if (!clientObserver.isCancelled()) {
 
@@ -261,6 +270,9 @@ public class ChatServer {
                     }
                 }
             });
+
+            // Debug
+            System.out.println("\u001B[1m" + "\u001B[33m" + "[" + "\u001B[36m" + Instant.now().toString() + "\u001B[33m" + "] " + "DEBUG :: " + "\u001B[92m" + "BROADCAST" + "\u001B[33m" + " => " + "\u001B[95m" + sender + "\u001B[0m");
         }
     }
 
