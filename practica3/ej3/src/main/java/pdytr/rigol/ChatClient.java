@@ -63,7 +63,7 @@ public class ChatClient {
             Thread.sleep(random.nextInt(2000));
             client.leaveChat(username);
         } catch (StatusRuntimeException e) {
-            System.out.println("DESCONEXIÓN ESPONTÁNEA");
+            System.out.println("\u001B[1m" + "\u001B[31m" + "DESCONEXIÓN ESPONTÁNEA" + "\u001B[0m");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -163,7 +163,7 @@ public class ChatClient {
 
             @Override
             public void onCompleted() {
-                System.out.println("History Download Done");
+                System.out.println("\u001B[1m" + "\u001B[31m" + "HISTORY DOWNLOAD DONE" + "\u001B[0m");
                 closeFile();
             }
 

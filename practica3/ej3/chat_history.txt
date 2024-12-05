@@ -1,0 +1,15 @@
+[1m[33m[[36m2024-12-05T18:30:50.818Z[33m] [95mJohnny[33m: [34mHello from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:50.848Z[33m] [95mJohnny[33m: [34mAnother message(1) from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:51.185Z[33m] [95mJohnny[33m: [34mAnother message(2) from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:51.529Z[33m] [95mJohnny[33m: [34mAnother message(3) from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:51.847Z[33m] [95mBarbara[33m: [34mHello from Barbara[0m
+[1m[33m[[36m2024-12-05T18:30:52.010Z[33m] [95mJohnny[33m: [34mAnother message(4) from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:52.187Z[33m] [95mBarbara[33m: [34mAnother message(1) from Barbara[0m
+[1m[33m[[36m2024-12-05T18:30:52.371Z[33m] [95mDave[33m: [34mHello from Dave[0m
+[1m[33m[[36m2024-12-05T18:30:52.435Z[33m] [95mJohnny[33m: [34mAnother message(5) from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:52.478Z[33m] [95mBarbara[33m: [34mAnother message(2) from Barbara[0m
+[1m[33m[[36m2024-12-05T18:30:52.720Z[33m] [95mDave[33m: [34mAnother message(1) from Dave[0m
+[1m[33m[[36m2024-12-05T18:30:52.730Z[33m] [95mBarbara[33m: [34mAnother message(3) from Barbara[0m
+[1m[33m[[36m2024-12-05T18:30:52.780Z[33m] [95mJohnny[33m: [34mAnother message(6) from Johnny[0m
+[1m[33m[[36m2024-12-05T18:30:52.799Z[33m] [95mBarbara[33m: [34mAnother message(4) from Barbara[0m
+[1m[33m[[36m2024-12-05T18:30:52.939Z[33m] [95mBarbara[33m: [34mAnother message(5) from Barbara[0m
