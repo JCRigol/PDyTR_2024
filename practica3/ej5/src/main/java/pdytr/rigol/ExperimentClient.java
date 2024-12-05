@@ -47,7 +47,7 @@ public class ExperimentClient {
         for (int i = 0; i < threadCount*repCount; i++) {
             startMeasure = System.nanoTime();
             blockingStub.unaryExperiment(request);
-            elapsedTime = System.nanoTime() - startMeasure;
+            elapsedTime = (System.nanoTime() - startMeasure) / 2;
             responseTimes.add(elapsedTime);
 
             System.out.println("Unary (1_ST): " + elapsedTime);
@@ -74,7 +74,7 @@ public class ExperimentClient {
             TimeStamp response = blockingStub.unaryExperiment(
                     TimeStamp.newBuilder().setStartTime(System.nanoTime()).build()
             );
-            elapsedTime = System.nanoTime() - response.getStartTime();
+            elapsedTime = (System.nanoTime() - response.getStartTime()) / 2;
             responseTimes.add(elapsedTime);
 
             System.out.println("Unary (2_ST): " + elapsedTime);
@@ -90,7 +90,7 @@ public class ExperimentClient {
         StreamObserver<TimeStamp> requestObserver = asyncStub.asyncExperiment(new StreamObserver<TimeStamp>() {
             @Override
             public void onNext(TimeStamp timeStamp) {
-                long totalTime = System.nanoTime() - timeStamp.getStartTime();
+                long totalTime = (System.nanoTime() - timeStamp.getStartTime()) / 2;
 
                 synchronized (responseTimes) {
                     responseTimes.add(totalTime);
@@ -122,7 +122,7 @@ public class ExperimentClient {
             e.printStackTrace();
         }
 
-        latch.await();
+        finalLatch.await();
         requestObserver.onCompleted();
 
         // Storage
@@ -182,7 +182,7 @@ public class ExperimentClient {
 
                 long startMeasure = System.nanoTime();
                 Objects.requireNonNull(blockingStub).unaryExperiment(request);
-                long elapsedTime = System.nanoTime() - startMeasure;
+                long elapsedTime = (System.nanoTime() - startMeasure) / 2;
 
                 synchronized (responseTimes) {
                     responseTimes.add(elapsedTime);
@@ -199,7 +199,7 @@ public class ExperimentClient {
                 TimeStamp response = Objects.requireNonNull(blockingStub).unaryExperiment(
                         TimeStamp.newBuilder().setStartTime(System.nanoTime()).build()
                 );
-                long elapsedTime = System.nanoTime() - response.getStartTime();
+                long elapsedTime = (System.nanoTime() - response.getStartTime()) / 2;
 
                 synchronized (responseTimes) {
                     responseTimes.add(elapsedTime);
