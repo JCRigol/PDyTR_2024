@@ -1,12 +1,15 @@
 Server: Welcome!
-[2024-12-05T18:23:12.016Z] Johnny: Hello from Johnny
-[2024-12-05T18:23:12.016Z] Barbara: Hello from Barbara
-[2024-12-05T18:23:12.016Z] Dave: Hello from Dave
-[2024-12-05T18:23:12.016Z] CGPT: Hello from CGPT
-[2024-12-05T18:23:12.141Z] Dave: Another message(1) from Dave
-[2024-12-05T18:23:12.188Z] Dave: Another message(2) from Dave
-[2024-12-05T18:23:12.420Z] CGPT: Another message(1) from CGPT
-[2024-12-05T18:23:12.421Z] Barbara: Another message(1) from Barbara
-[2024-12-05T18:23:12.426Z] Johnny: Another message(1) from Johnny
-[2024-12-05T18:23:12.682Z] Dave: Another message(3) from Dave
+[2024-12-05T18:25:44.266Z] CGPT: Hello from CGPT
+[2024-12-05T18:25:44.266Z] Dave: Hello from Dave
+[2024-12-05T18:25:44.266Z] Johnny: Hello from Johnny
+[2024-12-05T18:25:44.266Z] Barbara: Hello from Barbara
+[2024-12-05T18:25:44.281Z] Barbara: Another message(1) from Barbara
+[2024-12-05T18:25:44.293Z] Dave: Another message(1) from Dave
+[2024-12-05T18:25:44.356Z] Johnny: Another message(1) from Johnny
+[2024-12-05T18:25:44.534Z] Johnny: Another message(2) from Johnny
+[2024-12-05T18:25:44.685Z] Barbara: Another message(2) from Barbara
+[2024-12-05T18:25:44.692Z] Dave: Another message(2) from Dave
+[2024-12-05T18:25:44.774Z] CGPT: Another message(1) from CGPT
+[2024-12-05T18:25:44.905Z] Johnny: Another message(3) from Johnny
+[2024-12-05T18:25:44.927Z] Johnny: Another message(4) from Johnny
 DESCONEXIÓN ESPONTÁNEA
