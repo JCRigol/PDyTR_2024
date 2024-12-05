@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="E4 Clients" type="CompoundRunConfigurationType">
-    <toRun name="CI E4" type="Application" />
-    <toRun name="CI E4 (1)" type="Application" />
-    <toRun name="CI E4 (2)" type="Application" />
-    <toRun name="CI E4 (3)" type="Application" />
-    <method v="2" />
-  </configuration>
-</component>
