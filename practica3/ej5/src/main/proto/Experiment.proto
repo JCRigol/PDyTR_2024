@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package pdytr.rigol;
+
+service ExperimentService {
+  rpc UnaryExperiment(TimeStamp) returns (TimeStamp);
+  rpc AsyncExperiment(stream TimeStamp) returns (stream TimeStamp);
+}
+
+message TimeStamp {
+  int64 startTime = 1;
+}
